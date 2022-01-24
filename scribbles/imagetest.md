@@ -10,3 +10,8 @@ images/shelves.jpeg
 
 ![The San Juan Mountains are beautiful!](/img/shelves.jpeg
  "San Juan Mountains")
+
+![The San Juan Mountains are beautiful!](
+ {{ '/img/shelves.jpeg' | url }} "San Juan Mountains")
+
+

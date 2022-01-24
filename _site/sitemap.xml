@@ -17,7 +17,22 @@
   </url>
   
   <url>
+    <loc>https://example.com/posts/mobtest/</loc>
+    <lastmod>2022-01-24</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/scribbles/fifthpost/</loc>
+    <lastmod>2022-01-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/scribbles/imagetest/</loc>
+    <lastmod>2022-01-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/scribbles/secondscribblefronttest/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
@@ -42,11 +57,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2022-01-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/second-tag/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
@@ -64,5 +74,10 @@
   <url>
     <loc>https://example.com/scribbles/</loc>
     <lastmod>2022-01-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/scribbles/scibblefronttest/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
 </urlset>
