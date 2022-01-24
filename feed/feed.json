@@ -25,7 +25,7 @@
       "id": "https://example.com/blog/scribbles/imagetest/",
       "url": "https://example.com/blog/scribbles/imagetest/",
       "title": "This is an image test.",
-      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>images/shelves.jpeg</p>\n<p><img src=\"https://example.com/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n",
+      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>images/shelves.jpeg</p>\n<p><img src=\"https://example.com/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n<p><img src=\"https://example.com/blog/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n",
       "date_published": "2022-01-24T00:00:00Z"
     },{
       "id": "https://example.com/blog/scribbles/fifthpost/",
