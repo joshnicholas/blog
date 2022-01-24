@@ -8,5 +8,5 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 images/shelves.jpeg
 
-![The San Juan Mountains are beautiful!](img/shelves.jpeg
+![The San Juan Mountains are beautiful!](/img/shelves.jpeg
  "San Juan Mountains")
