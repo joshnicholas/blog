@@ -1,13 +1,22 @@
 {% for post in postslist | reverse %}
 
-    <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-    {{ content | safe }}
+<h3><a href="{{ post.url | url }}" class="post-header">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
+{{ content | safe }}
 
 
 
-    <p>{{ post.templateContent | safe  }}</p>
+<p>{{ post.templateContent | safe  }}</p>
 
-<hr>
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+
+
 
 
 {% endfor %}
