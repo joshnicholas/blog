@@ -17,8 +17,18 @@
   </url>
   
   <url>
+    <loc>https://example.com/posts/sixthpost/</loc>
+    <lastmod>2018-09-01</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/scribbles/fifthpost/</loc>
+    <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
@@ -47,12 +57,12 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/another-tag/</loc>
+    <loc>https://example.com/tags/second-tag/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/second-tag/</loc>
+    <loc>https://example.com/tags/another-tag/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
@@ -63,6 +73,11 @@
   
   <url>
     <loc>https://example.com/tags/posts-with-two-tags/</loc>
+    <lastmod>2022-01-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/scribbles/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
 </urlset>

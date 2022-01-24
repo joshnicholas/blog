@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /scribbles/
+eleventyNavigation:
+  key: Scribbles
+  order: 2
+---
+
+<h1>Archive</h1>
+
+{% set postslist = collections.scribbles %}
+{% include "postslist.njk" %}

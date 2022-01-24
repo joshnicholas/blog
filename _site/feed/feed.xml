@@ -25,6 +25,15 @@
 	</entry>
 	
 	<entry>
+		<title>This is my sixth post.</title>
+		<link href="https://example.com/posts/sixthpost/"/>
+		<updated>2018-09-01T00:00:00Z</updated>
+		<id>https://example.com/posts/sixthpost/</id>
+		<content type="html">&lt;p&gt;Damn it looks live the way this is setup requires a bloody annoying template&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>This is my third post.</title>
 		<link href="https://example.com/posts/thirdpost/"/>
 		<updated>2018-08-24T00:00:00Z</updated>
