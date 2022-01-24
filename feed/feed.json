@@ -10,6 +10,12 @@
     "url": "https://example.com/about-me/"
   },
   "items": [{
+      "id": "https://example.com/blog/posts/mobtest/",
+      "url": "https://example.com/blog/posts/mobtest/",
+      "title": "This is my mobile test.",
+      "content_html": "<p>This is a test of posting from my phone using working copy.</p>\n<p>It's not actually too bad of a working environment, I must say? Although maybe I won't type directly into here.</p>\n",
+      "date_published": "2022-01-24T00:00:00Z"
+    },{
       "id": "https://example.com/blog/posts/fourthpost/",
       "url": "https://example.com/blog/posts/fourthpost/",
       "title": "This is my fourth post.",

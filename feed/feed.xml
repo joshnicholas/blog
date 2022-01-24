@@ -5,12 +5,22 @@
 	
 	<link href="https://example.com/blog/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
-	<updated>2018-09-30T00:00:00Z</updated>
+	<updated>2022-01-24T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Your Name Here</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title>This is my mobile test.</title>
+		<link href="https://example.com/blog/posts/mobtest/"/>
+		<updated>2022-01-24T00:00:00Z</updated>
+		<id>https://example.com/blog/posts/mobtest/</id>
+		<content type="html">&lt;p&gt;This is a test of posting from my phone using working copy.&lt;/p&gt;
+&lt;p&gt;It&#39;s not actually too bad of a working environment, I must say? Although maybe I won&#39;t type directly into here.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>This is my fourth post.</title>
