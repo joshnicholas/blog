@@ -70,4 +70,9 @@
     <loc>https://example.com/blog/tags/another-tag/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
+  
+  <url>
+    <loc>https://example.com/blog/scribbles/scibblefronttest/</loc>
+    <lastmod>2022-01-25</lastmod>
+  </url>
 </urlset>
