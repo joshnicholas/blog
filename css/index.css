@@ -15,38 +15,66 @@
 
 html,
 body {
-  padding: 0;
-  margin: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  /* padding: 0; */
+  /* margin: 0; */
   font-family: -apple-system, system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
 }
+
+
+
+a:link {
+  color: #86b300;
+}
+
+a:visited {
+  color: #86b300;
+}
+
+a:focus, a:hover {
+  border-bottom: 1px solid;
+}
+
+a:active {
+  color: #86b300;
+}
+
+.post-header {
+  color: #333;
+}
+
+/* a[href] {
+  color: #86b300;
+}
+a[href]:visited {
+  color: #86b300;
+} */
+
 p:last-child {
   margin-bottom: 0;
 }
 p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: 50em; /* 600px /16 */
 }
 p,
 .tmpl-post li {
   line-height: 1.45;
 }
-a[href] {
-  color: var(--blue);
-}
-a[href]:visited {
-  color: var(--navy);
-}
+
 main {
   padding: 1rem;
 }
 main :first-child {
   margin-top: 0;
 }
+
 header {
-  border-bottom: 1px dashed var(--lightgray);
+  /* border-bottom: 1px dashed var(--lightgray); */
 }
 header:after {
   content: "";
@@ -136,6 +164,7 @@ code {
   list-style: none;
   float: left;
   margin-left: 1em;
+  color:#333;
 }
 .nav-item {
   display: inline-block;
@@ -143,10 +172,11 @@ code {
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
+  color: #333;
 }
 .nav-item-active {
   font-weight: 700;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 /* Posts list */
@@ -182,6 +212,7 @@ code {
   text-underline-position: from-font;
   text-underline-offset: 0;
   text-decoration-thickness: 1px;
+  color: #333;
 }
 .postlist-item-active .postlist-link {
   font-weight: bold;
@@ -190,6 +221,7 @@ code {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
 }
+
 
 
 /* Tags */
@@ -209,9 +241,9 @@ code {
   text-decoration: none;
   line-height: 1.8;
 }
-a[href].post-tag,
+a[href].post-tag ,
 a[href].post-tag:visited {
-  color: inherit;
+  color: #86b300;
 }
 a[href].post-tag:hover,
 a[href].post-tag:focus {
@@ -237,13 +269,15 @@ a[href].post-tag:focus {
   font-style: normal;
   margin-left: .1em;
 }
-a[href].direct-link,
+a[href].direct-link {
+  color:#86b300;
+},
 a[href].direct-link:visited {
-  color: transparent;
+  color: #86b300;
 }
 a[href].direct-link:focus,
 a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
-  color: #aaa;
+  color: #86b300;
 }
