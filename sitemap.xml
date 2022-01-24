@@ -27,6 +27,11 @@
   </url>
   
   <url>
+    <loc>https://example.com/blog/scribbles/secondscribblefronttest/</loc>
+    <lastmod>2022-01-24</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/blog/about/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
