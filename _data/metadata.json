@@ -1,21 +1,20 @@
 {
-  "title": "YTest",
-  "url": "https://example.com/",
+  "title": "Josh Nicholas",
+  "url": "https://joshnicholas.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Josh is a journalist who codes and draws",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Josh is a journalist who codes and draws",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://joshnicholas.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://joshnicholas.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Josh Nicholas",
+    "url": "https://joshnicholas.com"
   }
 }
