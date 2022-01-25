@@ -1,0 +1,6 @@
+{
+    "tags": [
+      "words", "posts"
+    ],
+    "layout":"layouts/post.njk"
+  }

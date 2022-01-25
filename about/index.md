@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: About
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
+  key: about
   order: 4
 ---
 

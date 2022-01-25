@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 eleventyNavigation:
-  key: Home
+  key: home
   order: 1
 ---
 {% set maxPosts = collections.posts.length | min(3) %}
@@ -9,4 +9,3 @@ eleventyNavigation:
 {% set postslist = collections.posts | head(-10) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
-
