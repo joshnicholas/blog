@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/blog/posts/secondpost/</loc>
+    <loc>https://joshnicholas.com/blog/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/posts/sixthpost/</loc>
+    <loc>https://joshnicholas.com/blog/posts/sixthpost/</loc>
     <lastmod>2018-09-01</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/posts/fourthpost/</loc>
+    <loc>https://joshnicholas.com/blog/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/posts/mobtest/</loc>
+    <loc>https://joshnicholas.com/blog/posts/mobtest/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/scribbles/fifthpost/</loc>
+    <loc>https://joshnicholas.com/blog/scribbles/fifthpost/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/scribbles/imagetest/</loc>
+    <loc>https://joshnicholas.com/blog/scribbles/imagetest/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/scribbles/secondscribblefronttest/</loc>
+    <loc>https://joshnicholas.com/blog/scribbles/secondscribblefronttest/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/about/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <loc>https://joshnicholas.com/blog/scribbles/scibblefronttest/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/posts/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <loc>https://joshnicholas.com/blog/about/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <loc>https://joshnicholas.com/blog/posts/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/page-list/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <loc>https://joshnicholas.com/blog/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/scribbles/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <loc>https://joshnicholas.com/blog/page-list/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/tags/second-tag/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <loc>https://joshnicholas.com/blog/scribbles/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/tags/number-2/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <loc>https://joshnicholas.com/blog/tags/second-tag/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/tags/another-tag/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <loc>https://joshnicholas.com/blog/tags/number-2/</loc>
+    <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/scribbles/scibblefronttest/</loc>
+    <loc>https://joshnicholas.com/blog/tags/another-tag/</loc>
     <lastmod>2022-01-25</lastmod>
   </url>
 </urlset>
