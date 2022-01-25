@@ -57,6 +57,24 @@
       "title": "This is my second post.",
       "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Section Header</p>\n<p><a href=\"https://joshnicholas.com/posts/firstpost/\">First post</a><br />\n<a href=\"https://joshnicholas.com/posts/thirdpost/\">Third post</a></p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
       "date_published": "2018-07-04T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/photos/2018-01-04/",
+      "url": "https://joshnicholas.com/photos/2018-01-04/",
+      "title": "",
+      "content_html": "<pre><code>                ---\n                title: Inside St Peters 🇮🇹 📷\n                date: 2018-01-04\n                ---\n\n                &lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;{ '/img/92InsideStPeters------.jpg' | url }&quot; class=&quot;kg-image&quot; alt loading=&quot;lazy&quot; width=&quot;384&quot; height=&quot;576&quot;&gt;&lt;/figure&gt;\n</code></pre>\n",
+      "date_published": "2018-01-04T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/scribbles/testers1/",
+      "url": "https://joshnicholas.com/scribbles/testers1/",
+      "title": "Venice infrastructure 🇮🇹 📷",
+      "content_html": "<html><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/img/93Veniceinfrastructure------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/scribbles/testers1/%7B%20'/img/94Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></html>\n",
+      "date_published": "2017-07-21T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/photos/2017-07-21/",
+      "url": "https://joshnicholas.com/photos/2017-07-21/",
+      "title": "",
+      "content_html": "<pre><code>                ---\n                title: Venice infrastructure 🇮🇹 📷\n                date: 2017-07-21\n                ---\n\n                &lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;{ '/img/93Veniceinfrastructure------.jpg' | url }&quot; class=&quot;kg-image&quot; alt loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot;&gt;&lt;/figure&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;{ '/img/94Veniceinfrastructure------.jpg' | url }&quot; class=&quot;kg-image&quot; alt loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot;&gt;&lt;/figure&gt;\n</code></pre>\n",
+      "date_published": "2017-07-21T00:00:00Z"
     }
   ]
 }

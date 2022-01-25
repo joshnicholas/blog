@@ -1,0 +1,10 @@
+---
+layout: layouts/home.njk
+permalink: /photos/
+eleventyNavigation:
+  key: photos
+  order: 2
+---
+
+{% set postslist = collections.words %}
+{% include "postslist.njk" %}

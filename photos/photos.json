@@ -1,0 +1,7 @@
+{
+    "tags": [
+      "photos", "posts"
+    ],
+    "layout":"layouts/post.njk"
+  }
+  

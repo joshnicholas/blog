@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://joshnicholas.com/photos/2017-07-21/</loc>
+    <lastmod>2017-07-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/scribbles/testers1/</loc>
+    <lastmod>2017-07-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2018-01-04/</loc>
+    <lastmod>2018-01-04</lastmod>
+  </url>
+  
+  <url>
     <loc>https://joshnicholas.com/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
@@ -67,11 +82,6 @@
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/tags/words/</loc>
-    <lastmod>2022-01-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://joshnicholas.com/scribbles/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
@@ -83,6 +93,11 @@
   
   <url>
     <loc>https://joshnicholas.com/words/</loc>
+    <lastmod>2022-01-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/</loc>
     <lastmod>2022-01-25</lastmod>
   </url>
 </urlset>
