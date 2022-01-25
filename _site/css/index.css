@@ -38,14 +38,20 @@ body {
     width: 99%;
   }
   img {
-    max-width: 100%;
+    /* max-width: 100%;
+     */
+
+     width: 100%;
+     height: auto;
   }
 
 
 }
 
 img {
-  max-width: 95%;
+  /* max-width: 95%; */
+  width: 100%;
+  height: auto;
 }
 
 .post-header {
