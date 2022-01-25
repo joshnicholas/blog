@@ -19,8 +19,10 @@
       <ul class="nav">
       <br>
       {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li> | 
+        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li> |
       {%- endfor %}
+  <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="https://github.com/joshnicholas/" target="_blank" rel=”noreferrer”>github</a></li>
+
       </ul>
     </header>
 

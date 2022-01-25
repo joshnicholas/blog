@@ -241,8 +241,12 @@ code {
 
 /* Nav */
 .nav {
-  padding: 0;
-  width: 100%
+/* display: flex; */
+justify-content: center;
+  /* padding: 0; */
+  /* margin-left: auto;
+  margin-right: auto; */
+  width: 75%
   list-style: none;
   /* float: left; */
   /* margin-left: 1em; */
@@ -252,6 +256,7 @@ code {
 .nav-item {
   display: inline-block;
   margin-right: 0.2em;
+  margin-left: 0.2em;
   font-size: 0.9em;
 }
 .nav-item a[href]:not(:hover) {
@@ -265,7 +270,8 @@ code {
 }
 .nav-item-active {
   font-weight: 700;
-  color: #333
+  /* color: #333; */
+  color: #86b300;
   /* text-decoration: underline; */
 }
 
