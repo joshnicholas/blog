@@ -6,6 +6,12 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+  --font-primary: 'Fira Sans', sans-serif;
+}
+
+hr {
+  border-top: 0.3px solid #ccc;
+  opacity: 0.5;
 }
 
 /* Global stylesheet */
@@ -17,15 +23,21 @@ html,
 body {
   /* padding-left: 1rem;
   padding-right: 1rem; */
+  /* font-size: 16; */
   margin: auto;
   width: 85%;
   /* padding: 0; */
   /* margin: 0; */
-  font-family: -apple-system, system-ui, sans-serif;
+  /* font-family: -apple-system, system-ui, sans-serif; */
   color: var(--darkgray);
   background-color: var(--white);
 }
 
+@media only screen and (max-width: 768px) {
+  body {
+    width: 95%;
+  }
+}
 
 img {
   width: 100%;
@@ -33,22 +45,39 @@ img {
 
 .post-header { 
   text-decoration: none;
-  color:#333;}
+  /* color:#333; */
+  color: #979797;
+}
 
 a:link {
-  color: #86b300;
+  color: #333;
+  /* color: #000000; */
+  /* color: #86b300; */
+  /* color: #979797; */
+  /* border-bottom: 1px solid; */
+  text-decoration: underline;
+  text-decoration-color: #86b300;
 }
 
 a:visited {
-  color: #86b300;
+  /* color: #000000; */
+  /* color: #86b300; */
+  color: #333;
+  /* color: #979797; */
+  /* border-bottom: 1px solid; */
+  text-decoration: underline;
+  text-decoration-color: #86b300;
 }
 
 a:focus, a:hover {
-  border-bottom: 1px solid;
+  /* color: #979797; */
+  color: #86b300;
+  /* border-bottom: 1px solid; */
 }
 
 a:active {
   color: #86b300;
+  /* color: #979797; */
 }
 
 
@@ -56,10 +85,27 @@ a:active {
   text-decoration: none;
   color:#333;} */
 
-h3.a:visited{
+h1 a:visited{
+  text-decoration: none;
+  color: #979797;
+/* color:#333; */
+/* border-bottom: 1px solid;
+text-decoration-color: #86b300; */
 
-color:#333;
+}
 
+h1 a:link{
+  text-decoration: none;
+  color: #979797;
+  /* color:#333; */
+  /* border-bottom: 1px solid;
+  text-decoration-color: #86b300; */
+  
+  }
+
+h1 {
+  text-decoration: none;
+  color: #979797;
 }
 
 /* p {
@@ -97,6 +143,7 @@ main :first-child {
 header {
   /* border-bottom: 1px dashed var(--lightgray); */
 }
+
 header:after {
   content: "";
   display: table;
@@ -112,11 +159,11 @@ table th {
 
 pre,
 code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  /* font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace; */
   line-height: 1.5;
 }
 pre {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.375;
   direction: ltr;
   text-align: center;
@@ -189,10 +236,12 @@ code {
   float: left;
   margin-left: 1em;
   color:#333;
+  /* color: #979797; */
 }
 .nav-item {
   display: inline-block;
   margin-right: 1em;
+  /* font-size: 20; */
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
@@ -200,10 +249,12 @@ code {
 }
 .nav-item a[href]:hover {
   text-decoration: none;
+  /* font-size: 20; */
   color: #333;
 }
 .nav-item-active {
   font-weight: 700;
+  color: #333
   /* text-decoration: underline; */
 }
 
@@ -228,7 +279,8 @@ code {
 }
 .postlist-date,
 .postlist-item:before {
-  font-size: 0.8125em; /* 13px /16 */
+  /* font-size: 0.8125em; 13px /16 */
+  font-size: 1.5em;
   color: var(--darkgray);
 }
 .postlist-date {
@@ -292,7 +344,7 @@ a[href].post-tag:focus {
 }
 
 /* Direct Links / Markdown Headers */
-.direct-link {
+/* .direct-link {
   font-family: sans-serif;
   text-decoration: none;
   font-style: normal;
@@ -310,4 +362,4 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #86b300;
-}
+} */
