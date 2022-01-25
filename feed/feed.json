@@ -60,8 +60,8 @@
     },{
       "id": "https://joshnicholas.com/blog/photos/2018-01-04/",
       "url": "https://joshnicholas.com/blog/photos/2018-01-04/",
-      "title": "",
-      "content_html": "<pre><code>                ---\n                title: Inside St Peters 🇮🇹 📷\n                date: 2018-01-04\n                ---\n\n                &lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;{ '/img/92InsideStPeters------.jpg' | url }&quot; class=&quot;kg-image&quot; alt loading=&quot;lazy&quot; width=&quot;384&quot; height=&quot;576&quot;&gt;&lt;/figure&gt;\n</code></pre>\n",
+      "title": "Inside St Peters 🇮🇹 📷",
+      "content_html": "<figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/img/92InsideStPeters------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"384\" height=\"576\" /></figure>",
       "date_published": "2018-01-04T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/scribbles/testers1/",
@@ -72,8 +72,8 @@
     },{
       "id": "https://joshnicholas.com/blog/photos/2017-07-21/",
       "url": "https://joshnicholas.com/blog/photos/2017-07-21/",
-      "title": "",
-      "content_html": "<pre><code>                ---\n                title: Venice infrastructure 🇮🇹 📷\n                date: 2017-07-21\n                ---\n\n                &lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;{ '/img/93Veniceinfrastructure------.jpg' | url }&quot; class=&quot;kg-image&quot; alt loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot;&gt;&lt;/figure&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;{ '/img/94Veniceinfrastructure------.jpg' | url }&quot; class=&quot;kg-image&quot; alt loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot;&gt;&lt;/figure&gt;\n</code></pre>\n",
+      "title": "Venice infrastructure 🇮🇹 📷",
+      "content_html": "<figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/img/93Veniceinfrastructure------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/img/94Veniceinfrastructure------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure>",
       "date_published": "2017-07-21T00:00:00Z"
     }
   ]
