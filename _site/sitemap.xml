@@ -2,122 +2,537 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://joshnicholas.com/blog/photos/2017-07-21/</loc>
+    <loc>https://joshnicholas.com/photos/2017-07-21/</loc>
     <lastmod>2017-07-21</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/scribbles/testers1/</loc>
+    <loc>https://joshnicholas.com/scribbles/testers1/</loc>
     <lastmod>2017-07-21</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/photos/2018-01-04/</loc>
+    <loc>https://joshnicholas.com/photos/2018-01-04/</loc>
     <lastmod>2018-01-04</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/photos/2018-01-16/</loc>
+    <loc>https://joshnicholas.com/photos/2018-01-16/</loc>
     <lastmod>2018-01-16</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/posts/secondpost/</loc>
+    <loc>https://joshnicholas.com/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/photos/2018-07-08/</loc>
+    <loc>https://joshnicholas.com/photos/2018-07-08/</loc>
     <lastmod>2018-07-08</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/photos/2018-08-18/</loc>
+    <loc>https://joshnicholas.com/photos/2018-08-18/</loc>
     <lastmod>2018-08-18</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/posts/sixthpost/</loc>
+    <loc>https://joshnicholas.com/posts/sixthpost/</loc>
     <lastmod>2018-09-01</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/posts/fourthpost/</loc>
+    <loc>https://joshnicholas.com/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/photos/2018-11-23/</loc>
+    <loc>https://joshnicholas.com/photos/2018-11-23/</loc>
     <lastmod>2018-11-23</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/posts/mobtest/</loc>
+    <loc>https://joshnicholas.com/photos/2019-04-14/</loc>
+    <lastmod>2019-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-15/</loc>
+    <lastmod>2019-04-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-17/</loc>
+    <lastmod>2019-04-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-18/</loc>
+    <lastmod>2019-04-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-19/</loc>
+    <lastmod>2019-04-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-20/</loc>
+    <lastmod>2019-04-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-21/</loc>
+    <lastmod>2019-04-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-22/</loc>
+    <lastmod>2019-04-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-23/</loc>
+    <lastmod>2019-04-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-24/</loc>
+    <lastmod>2019-04-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-25/</loc>
+    <lastmod>2019-04-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-26/</loc>
+    <lastmod>2019-04-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-27/</loc>
+    <lastmod>2019-04-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-28/</loc>
+    <lastmod>2019-04-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-04-29/</loc>
+    <lastmod>2019-04-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-01/</loc>
+    <lastmod>2019-05-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-03/</loc>
+    <lastmod>2019-05-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-04/</loc>
+    <lastmod>2019-05-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-05/</loc>
+    <lastmod>2019-05-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-06/</loc>
+    <lastmod>2019-05-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-07/</loc>
+    <lastmod>2019-05-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-08/</loc>
+    <lastmod>2019-05-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-09/</loc>
+    <lastmod>2019-05-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-11/</loc>
+    <lastmod>2019-05-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-12/</loc>
+    <lastmod>2019-05-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-13/</loc>
+    <lastmod>2019-05-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-14/</loc>
+    <lastmod>2019-05-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-17/</loc>
+    <lastmod>2019-05-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-18/</loc>
+    <lastmod>2019-05-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-19/</loc>
+    <lastmod>2019-05-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-20/</loc>
+    <lastmod>2019-05-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-21/</loc>
+    <lastmod>2019-05-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-23/</loc>
+    <lastmod>2019-05-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-24/</loc>
+    <lastmod>2019-05-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-26/</loc>
+    <lastmod>2019-05-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-27/</loc>
+    <lastmod>2019-05-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-28/</loc>
+    <lastmod>2019-05-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-29/</loc>
+    <lastmod>2019-05-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-30/</loc>
+    <lastmod>2019-05-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-05-31/</loc>
+    <lastmod>2019-05-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-01/</loc>
+    <lastmod>2019-06-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-02/</loc>
+    <lastmod>2019-06-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-03/</loc>
+    <lastmod>2019-06-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-04/</loc>
+    <lastmod>2019-06-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-05/</loc>
+    <lastmod>2019-06-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-06/</loc>
+    <lastmod>2019-06-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-08/</loc>
+    <lastmod>2019-06-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-09/</loc>
+    <lastmod>2019-06-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-10/</loc>
+    <lastmod>2019-06-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-11/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-14/</loc>
+    <lastmod>2019-06-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-15/</loc>
+    <lastmod>2019-06-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-16/</loc>
+    <lastmod>2019-06-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-17/</loc>
+    <lastmod>2019-06-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-18/</loc>
+    <lastmod>2019-06-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-19/</loc>
+    <lastmod>2019-06-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-20/</loc>
+    <lastmod>2019-06-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-21/</loc>
+    <lastmod>2019-06-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-22/</loc>
+    <lastmod>2019-06-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-23/</loc>
+    <lastmod>2019-06-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-24/</loc>
+    <lastmod>2019-06-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-25/</loc>
+    <lastmod>2019-06-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-27/</loc>
+    <lastmod>2019-06-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-06-28/</loc>
+    <lastmod>2019-06-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-02/</loc>
+    <lastmod>2019-10-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-03/</loc>
+    <lastmod>2019-10-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-04/</loc>
+    <lastmod>2019-10-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-05/</loc>
+    <lastmod>2019-10-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-06/</loc>
+    <lastmod>2019-10-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-07/</loc>
+    <lastmod>2019-10-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-09/</loc>
+    <lastmod>2019-10-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-10/</loc>
+    <lastmod>2019-10-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2019-10-13/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2020-04-14/</loc>
+    <lastmod>2020-04-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2020-04-23/</loc>
+    <lastmod>2020-04-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2020-05-08/</loc>
+    <lastmod>2020-05-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2020-05-16/</loc>
+    <lastmod>2020-05-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2020-05-19/</loc>
+    <lastmod>2020-05-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2020-05-21/</loc>
+    <lastmod>2020-05-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2020-06-21/</loc>
+    <lastmod>2020-06-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2021-12-11/</loc>
+    <lastmod>2021-12-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2021-12-23/</loc>
+    <lastmod>2021-12-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/photos/2022-01-15/</loc>
+    <lastmod>2022-01-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/posts/mobtest/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/scribbles/imagetest/</loc>
+    <loc>https://joshnicholas.com/scribbles/imagetest/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/scribbles/secondscribblefronttest/</loc>
+    <loc>https://joshnicholas.com/scribbles/secondscribblefronttest/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/words/fifthpost/</loc>
+    <loc>https://joshnicholas.com/words/fifthpost/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/about/</loc>
+    <loc>https://joshnicholas.com/about/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/</loc>
+    <loc>https://joshnicholas.com/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/page-list/</loc>
+    <loc>https://joshnicholas.com/page-list/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/tags/second-tag/</loc>
+    <loc>https://joshnicholas.com/tags/second-tag/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/tags/another-tag/</loc>
+    <loc>https://joshnicholas.com/tags/another-tag/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/tags/number-2/</loc>
+    <loc>https://joshnicholas.com/tags/number-2/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/scribbles/</loc>
+    <loc>https://joshnicholas.com/scribbles/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/scribbles/scibblefronttest/</loc>
+    <loc>https://joshnicholas.com/scribbles/scibblefronttest/</loc>
     <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/words/</loc>
+    <loc>https://joshnicholas.com/words/</loc>
     <lastmod>2022-01-25</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/photos/</loc>
+    <loc>https://joshnicholas.com/photos/</loc>
     <lastmod>2022-01-25</lastmod>
   </url>
 </urlset>

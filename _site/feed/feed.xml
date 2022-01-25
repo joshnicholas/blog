@@ -3,7 +3,7 @@
 	<title>Josh Nicholas</title>
 	<subtitle>Josh is a journalist who codes and draws</subtitle>
 	
-	<link href="https://joshnicholas.com/blog/feed/feed.xml" rel="self"/>
+	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
 	<updated>2022-01-25T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>This is my scribble front test.</title>
-		<link href="https://joshnicholas.com/blog/scribbles/scibblefronttest/"/>
+		<link href="https://joshnicholas.com/scribbles/scibblefronttest/"/>
 		<updated>2022-01-25T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/scribbles/scibblefronttest/</id>
+		<id>https://joshnicholas.com/scribbles/scibblefronttest/</id>
 		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
 &lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
 &lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
@@ -25,9 +25,9 @@
 	
 	<entry>
 		<title>This is my fifth post.</title>
-		<link href="https://joshnicholas.com/blog/words/fifthpost/"/>
+		<link href="https://joshnicholas.com/words/fifthpost/"/>
 		<updated>2022-01-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/words/fifthpost/</id>
+		<id>https://joshnicholas.com/words/fifthpost/</id>
 		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
 &lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
 &lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
@@ -36,48 +36,790 @@
 	
 	<entry>
 		<title>This is my second scribble front test.</title>
-		<link href="https://joshnicholas.com/blog/scribbles/secondscribblefronttest/"/>
+		<link href="https://joshnicholas.com/scribbles/secondscribblefronttest/"/>
 		<updated>2022-01-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/scribbles/secondscribblefronttest/</id>
+		<id>https://joshnicholas.com/scribbles/secondscribblefronttest/</id>
 		<content type="html">&lt;p&gt;This time I&#39;m going to try adding them all.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>This is an image test.</title>
-		<link href="https://joshnicholas.com/blog/scribbles/imagetest/"/>
+		<link href="https://joshnicholas.com/scribbles/imagetest/"/>
 		<updated>2022-01-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/scribbles/imagetest/</id>
+		<id>https://joshnicholas.com/scribbles/imagetest/</id>
 		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
 &lt;p&gt;images/shelves.jpeg&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/shelves.jpeg&quot; alt=&quot;The San Juan Mountains are beautiful!&quot; title=&quot;San Juan Mountains&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/shelves.jpeg&quot; alt=&quot;The San Juan Mountains are beautiful!&quot; title=&quot;San Juan Mountains&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/shelves.jpeg&quot; alt=&quot;The San Juan Mountains are beautiful!&quot; title=&quot;San Juan Mountains&quot; /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>This is my mobile test.</title>
-		<link href="https://joshnicholas.com/blog/posts/mobtest/"/>
+		<link href="https://joshnicholas.com/posts/mobtest/"/>
 		<updated>2022-01-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/posts/mobtest/</id>
+		<id>https://joshnicholas.com/posts/mobtest/</id>
 		<content type="html">&lt;p&gt;This is a test of posting from my phone using working copy.&lt;/p&gt;
 &lt;p&gt;It&#39;s not actually too bad of a working environment, I must say? Although maybe I won&#39;t type directly into here.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
+		<title>Negombo fishing</title>
+		<link href="https://joshnicholas.com/photos/2022-01-15/"/>
+		<updated>2022-01-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2022-01-15/</id>
+		<content type="html">&lt;p&gt;Not bad for an iPhone snap. The best camera is the one with you etc. etc.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>At the temple</title>
+		<link href="https://joshnicholas.com/photos/2021-12-23/"/>
+		<updated>2021-12-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2021-12-23/</id>
+		<content type="html">&lt;p&gt;First decent photo I’ve taken at the Temple of the Tooth in Kandy.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Temple flowers</title>
+		<link href="https://joshnicholas.com/photos/2021-12-11/"/>
+		<updated>2021-12-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2021-12-11/</id>
+		<content type="html">&lt;p&gt;Just outside the temple gates&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Surfers are returning, nature is healing</title>
+		<link href="https://joshnicholas.com/photos/2020-06-21/"/>
+		<updated>2020-06-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2020-06-21/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/0Surfersarereturning-natureishealing.jpg&quot; alt=&quot;&#39;Surfers are returning, nature is healing&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Gulley</title>
+		<link href="https://joshnicholas.com/photos/2020-05-21/"/>
+		<updated>2020-05-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2020-05-21/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/1Gulley.jpg&quot; alt=&quot;&#39;Gulley&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Distance</title>
+		<link href="https://joshnicholas.com/photos/2020-05-19/"/>
+		<updated>2020-05-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2020-05-19/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/2Distance.jpg&quot; alt=&quot;&#39;Distance&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>First time back at the market</title>
+		<link href="https://joshnicholas.com/photos/2020-05-16/"/>
+		<updated>2020-05-16T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2020-05-16/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/3Firsttimebackatthemarket.jpg&quot; alt=&quot;&#39;First time back at the market&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Paddlin</title>
+		<link href="https://joshnicholas.com/photos/2020-05-08/"/>
+		<updated>2020-05-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2020-05-08/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>Lockdown games</title>
+		<link href="https://joshnicholas.com/photos/2020-04-23/"/>
+		<updated>2020-04-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2020-04-23/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/5Lockdowngames.jpg&quot; alt=&quot;&#39;Lockdown games&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Booots</title>
+		<link href="https://joshnicholas.com/photos/2020-04-14/"/>
+		<updated>2020-04-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2020-04-14/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/6Booots.jpg&quot; alt=&quot;&#39;Booots&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Tel Aviv streets</title>
+		<link href="https://joshnicholas.com/photos/2019-10-13/"/>
+		<updated>2019-10-13T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-13/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/8TelAvivstreets.jpg&quot; alt=&quot;&#39;Tel Aviv streets&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Fishing and Jaffa</title>
+		<link href="https://joshnicholas.com/photos/2019-10-10/"/>
+		<updated>2019-10-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-10/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/9FishingandJaffa.jpg&quot; alt=&quot;&#39;Fishing and Jaffa&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Tel Aviv fishin</title>
+		<link href="https://joshnicholas.com/photos/2019-10-09/"/>
+		<updated>2019-10-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-09/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/10TelAvivfishin.jpg&quot; alt=&quot;&#39;Tel Aviv fishin&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Welcome to Jerash</title>
+		<link href="https://joshnicholas.com/photos/2019-10-07/"/>
+		<updated>2019-10-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-07/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/11WelcometoJerash.jpg&quot; alt=&quot;&#39;Welcome to Jerash&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Carting through Petra</title>
+		<link href="https://joshnicholas.com/photos/2019-10-06/"/>
+		<updated>2019-10-06T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-06/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/12CartingthroughPetra.jpg&quot; alt=&quot;&#39;Carting through Petra&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Riding through Petra</title>
+		<link href="https://joshnicholas.com/photos/2019-10-05/"/>
+		<updated>2019-10-05T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-05/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/13RidingthroughPetra.jpg&quot; alt=&quot;&#39;Riding through Petra&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Deeep in the Petra canyons 🇯🇴</title>
+		<link href="https://joshnicholas.com/photos/2019-10-04/"/>
+		<updated>2019-10-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-04/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/14DeeepinthePetracanyons----.jpg&quot; alt=&quot;&#39;Deeep in the Petra canyons 🇯🇴&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Atop Petra 🇯🇴</title>
+		<link href="https://joshnicholas.com/photos/2019-10-03/"/>
+		<updated>2019-10-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-03/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/15AtopPetra----.jpg&quot; alt=&quot;&#39;Atop Petra 🇯🇴&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>In the Jordan desert 🇯🇴</title>
+		<link href="https://joshnicholas.com/photos/2019-10-02/"/>
+		<updated>2019-10-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-10-02/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/16IntheJordandesert----.jpg&quot; alt=&quot;&#39;In the Jordan desert 🇯🇴&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>I always wondered how they put the sand in the bottles to make pictures 🇵🇸 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-28/"/>
+		<updated>2019-06-28T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-28/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/18Ialwayswonderedhowtheyputthesandinthebottlestomakepictures------.jpg&quot; alt=&quot;&#39;I always wondered how they put the sand in the bottles to make pictures 🇵🇸 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Scooting along the Jerusalem old city 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-27/"/>
+		<updated>2019-06-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-27/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/19ScootingalongtheJerusalemoldcity------.jpg&quot; alt=&quot;&#39;Scooting along the Jerusalem old city 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Snoooooze in the old city 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-25/"/>
+		<updated>2019-06-25T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-25/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/snoooooze.jpg&quot; alt=&quot;&#39;Snoooooze in the old city 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>I could go a chess set tbh 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-24/"/>
+		<updated>2019-06-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-24/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/21Icouldgoachesssettbh------.jpg&quot; alt=&quot;&#39;I could go a chess set tbh 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Soooooo much carrots in the old city 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-23/"/>
+		<updated>2019-06-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-23/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/22Soooooomuchcarrotsintheoldcity-------1.jpg&quot; alt=&quot;&#39;Soooooo much carrots in the old city 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Jerusalem old city tunnels 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-22/"/>
+		<updated>2019-06-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-22/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/23Jerusalemoldcitytunnels------.jpg&quot; alt=&quot;&#39;Jerusalem old city tunnels 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Damascus gate bubbles 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-21/"/>
+		<updated>2019-06-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-21/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/24Damascusgatebubbles------.jpg&quot; alt=&quot;&#39;Damascus gate bubbles 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>In the middle</title>
+		<link href="https://joshnicholas.com/photos/2019-06-20/"/>
+		<updated>2019-06-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-20/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/25Inthemiddle.jpg&quot; alt=&quot;&#39;In the middle&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Anuradhapura temple ruins 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-19/"/>
+		<updated>2019-06-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-19/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/26Anuradhapuratempleruins------.jpg&quot; alt=&quot;&#39;Anuradhapura temple ruins 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Anuradhapura palace from afar 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-18/"/>
+		<updated>2019-06-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-18/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/27Anuradhapurapalacefromafar------.jpg&quot; alt=&quot;&#39;Anuradhapura palace from afar 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Welcome to the ancient city of Anuradhapura 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-17/"/>
+		<updated>2019-06-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-17/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/28WelcometotheancientcityofAnuradhapura------.jpg&quot; alt=&quot;&#39;Welcome to the ancient city of Anuradhapura 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Under the dagoba 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-16/"/>
+		<updated>2019-06-16T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-16/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/29Underthedagoba------.jpg&quot; alt=&quot;&#39;Under the dagoba 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Sigiriya palace ruins 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-15/"/>
+		<updated>2019-06-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-15/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/30Sigiriyapalaceruins------.jpg&quot; alt=&quot;&#39;Sigiriya palace ruins 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Climbing atop Sigiriya 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-14/"/>
+		<updated>2019-06-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-14/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/31ClimbingatopSigiriya------.jpg&quot; alt=&quot;&#39;Climbing atop Sigiriya 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Entrance to Sigiriya rock palace 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-11/"/>
+		<updated>2019-06-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-11/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/32EntrancetoSigiriyarockpalace------.jpg&quot; alt=&quot;&#39;Entrance to Sigiriya rock palace 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Bye Jaffna 👋🏽 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-10/"/>
+		<updated>2019-06-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-10/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/34ByeJaffna----------.jpg&quot; alt=&quot;&#39;Bye Jaffna 👋🏽 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Bus conductor yo 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-09/"/>
+		<updated>2019-06-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-09/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/35Busconductoryo------.jpg&quot; alt=&quot;&#39;Bus conductor yo 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Bus driver man 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-08/"/>
+		<updated>2019-06-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-08/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/36Busdriverman------.jpg&quot; alt=&quot;&#39;Bus driver man 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Jaffna streets 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-06/"/>
+		<updated>2019-06-06T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-06/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/37Jaffnastreets------.jpg&quot; alt=&quot;&#39;Jaffna streets 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Baby elephant doing swimming zooms at Pinnawala elephant orphanage 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-05/"/>
+		<updated>2019-06-05T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-05/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/39BabyelephantdoingswimmingzoomsatPinnawalaelephantorphanage------.jpg&quot; alt=&quot;&#39;Baby elephant doing swimming zooms at Pinnawala elephant orphanage 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>On the way to Jaffna 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-04/"/>
+		<updated>2019-06-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-04/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/40OnthewaytoJaffna------.jpg&quot; alt=&quot;&#39;On the way to Jaffna 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Jaffna boats 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-03/"/>
+		<updated>2019-06-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-03/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/41Jaffnaboats-------1.jpg&quot; alt=&quot;&#39;Jaffna boats 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Harvesting prawns in Jafffna 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-02/"/>
+		<updated>2019-06-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-02/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/42HarvestingprawnsinJafffna------.jpg&quot; alt=&quot;&#39;Harvesting prawns in Jafffna 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Pretty strong winds on the West Coast 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-06-01/"/>
+		<updated>2019-06-01T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-06-01/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/43PrettystrongwindsontheWestCoast------.jpg&quot; alt=&quot;&#39;Pretty strong winds on the West Coast 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Temple dog 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-31/"/>
+		<updated>2019-05-31T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-31/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/44Templedog------.jpg&quot; alt=&quot;&#39;Temple dog 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Interlude 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-30/"/>
+		<updated>2019-05-30T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-30/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/45Interlude------.jpg&quot; alt=&quot;&#39;Interlude 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Found this old pic I took at a market in Jaffna. I appear to have a thing for scales 😀 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-29/"/>
+		<updated>2019-05-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-29/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>See ya 👋🏽 Kandy 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-28/"/>
+		<updated>2019-05-28T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-28/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/47Seeya----Kandy------.jpg&quot; alt=&quot;&#39;See ya 👋🏽 Kandy 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>I’m really fascinated by ye olde scales @ Kandy market 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-27/"/>
+		<updated>2019-05-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-27/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>Lotsa chillies @ Kandy market 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-26/"/>
+		<updated>2019-05-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-26/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>Grandpa buying carrots 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-24/"/>
+		<updated>2019-05-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-24/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/50Grandpabuyingcarrots------.jpg&quot; alt=&quot;&#39;Grandpa buying carrots 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Peace amidst the market chaos 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-23/"/>
+		<updated>2019-05-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-23/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/51Peaceamidstthemarketchaos------.jpg&quot; alt=&quot;&#39;Peace amidst the market chaos 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Stepping into the Kandy vegetable market 🇱🇰📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-21/"/>
+		<updated>2019-05-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-21/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/52SteppingintotheKandyvegetablemarket------.jpg&quot; alt=&quot;&#39;Stepping into the Kandy vegetable market 🇱🇰📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Vesak with the lights on 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-20/"/>
+		<updated>2019-05-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-20/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/53Vesakwiththelightson------.jpg&quot; alt=&quot;&#39;Vesak with the lights on 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Stocking up for Vesak 📷 🇱🇰</title>
+		<link href="https://joshnicholas.com/photos/2019-05-19/"/>
+		<updated>2019-05-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-19/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/55StockingupforVesak------.jpg&quot; alt=&quot;&#39;Stocking up for Vesak 📷 🇱🇰&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Getting ready for Vesak in Kandy 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-18/"/>
+		<updated>2019-05-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-18/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/56GettingreadyforVesakinKandy------.jpg&quot; alt=&quot;&#39;Getting ready for Vesak in Kandy 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Making bricks in Kandy 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-17/"/>
+		<updated>2019-05-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-17/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/57MakingbricksinKandy------.jpg&quot; alt=&quot;&#39;Making bricks in Kandy 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Dehiwala carryin‘ 📷 🇱🇰</title>
+		<link href="https://joshnicholas.com/photos/2019-05-14/"/>
+		<updated>2019-05-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-14/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/58Dehiwalacarryin-------.jpg&quot; alt=&quot;&#39;Dehiwala carryin‘ 📷 🇱🇰&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Tel Aviv streets 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-13/"/>
+		<updated>2019-05-13T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-13/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/59TelAvivstreets------.jpg&quot; alt=&quot;&#39;Tel Aviv streets 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Dehiwala walkin 📷 🇱🇰</title>
+		<link href="https://joshnicholas.com/photos/2019-05-12/"/>
+		<updated>2019-05-12T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-12/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/60Dehiwalawalkin------.jpg&quot; alt=&quot;&#39;Dehiwala walkin 📷 🇱🇰&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Derailment in a Colombo park 🇱🇰📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-11/"/>
+		<updated>2019-05-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-11/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/61DerailmentinaColombopark------.jpg&quot; alt=&quot;&#39;Derailment in a Colombo park 🇱🇰📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Damascus gate 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-09/"/>
+		<updated>2019-05-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-09/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/62Damascusgate------.jpg&quot; alt=&quot;&#39;Damascus gate 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Beach day in Mt Lavinia 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-08/"/>
+		<updated>2019-05-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-08/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/63BeachdayinMtLavinia------.jpg&quot; alt=&quot;&#39;Beach day in Mt Lavinia 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Colombo under construction 📷 🇱🇰</title>
+		<link href="https://joshnicholas.com/photos/2019-05-07/"/>
+		<updated>2019-05-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-07/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/64Colombounderconstruction------.jpg&quot; alt=&quot;&#39;Colombo under construction 📷 🇱🇰&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Over the Galle Face Green, Colombo 📷 🇱🇰</title>
+		<link href="https://joshnicholas.com/photos/2019-05-06/"/>
+		<updated>2019-05-06T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-06/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/65OvertheGalleFaceGreen-Colombo------.jpg&quot; alt=&quot;&#39;Over the Galle Face Green, Colombo 📷 🇱🇰&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Also Church of the Holy Sepulchre 📷 🇮🇱</title>
+		<link href="https://joshnicholas.com/photos/2019-05-05/"/>
+		<updated>2019-05-05T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-05/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/66AlsoChurchoftheHolySepulchre------.jpg&quot; alt=&quot;&#39;Also Church of the Holy Sepulchre 📷 🇮🇱&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Church of the Holy Sepulchre 📷 🇮🇱</title>
+		<link href="https://joshnicholas.com/photos/2019-05-04/"/>
+		<updated>2019-05-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-04/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/67ChurchoftheHolySepulchre------.jpg&quot; alt=&quot;&#39;Church of the Holy Sepulchre 📷 🇮🇱&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Jerusalem old city 🇮🇱 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-05-03/"/>
+		<updated>2019-05-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-03/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/68Jerusalemoldcity------.jpg&quot; alt=&quot;&#39;Jerusalem old city 🇮🇱 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Jaffna grape farming 📷 🇱🇰</title>
+		<link href="https://joshnicholas.com/photos/2019-05-01/"/>
+		<updated>2019-05-01T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-05-01/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/69Jaffnagrapefarming------.jpg&quot; alt=&quot;&#39;Jaffna grape farming 📷 🇱🇰&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Colombo driftin 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-29/"/>
+		<updated>2019-04-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-29/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/70Colombodriftin------.jpg&quot; alt=&quot;&#39;Colombo driftin 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Taking the 🇱🇰 flag down at sunset On the Galle Face Green Colombo 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-28/"/>
+		<updated>2019-04-28T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-28/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/71Takingthe----flagdownatsunsetOntheGalleFaceGreenColombo--.jpg&quot; alt=&quot;&#39;Taking the 🇱🇰 flag down at sunset On the Galle Face Green Colombo 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Fruit and veg on the way to Colombo 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-27/"/>
+		<updated>2019-04-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-27/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/72FruitandvegonthewaytoColombo------.jpg&quot; alt=&quot;&#39;Fruit and veg on the way to Colombo 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Played billiards with my Grandpa last weekend 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-26/"/>
+		<updated>2019-04-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-26/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/73PlayedbilliardswithmyGrandpalastweekend------.jpg&quot; alt=&quot;&#39;Played billiards with my Grandpa last weekend 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Colombo streets 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-25/"/>
+		<updated>2019-04-25T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-25/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/74Colombostreets------.jpg&quot; alt=&quot;&#39;Colombo streets 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The Pettah 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-24/"/>
+		<updated>2019-04-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-24/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/75ThePettah------.jpg&quot; alt=&quot;&#39;The Pettah 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Hanging out in Galle market 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-23/"/>
+		<updated>2019-04-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-23/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/76HangingoutinGallemarket------.jpg&quot; alt=&quot;&#39;Hanging out in Galle market 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>View from my hotel in Nuwara Eliya, 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-22/"/>
+		<updated>2019-04-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-22/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/77ViewfrommyhotelinNuwaraEliya-------.jpg&quot; alt=&quot;&#39;View from my hotel in Nuwara Eliya, 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Sewing in Galle market 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-21/"/>
+		<updated>2019-04-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-21/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/78SewinginGallemarket------.jpg&quot; alt=&quot;&#39;Sewing in Galle market 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Farming near Wilpattu national park. 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-20/"/>
+		<updated>2019-04-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-20/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>Beating up fish in the Galle fish market 🇱🇰📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-19/"/>
+		<updated>2019-04-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-19/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/80BeatingupfishintheGallefishmarket------.jpg&quot; alt=&quot;&#39;Beating up fish in the Galle fish market 🇱🇰📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>A puppy in a bar in Galle, 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-18/"/>
+		<updated>2019-04-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-18/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/81ApuppyinabarinGalle-------.jpg&quot; alt=&quot;&#39;A puppy in a bar in Galle, 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Drag fishing in Galle harbour  🇱🇰📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-17/"/>
+		<updated>2019-04-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-17/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/82DragfishinginGalleharbour------.jpg&quot; alt=&quot;&#39;Drag fishing in Galle harbour  🇱🇰📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Fishies @ the polla 📷🇱🇰</title>
+		<link href="https://joshnicholas.com/photos/2019-04-15/"/>
+		<updated>2019-04-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-15/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>My guide around Jaffna 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/photos/2019-04-14/"/>
+		<updated>2019-04-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2019-04-14/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/85MyguidearoundJaffna------.jpg&quot; alt=&quot;&#39;My guide around Jaffna 🇱🇰 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Venice busking 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-11-23/"/>
+		<link href="https://joshnicholas.com/photos/2018-11-23/"/>
 		<updated>2018-11-23T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-11-23/</id>
-		<content type="html">&lt;center&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/photos/2018-11-23/%7B%20&#39;/img/86Venicebusking------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;/center&gt;</content>
+		<id>https://joshnicholas.com/photos/2018-11-23/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/86Venicebusking------.jpg&quot; alt=&quot;&#39;Venice busking 🇮🇹 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
 	</entry>
 	
 	<entry>
 		<title>This is my fourth post.</title>
-		<link href="https://joshnicholas.com/blog/posts/fourthpost/"/>
+		<link href="https://joshnicholas.com/posts/fourthpost/"/>
 		<updated>2018-09-30T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/posts/fourthpost/</id>
+		<id>https://joshnicholas.com/posts/fourthpost/</id>
 		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
 &lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
 &lt;p&gt;Section Header&lt;/p&gt;
@@ -87,38 +829,40 @@
 	
 	<entry>
 		<title>This is my sixth post.</title>
-		<link href="https://joshnicholas.com/blog/posts/sixthpost/"/>
+		<link href="https://joshnicholas.com/posts/sixthpost/"/>
 		<updated>2018-09-01T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/posts/sixthpost/</id>
+		<id>https://joshnicholas.com/posts/sixthpost/</id>
 		<content type="html">&lt;p&gt;Damn it looks live the way this is setup requires a bloody annoying template&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Buskin Rome 📷 🇮🇹</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-08-18/"/>
+		<link href="https://joshnicholas.com/photos/2018-08-18/"/>
 		<updated>2018-08-18T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-08-18/</id>
-		<content type="html">&lt;center&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/photos/2018-08-18/%7B%20&#39;/img/87BuskinRome------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;608&quot; height=&quot;341&quot; srcset=&quot;{ &#39;/img/87BuskinRome------.jpg&#39; | url } 600w, { &#39;/img/87BuskinRome------.jpg&#39; | url } 608w&quot; /&gt;&lt;/figure&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/photos/2018-08-18/%7B%20&#39;/img/88BuskinRome------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;608&quot; height=&quot;341&quot; srcset=&quot;{ &#39;/img/88BuskinRome------.jpg&#39; | url } 600w, { &#39;/img/88BuskinRome------.jpg&#39; | url } 608w&quot; /&gt;&lt;/figure&gt;&lt;/center&gt;</content>
+		<id>https://joshnicholas.com/photos/2018-08-18/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/88BuskinRome------.jpg&quot; alt=&quot;&#39;Buskin Rome 📷 🇮🇹&#39;&quot; /&gt;&lt;/p&gt;
+</content>
 	</entry>
 	
 	<entry>
 		<title>Rome sketchin 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-07-08/"/>
+		<link href="https://joshnicholas.com/photos/2018-07-08/"/>
 		<updated>2018-07-08T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-07-08/</id>
-		<content type="html">&lt;center&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/photos/2018-07-08/%7B%20&#39;/img/89Romesketchin------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;/center&gt;</content>
+		<id>https://joshnicholas.com/photos/2018-07-08/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/89Romesketchin------.jpg&quot; alt=&quot;&#39;Rome sketchin 🇮🇹 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
 	</entry>
 	
 	<entry>
 		<title>This is my second post.</title>
-		<link href="https://joshnicholas.com/blog/posts/secondpost/"/>
+		<link href="https://joshnicholas.com/posts/secondpost/"/>
 		<updated>2018-07-04T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/posts/secondpost/</id>
+		<id>https://joshnicholas.com/posts/secondpost/</id>
 		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
 &lt;p&gt;Section Header&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://joshnicholas.com/blog/posts/firstpost/&quot;&gt;First post&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://joshnicholas.com/blog/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://joshnicholas.com/posts/firstpost/&quot;&gt;First post&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://joshnicholas.com/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
 &lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
 </content>
@@ -126,34 +870,37 @@
 	
 	<entry>
 		<title>Plumbing Vesuvius 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-01-16/"/>
+		<link href="https://joshnicholas.com/photos/2018-01-16/"/>
 		<updated>2018-01-16T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-01-16/</id>
-		<content type="html">&lt;center&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/photos/2018-01-16/%7B%20&#39;/img/91PlumbingVesuvius------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;/center&gt;</content>
+		<id>https://joshnicholas.com/photos/2018-01-16/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/91PlumbingVesuvius------.jpg&quot; alt=&quot;&#39;Plumbing Vesuvius 🇮🇹 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
 	</entry>
 	
 	<entry>
 		<title>Inside St Peters 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-01-04/"/>
+		<link href="https://joshnicholas.com/photos/2018-01-04/"/>
 		<updated>2018-01-04T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-01-04/</id>
-		<content type="html">&lt;center&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/photos/2018-01-04/%7B%20&#39;/img/92InsideStPeters------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;384&quot; height=&quot;576&quot; /&gt;&lt;/figure&gt;&lt;/center&gt;</content>
-	</entry>
-	
-	<entry>
-		<title>Venice infrastructure 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/scribbles/testers1/"/>
-		<updated>2017-07-21T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/scribbles/testers1/</id>
-		<content type="html">&lt;html&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/img/93Veniceinfrastructure------.jpg&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/scribbles/testers1/%7B%20&#39;/img/94Veniceinfrastructure------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;/html&gt;
+		<id>https://joshnicholas.com/photos/2018-01-04/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/92InsideStPeters------.jpg&quot; alt=&quot;&#39;Inside St Peters 🇮🇹 📷&#39;&quot; /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Venice infrastructure 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2017-07-21/"/>
+		<link href="https://joshnicholas.com/scribbles/testers1/"/>
 		<updated>2017-07-21T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2017-07-21/</id>
-		<content type="html">&lt;center&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/photos/2017-07-21/%7B%20&#39;/img/93Veniceinfrastructure------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/blog/photos/2017-07-21/%7B%20&#39;/img/94Veniceinfrastructure------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;/center&gt;</content>
+		<id>https://joshnicholas.com/scribbles/testers1/</id>
+		<content type="html">&lt;html&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/img/93Veniceinfrastructure------.jpg&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;&lt;img src=&quot;https://joshnicholas.com/scribbles/testers1/%7B%20&#39;/img/94Veniceinfrastructure------.jpg&#39;%20|%20url%20%7D&quot; class=&quot;kg-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; width=&quot;576&quot; height=&quot;384&quot; /&gt;&lt;/figure&gt;&lt;/html&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Venice infrastructure 🇮🇹 📷</title>
+		<link href="https://joshnicholas.com/photos/2017-07-21/"/>
+		<updated>2017-07-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/photos/2017-07-21/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/94Veniceinfrastructure------.jpg&quot; alt=&quot;&#39;Venice infrastructure 🇮🇹 📷&#39;&quot; /&gt;&lt;/p&gt;
+</content>
 	</entry>
 </feed>

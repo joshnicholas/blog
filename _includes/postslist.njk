@@ -1,4 +1,4 @@
-{% for post in postslist | reverse %}
+{% for post in postslist | head(-10) | reverse %}
 
 <h1><a href="{{ post.url | url }}" class="post-header">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h1>
 {{ content | safe }}
