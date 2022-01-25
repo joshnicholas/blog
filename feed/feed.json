@@ -43,7 +43,7 @@
       "id": "https://joshnicholas.com/blog/photos/2018-11-23/",
       "url": "https://joshnicholas.com/blog/photos/2018-11-23/",
       "title": "Venice busking 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-11-23/%7B%20'/img/86Venicebusking------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/content/images/2020/07/86Venicebusking------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
       "date_published": "2018-11-23T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/posts/fourthpost/",
@@ -61,13 +61,13 @@
       "id": "https://joshnicholas.com/blog/photos/2018-08-18/",
       "url": "https://joshnicholas.com/blog/photos/2018-08-18/",
       "title": "Buskin Rome 📷 🇮🇹",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-08-18/%7B%20'/img/87BuskinRome------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"608\" height=\"341\" srcset=\"{ '/img/87BuskinRome------.jpg' | url } 600w, { '/img/87BuskinRome------.jpg' | url } 608w\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-08-18/%7B%20'/img/88BuskinRome------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"608\" height=\"341\" srcset=\"{ '/img/88BuskinRome------.jpg' | url } 600w, { '/img/88BuskinRome------.jpg' | url } 608w\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/content/images/2020/07/87BuskinRome------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"608\" height=\"341\" srcset=\"https://joshnicholas.com/content/images/size/w600/2020/07/87BuskinRome------.jpg 600w, https://joshnicholas.com/content/images/2020/07/87BuskinRome------.jpg 608w\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/content/images/2020/07/88BuskinRome------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"608\" height=\"341\" srcset=\"https://joshnicholas.com/content/images/size/w600/2020/07/88BuskinRome------.jpg 600w, https://joshnicholas.com/content/images/2020/07/88BuskinRome------.jpg 608w\" /></figure></center>",
       "date_published": "2018-08-18T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/photos/2018-07-08/",
       "url": "https://joshnicholas.com/blog/photos/2018-07-08/",
       "title": "Rome sketchin 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-07-08/%7B%20'/img/89Romesketchin------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/content/images/2020/07/89Romesketchin------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
       "date_published": "2018-07-08T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/posts/secondpost/",
@@ -79,13 +79,13 @@
       "id": "https://joshnicholas.com/blog/photos/2018-01-16/",
       "url": "https://joshnicholas.com/blog/photos/2018-01-16/",
       "title": "Plumbing Vesuvius 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-01-16/%7B%20'/img/91PlumbingVesuvius------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/content/images/2020/07/91PlumbingVesuvius------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
       "date_published": "2018-01-16T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/photos/2018-01-04/",
       "url": "https://joshnicholas.com/blog/photos/2018-01-04/",
       "title": "Inside St Peters 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-01-04/%7B%20'/img/92InsideStPeters------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"384\" height=\"576\" /></figure></center>",
+      "content_html": "<p>![The San Juan Mountains are beautiful!]({ '92InsideStPeters------.jpg' | url } &quot;San Juan Mountains&quot;)<br />\n<br /></p>\n",
       "date_published": "2018-01-04T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/scribbles/testers1/",
@@ -97,7 +97,7 @@
       "id": "https://joshnicholas.com/blog/photos/2017-07-21/",
       "url": "https://joshnicholas.com/blog/photos/2017-07-21/",
       "title": "Venice infrastructure 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2017-07-21/%7B%20'/img/93Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2017-07-21/%7B%20'/img/94Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
+      "content_html": "<p>![The San Juan Mountains are beautiful!]({ '93Veniceinfrastructure------.jpg' | url } &quot;San Juan Mountains&quot;)<br />\n<br /><br />\n![The San Juan Mountains are beautiful!]({ '94Veniceinfrastructure------.jpg' | url } &quot;San Juan Mountains&quot;)<br />\n<br /></p>\n",
       "date_published": "2017-07-21T00:00:00Z"
     }
   ]
