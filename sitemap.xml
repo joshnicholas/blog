@@ -22,17 +22,17 @@
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/blog/scribbles/fifthpost/</loc>
-    <lastmod>2022-01-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://joshnicholas.com/blog/scribbles/imagetest/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
   <url>
     <loc>https://joshnicholas.com/blog/scribbles/secondscribblefronttest/</loc>
+    <lastmod>2022-01-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/blog/words/fifthpost/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
   
@@ -73,6 +73,16 @@
   
   <url>
     <loc>https://joshnicholas.com/blog/tags/another-tag/</loc>
+    <lastmod>2022-01-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/blog/tags/words/</loc>
+    <lastmod>2022-01-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/blog/words/</loc>
     <lastmod>2022-01-25</lastmod>
   </url>
 </urlset>
