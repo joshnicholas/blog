@@ -5,12 +5,27 @@
 	
 	<link href="https://joshnicholas.com/blog/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-01-25T00:00:00Z</updated>
+	<updated>2022-01-25T08:04:16Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://joshnicholas.com/blog/scribbles/testers1/"/>
+		<updated>2022-01-25T08:04:16Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/testers1/</id>
+		<content type="html">&lt;pre&gt;&lt;code&gt;                    ---
+                    title: Venice infrastructure 🇮🇹 📷
+                    date: 2017-07-21
+                    ---
+
+                    &amp;lt;figure class=&amp;quot;kg-card kg-image-card&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;{ &#39;/img/93Veniceinfrastructure------.jpg&#39; | url }&amp;quot; class=&amp;quot;kg-image&amp;quot; alt loading=&amp;quot;lazy&amp;quot; width=&amp;quot;576&amp;quot; height=&amp;quot;384&amp;quot;&amp;gt;&amp;lt;/figure&amp;gt;&amp;lt;figure class=&amp;quot;kg-card kg-image-card&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;{ &#39;/img/94Veniceinfrastructure------.jpg&#39; | url }&amp;quot; class=&amp;quot;kg-image&amp;quot; alt loading=&amp;quot;lazy&amp;quot; width=&amp;quot;576&amp;quot; height=&amp;quot;384&amp;quot;&amp;gt;&amp;lt;/figure&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>This is my scribble front test.</title>
