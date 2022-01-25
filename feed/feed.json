@@ -85,7 +85,7 @@
       "id": "https://joshnicholas.com/blog/photos/2018-01-04/",
       "url": "https://joshnicholas.com/blog/photos/2018-01-04/",
       "title": "Inside St Peters 🇮🇹 📷",
-      "content_html": "<p>![The San Juan Mountains are beautiful!]({ '92InsideStPeters------.jpg' | url } &quot;San Juan Mountains&quot;)<br />\n<br /></p>\n",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/photos/2018-01-04/92InsideStPeters------.jpg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /><br />\n<br /></p>\n",
       "date_published": "2018-01-04T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/scribbles/testers1/",
@@ -97,7 +97,7 @@
       "id": "https://joshnicholas.com/blog/photos/2017-07-21/",
       "url": "https://joshnicholas.com/blog/photos/2017-07-21/",
       "title": "Venice infrastructure 🇮🇹 📷",
-      "content_html": "<p>![The San Juan Mountains are beautiful!]({ '93Veniceinfrastructure------.jpg' | url } &quot;San Juan Mountains&quot;)<br />\n<br /><br />\n![The San Juan Mountains are beautiful!]({ '94Veniceinfrastructure------.jpg' | url } &quot;San Juan Mountains&quot;)<br />\n<br /></p>\n",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/photos/2017-07-21/93Veniceinfrastructure------.jpg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /><br />\n<br /><br />\n<img src=\"https://joshnicholas.com/blog/photos/2017-07-21/94Veniceinfrastructure------.jpg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /><br />\n<br /></p>\n",
       "date_published": "2017-07-21T00:00:00Z"
     }
   ]
