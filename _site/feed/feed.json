@@ -10,94 +10,94 @@
     "url": "https://joshnicholas.com"
   },
   "items": [{
-      "id": "https://joshnicholas.com/scribbles/scibblefronttest/",
-      "url": "https://joshnicholas.com/scribbles/scibblefronttest/",
+      "id": "https://joshnicholas.com/blog/scribbles/scibblefronttest/",
+      "url": "https://joshnicholas.com/blog/scribbles/scibblefronttest/",
       "title": "This is my scribble front test.",
       "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
       "date_published": "2022-01-25T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/words/fifthpost/",
-      "url": "https://joshnicholas.com/words/fifthpost/",
+      "id": "https://joshnicholas.com/blog/words/fifthpost/",
+      "url": "https://joshnicholas.com/blog/words/fifthpost/",
       "title": "This is my fifth post.",
       "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
       "date_published": "2022-01-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/scribbles/secondscribblefronttest/",
-      "url": "https://joshnicholas.com/scribbles/secondscribblefronttest/",
+      "id": "https://joshnicholas.com/blog/scribbles/secondscribblefronttest/",
+      "url": "https://joshnicholas.com/blog/scribbles/secondscribblefronttest/",
       "title": "This is my second scribble front test.",
       "content_html": "<p>This time I'm going to try adding them all.</p>\n",
       "date_published": "2022-01-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/scribbles/imagetest/",
-      "url": "https://joshnicholas.com/scribbles/imagetest/",
+      "id": "https://joshnicholas.com/blog/scribbles/imagetest/",
+      "url": "https://joshnicholas.com/blog/scribbles/imagetest/",
       "title": "This is an image test.",
-      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>images/shelves.jpeg</p>\n<p><img src=\"https://joshnicholas.com/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n<p><img src=\"https://joshnicholas.com/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n",
+      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>images/shelves.jpeg</p>\n<p><img src=\"https://joshnicholas.com/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n<p><img src=\"https://joshnicholas.com/blog/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n",
       "date_published": "2022-01-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/posts/mobtest/",
-      "url": "https://joshnicholas.com/posts/mobtest/",
+      "id": "https://joshnicholas.com/blog/posts/mobtest/",
+      "url": "https://joshnicholas.com/blog/posts/mobtest/",
       "title": "This is my mobile test.",
       "content_html": "<p>This is a test of posting from my phone using working copy.</p>\n<p>It's not actually too bad of a working environment, I must say? Although maybe I won't type directly into here.</p>\n",
       "date_published": "2022-01-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/photos/2018-11-23/",
-      "url": "https://joshnicholas.com/photos/2018-11-23/",
+      "id": "https://joshnicholas.com/blog/photos/2018-11-23/",
+      "url": "https://joshnicholas.com/blog/photos/2018-11-23/",
       "title": "Venice busking 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/photos/2018-11-23/%7B%20'/img/86Venicebusking------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-11-23/%7B%20'/img/86Venicebusking------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
       "date_published": "2018-11-23T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/posts/fourthpost/",
-      "url": "https://joshnicholas.com/posts/fourthpost/",
+      "id": "https://joshnicholas.com/blog/posts/fourthpost/",
+      "url": "https://joshnicholas.com/blog/posts/fourthpost/",
       "title": "This is my fourth post.",
       "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Section Header</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
       "date_published": "2018-09-30T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/posts/sixthpost/",
-      "url": "https://joshnicholas.com/posts/sixthpost/",
+      "id": "https://joshnicholas.com/blog/posts/sixthpost/",
+      "url": "https://joshnicholas.com/blog/posts/sixthpost/",
       "title": "This is my sixth post.",
       "content_html": "<p>Damn it looks live the way this is setup requires a bloody annoying template</p>\n",
       "date_published": "2018-09-01T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/photos/2018-08-18/",
-      "url": "https://joshnicholas.com/photos/2018-08-18/",
+      "id": "https://joshnicholas.com/blog/photos/2018-08-18/",
+      "url": "https://joshnicholas.com/blog/photos/2018-08-18/",
       "title": "Buskin Rome 📷 🇮🇹",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/photos/2018-08-18/%7B%20'/img/87BuskinRome------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"608\" height=\"341\" srcset=\"{ '/img/87BuskinRome------.jpg' | url } 600w, { '/img/87BuskinRome------.jpg' | url } 608w\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/photos/2018-08-18/%7B%20'/img/88BuskinRome------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"608\" height=\"341\" srcset=\"{ '/img/88BuskinRome------.jpg' | url } 600w, { '/img/88BuskinRome------.jpg' | url } 608w\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-08-18/%7B%20'/img/87BuskinRome------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"608\" height=\"341\" srcset=\"{ '/img/87BuskinRome------.jpg' | url } 600w, { '/img/87BuskinRome------.jpg' | url } 608w\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-08-18/%7B%20'/img/88BuskinRome------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"608\" height=\"341\" srcset=\"{ '/img/88BuskinRome------.jpg' | url } 600w, { '/img/88BuskinRome------.jpg' | url } 608w\" /></figure></center>",
       "date_published": "2018-08-18T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/photos/2018-07-08/",
-      "url": "https://joshnicholas.com/photos/2018-07-08/",
+      "id": "https://joshnicholas.com/blog/photos/2018-07-08/",
+      "url": "https://joshnicholas.com/blog/photos/2018-07-08/",
       "title": "Rome sketchin 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/photos/2018-07-08/%7B%20'/img/89Romesketchin------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-07-08/%7B%20'/img/89Romesketchin------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
       "date_published": "2018-07-08T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/posts/secondpost/",
-      "url": "https://joshnicholas.com/posts/secondpost/",
+      "id": "https://joshnicholas.com/blog/posts/secondpost/",
+      "url": "https://joshnicholas.com/blog/posts/secondpost/",
       "title": "This is my second post.",
-      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Section Header</p>\n<p><a href=\"https://joshnicholas.com/posts/firstpost/\">First post</a><br />\n<a href=\"https://joshnicholas.com/posts/thirdpost/\">Third post</a></p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
+      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Section Header</p>\n<p><a href=\"https://joshnicholas.com/blog/posts/firstpost/\">First post</a><br />\n<a href=\"https://joshnicholas.com/blog/posts/thirdpost/\">Third post</a></p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
       "date_published": "2018-07-04T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/photos/2018-01-16/",
-      "url": "https://joshnicholas.com/photos/2018-01-16/",
+      "id": "https://joshnicholas.com/blog/photos/2018-01-16/",
+      "url": "https://joshnicholas.com/blog/photos/2018-01-16/",
       "title": "Plumbing Vesuvius 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/photos/2018-01-16/%7B%20'/img/91PlumbingVesuvius------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-01-16/%7B%20'/img/91PlumbingVesuvius------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
       "date_published": "2018-01-16T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/photos/2018-01-04/",
-      "url": "https://joshnicholas.com/photos/2018-01-04/",
+      "id": "https://joshnicholas.com/blog/photos/2018-01-04/",
+      "url": "https://joshnicholas.com/blog/photos/2018-01-04/",
       "title": "Inside St Peters 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/photos/2018-01-04/%7B%20'/img/92InsideStPeters------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"384\" height=\"576\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2018-01-04/%7B%20'/img/92InsideStPeters------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"384\" height=\"576\" /></figure></center>",
       "date_published": "2018-01-04T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/scribbles/testers1/",
-      "url": "https://joshnicholas.com/scribbles/testers1/",
+      "id": "https://joshnicholas.com/blog/scribbles/testers1/",
+      "url": "https://joshnicholas.com/blog/scribbles/testers1/",
       "title": "Venice infrastructure 🇮🇹 📷",
-      "content_html": "<html><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/img/93Veniceinfrastructure------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/scribbles/testers1/%7B%20'/img/94Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></html>\n",
+      "content_html": "<html><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/img/93Veniceinfrastructure------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/scribbles/testers1/%7B%20'/img/94Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></html>\n",
       "date_published": "2017-07-21T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/photos/2017-07-21/",
-      "url": "https://joshnicholas.com/photos/2017-07-21/",
+      "id": "https://joshnicholas.com/blog/photos/2017-07-21/",
+      "url": "https://joshnicholas.com/blog/photos/2017-07-21/",
       "title": "Venice infrastructure 🇮🇹 📷",
-      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/photos/2017-07-21/%7B%20'/img/93Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/photos/2017-07-21/%7B%20'/img/94Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
+      "content_html": "<center><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2017-07-21/%7B%20'/img/93Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/photos/2017-07-21/%7B%20'/img/94Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></center>",
       "date_published": "2017-07-21T00:00:00Z"
     }
   ]
