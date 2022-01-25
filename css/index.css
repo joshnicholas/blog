@@ -15,8 +15,10 @@
 
 html,
 body {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  /* padding-left: 1rem;
+  padding-right: 1rem; */
+  margin: auto;
+  width: 85%;
   /* padding: 0; */
   /* margin: 0; */
   font-family: -apple-system, system-ui, sans-serif;
@@ -28,6 +30,10 @@ body {
 img {
   width: 100%;
 }
+
+.post-header { 
+  text-decoration: none;
+  color:#333;}
 
 a:link {
   color: #86b300;
@@ -45,11 +51,10 @@ a:active {
   color: #86b300;
 }
 
-.post-header {
-  color: #333;
-}
 
-.post-header { text-decoration: none}
+/* .post-header { 
+  text-decoration: none;
+  color:#333;} */
 
 h3.a:visited{
 
@@ -114,7 +119,7 @@ pre {
   font-size: 14px;
   line-height: 1.375;
   direction: ltr;
-  text-align: left;
+  text-align: center;
   white-space: pre;
   word-spacing: normal;
   word-break: normal;
@@ -167,7 +172,7 @@ code {
 .home {
   padding: 0 1rem;
   float: left;
-  margin: 1rem 0; /* 16px /16 */
+  margin: 1rem; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
 }
 .home :link:not(:hover) {
@@ -190,6 +195,10 @@ code {
   margin-right: 1em;
 }
 .nav-item a[href]:not(:hover) {
+  text-decoration: none;
+  color: #333;
+}
+.nav-item a[href]:hover {
   text-decoration: none;
   color: #333;
 }
@@ -228,8 +237,8 @@ code {
 .postlist-link {
   padding-left: .25em;
   padding-right: .25em;
-  text-underline-position: from-font;
-  text-underline-offset: 0;
+  /* text-underline-position: from-font;
+  text-underline-offset: 0; */
   text-decoration-thickness: 1px;
   color: #333;
 }
@@ -239,6 +248,7 @@ code {
 .tmpl-home .postlist-link {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
+  color: #333;
 }
 
 
@@ -288,6 +298,7 @@ a[href].post-tag:focus {
   font-style: normal;
   margin-left: .1em;
 }
+
 a[href].direct-link {
   color:#86b300;
 },

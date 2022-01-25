@@ -10,6 +10,8 @@ permalink: /page-list/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 <div>
     <td><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></td>
     <td>{{ entry.data.title }}</td>
+
+    
 </div>
 {%- endfor %}
 
