@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://joshnicholas.com/blog/scribbles/testers1/</loc>
+    <lastmod>2017-07-21</lastmod>
+  </url>
+  
+  <url>
     <loc>https://joshnicholas.com/blog/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
@@ -58,11 +63,6 @@
   
   <url>
     <loc>https://joshnicholas.com/blog/scribbles/</loc>
-    <lastmod>2022-01-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshnicholas.com/blog/scribbles/testers1/</loc>
     <lastmod>2022-01-25</lastmod>
   </url>
   
