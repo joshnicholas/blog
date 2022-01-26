@@ -10,28 +10,10 @@
     "url": "https://joshnicholas.com"
   },
   "items": [{
-      "id": "https://joshnicholas.com/blog/scribbles/scibblefronttest/",
-      "url": "https://joshnicholas.com/blog/scribbles/scibblefronttest/",
-      "title": "This is my scribble front test.",
-      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
-      "date_published": "2022-01-25T00:00:00Z"
-    },{
       "id": "https://joshnicholas.com/blog/words/fifthpost/",
       "url": "https://joshnicholas.com/blog/words/fifthpost/",
       "title": "This is my fifth post.",
       "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
-      "date_published": "2022-01-24T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/scribbles/secondscribblefronttest/",
-      "url": "https://joshnicholas.com/blog/scribbles/secondscribblefronttest/",
-      "title": "This is my second scribble front test.",
-      "content_html": "<p>This time I'm going to try adding them all.</p>\n",
-      "date_published": "2022-01-24T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/scribbles/imagetest/",
-      "url": "https://joshnicholas.com/blog/scribbles/imagetest/",
-      "title": "This is an image test.",
-      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>images/shelves.jpeg</p>\n<p><img src=\"https://joshnicholas.com/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n<p><img src=\"https://joshnicholas.com/blog/img/shelves.jpeg\" alt=\"The San Juan Mountains are beautiful!\" title=\"San Juan Mountains\" /></p>\n",
       "date_published": "2022-01-24T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/posts/mobtest/",
@@ -153,6 +135,30 @@
       "title": "In the Jordan desert 🇯🇴",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/16IntheJordandesert----.jpg\" alt=\"'In the Jordan desert 🇯🇴'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-02T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/2019-07-30/",
+      "url": "https://joshnicholas.com/blog/scribbles/2019-07-30/",
+      "title": "Before and after 🤔 ✏️🇵🇱",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/129Beforeandafter--------b.jpg\" alt=\"'Before and after 🤔 ✏️🇵🇱'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-07-30T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/2019-07-29/",
+      "url": "https://joshnicholas.com/blog/scribbles/2019-07-29/",
+      "title": "Warsaw is damn pretty tbh  ✏️🇵🇱",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/131Warsawisdamnprettytbh------0.jpg\" alt=\"'Warsaw is damn pretty tbh  ✏️🇵🇱'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-07-29T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/2019-07-27/",
+      "url": "https://joshnicholas.com/blog/scribbles/2019-07-27/",
+      "title": "Saw a guy with pigtails in his beard",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/132Sawaguywithpigtailsinhisbeardf.jpg\" alt=\"'Saw a guy with pigtails in his beard'\" /><br />\n<br /><br />\nAm now sorely tempted (shitty artists approximation) ✏️🇮🇪</p>\n",
+      "date_published": "2019-07-27T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/2019-07-24/",
+      "url": "https://joshnicholas.com/blog/scribbles/2019-07-24/",
+      "title": "Scribbling from Dublin castle 😀 ✏️🇮🇪",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/134ScribblingfromDublincastle--------3.jpg\" alt=\"'Scribbling from Dublin castle 😀 ✏️🇮🇪'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-07-24T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/photos/2019-06-28/",
       "url": "https://joshnicholas.com/blog/photos/2019-06-28/",
@@ -585,12 +591,6 @@
       "title": "Inside St Peters 🇮🇹 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/92InsideStPeters------.jpg\" alt=\"'Inside St Peters 🇮🇹 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2018-01-04T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/scribbles/testers1/",
-      "url": "https://joshnicholas.com/blog/scribbles/testers1/",
-      "title": "Venice infrastructure 🇮🇹 📷",
-      "content_html": "<html><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/img/93Veniceinfrastructure------.jpg\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure><figure class=\"kg-card kg-image-card\"><img src=\"https://joshnicholas.com/blog/scribbles/testers1/%7B%20'/img/94Veniceinfrastructure------.jpg'%20|%20url%20%7D\" class=\"kg-image\" alt=\"\" loading=\"lazy\" width=\"576\" height=\"384\" /></figure></html>\n",
-      "date_published": "2017-07-21T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/blog/photos/2017-07-21/",
       "url": "https://joshnicholas.com/blog/photos/2017-07-21/",
