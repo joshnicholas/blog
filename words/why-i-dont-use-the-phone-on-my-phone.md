@@ -1,5 +1,5 @@
 ---
-title: Why I don't use the phone on my phone
+title: Why I don"t use the phone on my phone
 date: 2018-10-15
 ---
 

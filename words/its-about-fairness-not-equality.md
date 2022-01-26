@@ -1,5 +1,5 @@
 ---
-title: It's about fairness, not equality.
+title: It"s about fairness, not equality.
 date: 2017-05-28
 ---
 

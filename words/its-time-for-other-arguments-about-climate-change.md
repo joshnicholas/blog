@@ -1,5 +1,5 @@
 ---
-title: It's time for other arguments about climate change
+title: It"s time for other arguments about climate change
 date: 2018-10-18
 ---
 

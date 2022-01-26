@@ -1,5 +1,5 @@
 ---
-title: It's not malice but incompetence that'll kill us
+title: It"s not malice but incompetence that"ll kill us
 date: 2019-12-07
 ---
 

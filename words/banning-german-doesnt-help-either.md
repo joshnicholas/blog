@@ -1,5 +1,5 @@
 ---
-title: Banning German doesn't help either
+title: Banning German doesn"t help either
 date: 2019-03-01
 ---
 

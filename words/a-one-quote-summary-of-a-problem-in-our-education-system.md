@@ -1,5 +1,5 @@
 ---
-title: A one quote summary of Australia's education system
+title: A one quote summary of Australia"s education system
 date: 2016-04-10
 ---
 
