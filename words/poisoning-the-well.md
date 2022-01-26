@@ -18,5 +18,5 @@ date: 2019-05-16
 <p>That last line from Burton, about a change of mind being national news is also deserving of unpicking.</p>
 <p>It is fair enough that leaders changing their minds about something is news. But the problem is in how it is approached. How often is the story about the change itself rather than what underlay the previous “belief” and how that changed? How good is the information, or, if that hasn’t changed, the mental model that reinterpreted it?</p>
 <p>Beliefs often aren’t a binary proposition, especially when it comes to policy. Rather, they are about juggling trade offs, dogged by information asymmetries and stretched resources (mental and otherwise).</p>
-<p>But here I am also falling into the trap of beliefs as the function of logic and reason. As <a href="__GHOST_URL__/where-does-your-belief-come-from/">I’ve documented here</a>, beliefs have many potential fathers. Perhaps biology is one.</p>
+<p>But here I am also falling into the trap of beliefs as the function of logic and reason. As <a href="https://joshnicholas.com/where-does-your-belief-come-from/">I’ve documented here</a>, beliefs have many potential fathers. Perhaps biology is one.</p>
 <!--kg-card-end: html-->

@@ -3,7 +3,7 @@ title: Climate coverage isn’t just about prevention
 date: 2019-06-03
 ---
 
-<!--kg-card-begin: html--><p>Building <a href="__GHOST_URL__/newsletters/">my daily news emails</a>, it’s staggering the dearth of good climate coverage. It’s few and far between, and much of what exists is caught up in prevention.</p>
+<!--kg-card-begin: html--><p>Building <a href="https://joshnicholas.com/newsletters/">my daily news emails</a>, it’s staggering the dearth of good climate coverage. It’s few and far between, and much of what exists is caught up in prevention.</p>
 <p>Absolutely we need to reduce emissions and avoid 2 degrees. But we have also already locked in a certain amount of pain that will need to be managed.</p>
 <p>This is especially true in countries like Sri Lanka that have (relatively) negligible per person emissions and little scope for further reduction. Many of these areas will also bear the brunt, thanks to geography and economics etc.</p>
 <p>One example of it being done well is <a href="https://www.theguardian.com/uk-news/2019/jun/02/scotland-whisky-climate-crisis-heatwave-distilleries-halt-production">The Guardian</a> reporting on a heatwave that shut down some Scottish distilleries for up to a month last year. The quotes towards the end suggest this is just the beginning of a shift.</p>

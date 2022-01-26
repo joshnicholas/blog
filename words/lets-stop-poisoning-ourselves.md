@@ -14,7 +14,7 @@ date: 2019-02-19
 <p>Other papers cited in this study illustrate the breadth of the issue:</p>
 <blockquote><p>&#8230;Currie and colleagues found that high levels of carbon monoxide were associated with reduced school attendance&#8230; Ransom and Pope (1992) similarly found a relationship between pollution and school attendance, with more small particulate matter in the air associated with more absences&#8230; Chang et al. (2016a, 2016b) use hourly variation to show that increased exposure to fine particulate matter decreases productivity per hour of pear packers and call center workers, while Archsmith, Heyes, and Saberian (2018) showed that baseball umpires make more mistakes on days with higher pollution&#8230;Herrnstadt and Muehlegger (2015) argue that traffic pollution influences impulse control. They showed that short-term hourly variation in wind direction in Chicago lead to higher crime in areas downwind of highways than on the opposite upwind side&#8230;</p>
 </blockquote>
-<p>Also, as an addendum to <a href="__GHOST_URL__/what-are-school-tests-trying-to-measure/" target="_blank" rel="noopener noreferrer">my last post</a> about randomness and test scores:</p>
+<p>Also, as an addendum to <a href="https://joshnicholas.com/what-are-school-tests-trying-to-measure/" target="_blank" rel="noopener noreferrer">my last post</a> about randomness and test scores:</p>
 <blockquote><p>Marcotte (2017) used the variation in air quality on different testing days and found that children who <strong>took tests on worse days for pollen and fine airborne particulate matter had worse outcomes</strong>.</p>
 </blockquote>
 <p><em>As usual my emphasis.</em></p>

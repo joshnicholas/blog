@@ -3,7 +3,7 @@ title: What does it mean to be accurate?
 date: 2019-11-16
 ---
 
-<!--kg-card-begin: html--><p>One of my major issues with modern, <em>broadcast</em> journalism is its normalisation of a one dimensional view of accuracy. When called out over a questionable story the retreat mostly takes place to the &#8220;facts&#8221; within the story itself. Solace is found in the precise sourcing of a story, even if that <a href="__GHOST_URL__/a-plea-for-more-humility-about-what-we-know/">isn&#8217;t the way knowledge actually works</a>.</p>
+<!--kg-card-begin: html--><p>One of my major issues with modern, <em>broadcast</em> journalism is its normalisation of a one dimensional view of accuracy. When called out over a questionable story the retreat mostly takes place to the &#8220;facts&#8221; within the story itself. Solace is found in the precise sourcing of a story, even if that <a href="https://joshnicholas.com/a-plea-for-more-humility-about-what-we-know/">isn&#8217;t the way knowledge actually works</a>.</p>
 <p>Rarely are other dimensions questioned, such as whether the story&#8217;s very existence is misleading or lends undue credence or salience. Because that, also, is inaccurate. The five stories every day on petty crimes may be exact in recounting the details (as far as we can ever <em>know</em>), but is the presence of five stories an accurate portrayal of the magnitude of the problem?</p>
 <p>Is this conflating precision with accuracy?</p>
 <blockquote><p>&#8230;precision can mask inaccuracy by giving us a false sense of certainty, either inadvertently or quite deliberately.”</p>

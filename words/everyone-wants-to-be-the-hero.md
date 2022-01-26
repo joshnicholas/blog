@@ -9,7 +9,7 @@ date: 2019-02-16
 <p>I&#8217;ve just downloaded the book and plan to dig into it, but this passage strikes at a tendency many have to want a villain.</p>
 <p>I often hear people talk about oil companies (etc.) suppressing climate change research. It now seems like <a href="https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/sep/19/shell-and-exxons-secret-1980s-climate-change-warnings" target="_blank" rel="noopener noreferrer">they did know about climate change long ago</a>, but were those executives really sitting in front of a fireplace stroking a white cat?</p>
 <p>It seems like it would be more useful, maybe even more accurate, to view them as exactly like the rest of us. We all want to be the heroes of our own stories. None of us want to be wrong. We all dig in, especially given perverse incentives.</p>
-<p>We all engage in motivated reasoning, among <a href="__GHOST_URL__/time-to-update-our-democratic-models/" target="_blank" rel="noopener noreferrer">other scary mental shortcuts and fallibilities</a>.</p>
+<p>We all engage in motivated reasoning, among <a href="https://joshnicholas.com/time-to-update-our-democratic-models/" target="_blank" rel="noopener noreferrer">other scary mental shortcuts and fallibilities</a>.</p>
 <p>Rather than treating them as deviant or Machiavellian, surely it&#8217;s healthier to realise many of us would react the same given a similar position? At the very least it won&#8217;t shut down the conversation.</p>
 <p>Once someone in the conversation is evil there is very little room to move &#8211; look at contemporary political discourse. Everyone wants to be the hero. That&#8217;s the only way we get anywhere.</p>
 <!--kg-card-end: html-->

@@ -11,6 +11,6 @@ date: 2019-01-17
 <p>&nbsp;</p>
 <blockquote><p>Our results are consistent with research in psychology, linguistics, and anthropology suggesting that <strong>languages shape patterns of thought in subtle and subconscious ways&#8230;. </strong></p></blockquote>
 <p>&nbsp;</p>
-<p>It all comes back to my <a href="__GHOST_URL__/time-to-update-our-democratic-models/" target="_blank" rel="noopener noreferrer">main takeaway from The Heretics</a>: we really don&#8217;t have a good working model for how we form beliefs, make decisions or even behave. There are profound contextual factors affecting all of these. I&#8217;m not sure how we fix this.</p>
+<p>It all comes back to my <a href="https://joshnicholas.com/time-to-update-our-democratic-models/" target="_blank" rel="noopener noreferrer">main takeaway from The Heretics</a>: we really don&#8217;t have a good working model for how we form beliefs, make decisions or even behave. There are profound contextual factors affecting all of these. I&#8217;m not sure how we fix this.</p>
 <p>(My emphasis)</p>
 <!--kg-card-end: html-->

@@ -3,7 +3,7 @@ title: The world doesn't fit in neat boxes
 date: 2016-11-14
 ---
 
-<!--kg-card-begin: html--><p>So I wanted to add to <a href="__GHOST_URL__/nothing-is-obvious/">something I just wrote about</a> – the construction of our realities. It’s a topic much enriched by Gillian Tett’s brilliant book, <a href="http://www.bookdepository.com/Silo-Effect-Gillian-Tett/9781844087587/?a_aid=thambili">The Silo Effect</a>.</p>
+<!--kg-card-begin: html--><p>So I wanted to add to <a href="https://joshnicholas.com/nothing-is-obvious/">something I just wrote about</a> – the construction of our realities. It’s a topic much enriched by Gillian Tett’s brilliant book, <a href="http://www.bookdepository.com/Silo-Effect-Gillian-Tett/9781844087587/?a_aid=thambili">The Silo Effect</a>.</p>
 <blockquote><p>
 …humans always assume that the way that they organize the world around them is entirely natural and inevitable.
 </p></blockquote>

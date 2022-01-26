@@ -3,7 +3,7 @@ title: Banning German doesn't help either
 date: 2019-03-01
 ---
 
-<!--kg-card-begin: html--><p>As a coda to the <a href="__GHOST_URL__/what-happens-when-you-ban-headscarves/">last post</a> about banning headscarves, Vasiliki Fouka has <a href="https://vfouka.people.stanford.edu/sites/g/files/sbiybj4871/f/backlashjan2019.pdf" target="_blank" rel="noopener noreferrer">another working paper</a> looking at the impact of US schools banning German as a language of instruction after World War One:</p>
+<!--kg-card-begin: html--><p>As a coda to the <a href="https://joshnicholas.com/what-happens-when-you-ban-headscarves/">last post</a> about banning headscarves, Vasiliki Fouka has <a href="https://vfouka.people.stanford.edu/sites/g/files/sbiybj4871/f/backlashjan2019.pdf" target="_blank" rel="noopener noreferrer">another working paper</a> looking at the impact of US schools banning German as a language of instruction after World War One:</p>
 <blockquote><p>Aﬀected individuals were less likely to volunteer in WWII and more likely to marry within their ethnic group and to choose decidedly German names for their oﬀspring. Rather than facilitating the assimilation of immigrant children, the <strong>policy instigated a backlash, heightening the sense of cultural identity among the minority.</strong>..</p>
 </blockquote>
 <p>Apparently it went further than this, with some states even banning the use of German over the telephone and some language that wouldn&#8217;t look too out of place in some contemporary discourse:</p>

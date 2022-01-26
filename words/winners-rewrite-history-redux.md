@@ -12,7 +12,7 @@ date: 2019-03-04
 <p>&#8230;Starting in 1794, mass killings were first carried out by British soldiers, then by police and settlers – often acting together – and later by native police, working under the command of white officers, in militia-style forces supported by colonial governments.</p></blockquote>
 <p>There are still Australians who were alive when these policies were in effect. The massacres <a href="https://theconversation.com/amp/of-course-australia-was-invaded-massacres-happened-here-less-than-90-years-ago-55377" target="_blank" rel="noopener noreferrer">were ongoing</a> a decade after World War 1, an <a href="https://tasa.org.au/wp-content/uploads/2011/05/Donoghue-Jed-Session-13.pdf" target="_blank" rel="noopener noreferrer">important point in Australia&#8217;s national identity</a>:</p>
 <blockquote><p>&#8230;large-scale massacres of Aboriginal people were still being carried out through the 1920s and early 1930s in some parts of Australia.</p></blockquote>
-<p>As the Australian media descends into another disingenuous kvetch over this issue, it&#8217;s worthwhile to <a href="__GHOST_URL__/its-about-who-you-know-and-trust/" target="_blank" rel="noopener noreferrer">remember where our priors come from</a>.</p>
+<p>As the Australian media descends into another disingenuous kvetch over this issue, it&#8217;s worthwhile to <a href="https://joshnicholas.com/its-about-who-you-know-and-trust/" target="_blank" rel="noopener noreferrer">remember where our priors come from</a>.</p>
 <p>Most of us, notably the non-Indigenous Australians, have experienced this history in an abstract way. Through the poor representations in school and the media.</p>
 <p>Winners write the history? They also write the curriculum.</p>
 <!--kg-card-end: html-->

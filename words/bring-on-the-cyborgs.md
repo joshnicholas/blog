@@ -3,7 +3,7 @@ title: Bring on the cyborgs
 date: 2019-12-27
 ---
 
-<!--kg-card-begin: html--><p>One of the most interesting observations in <a href="__GHOST_URL__/no-solution-is-perfect/">Radical Markets</a> is that artificial intelligence is (at least currently) beholden to the labour of humans. AI requires us to produce, and even process and mark up, the data used to train them:</p>
+<!--kg-card-begin: html--><p>One of the most interesting observations in <a href="https://joshnicholas.com/no-solution-is-perfect/">Radical Markets</a> is that artificial intelligence is (at least currently) beholden to the labour of humans. AI requires us to produce, and even process and mark up, the data used to train them:</p>
 <blockquote><p>&#8230;AIs are not actually the free-standing replacement for human labor they appear to be. <strong>They are trained with and learn from human data</strong>. Thus AI, just as much as fields or factories, <strong>offers a critical role for ordinary human labor—as suppliers of data</strong>, or what we will call data as labor. Failing to recognize data as labor could thus create what Lanier calls “fake unemployment,” where jobs dry up not because humans are not useful but because the valuable inputs they supply are treated as by-products of entertainment rather than as socially valued work.</p>
 </blockquote>
 <p>This questions the fear that humans are bound to be obsoleted, or even completely displaced, by computers. But a couple of chapters in <a href="https://www.worldcat.org/title/creativity-code-art-and-innovation-in-the-age-of-ai/oclc/1111379643&#038;referer=brief_results">The creativity code</a> by Marcus Du Sautoy makes me wonder how else humans and computers will work together.</p>

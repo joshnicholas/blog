@@ -3,7 +3,7 @@ title: Mozart was a village
 date: 2017-06-06
 ---
 
-<!--kg-card-begin: html--><p>It&#8217;s hard to fathom the mind of a genius. Although <a href="__GHOST_URL__/index">I really enjoy biographies</a>, I often <a href="http://www.joshnicholas.com/the-first-tycoon-by-tj-stiles/">learn more of and from the world around them</a> than I do from the subject itself.</p>
+<!--kg-card-begin: html--><p>It&#8217;s hard to fathom the mind of a genius. Although <a href="https://joshnicholas.com/index">I really enjoy biographies</a>, I often <a href="http://www.joshnicholas.com/the-first-tycoon-by-tj-stiles/">learn more of and from the world around them</a> than I do from the subject itself.</p>
 <p>In the case of Paul Johnson&#8217;s short, brilliant <a href="https://www.bookdepository.com/Mozart-Life-Paul-Johnson/9780670026371/?a_aid=thambili">biography of Mozart</a>, it&#8217;s Mozart&#8217;s father that piqued my interest. The endless renditions of concertos, operas and symphonies went over my head. But the dotted references to Leopold Mozart, WolfGang Mozart&#8217;s father, humanises both the story and Mozart himself.</p>
 <blockquote><p>
 &quot;Leopold Mozart&#8230; the son of a bookbinder, was a well-educated man with a degree in philosophy who had come to Salzburg in his late teens and joined its musical fraternity as a valet instrumentalist.

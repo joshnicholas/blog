@@ -3,7 +3,7 @@ title: How convenient is it really?
 date: 2019-11-21
 ---
 
-<!--kg-card-begin: html--><p>A <a href="https://twitter.com/dclingi/status/1195014933588664320?s=21">Twitter thread</a> last week had me wondering the most impactful thing I learned over the past decade. It is probably <a href="__GHOST_URL__/how-little-is-too-little-overhead/">this</a> observation from Austin Kleon:</p>
+<!--kg-card-begin: html--><p>A <a href="https://twitter.com/dclingi/status/1195014933588664320?s=21">Twitter thread</a> last week had me wondering the most impactful thing I learned over the past decade. It is probably <a href="https://joshnicholas.com/how-little-is-too-little-overhead/">this</a> observation from Austin Kleon:</p>
 <blockquote><p>Low overhead + “do what you love” = a good life.<br />
 &#8220;I deserve nice things” + “do what you love” = a time bomb.</p>
 </blockquote>
