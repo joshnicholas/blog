@@ -1,5 +1,5 @@
 ---
-title: Walter Isaacson"s Einstein
+title: Walter Isaacsons Einstein
 date: 2012-12-28
 ---
 

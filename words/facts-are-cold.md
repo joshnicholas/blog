@@ -1,5 +1,5 @@
 ---
-title: "Facts" are cold
+title: Facts are cold
 date: 2019-12-20
 ---
 

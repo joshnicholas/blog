@@ -1,5 +1,5 @@
 ---
-title: Don"t be trapped by training
+title: Dont be trapped by training
 date: 2020-01-02
 ---
 

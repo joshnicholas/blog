@@ -1,5 +1,5 @@
 ---
-title: It"s about who you know and trust
+title: Its about who you know and trust
 date: 2019-02-20
 ---
 

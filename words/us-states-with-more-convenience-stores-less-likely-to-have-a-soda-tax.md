@@ -1,5 +1,5 @@
 ---
-title: US states with more convenience stores less likely to have a "sugar tax"
+title: US states with more convenience stores less likely to have a sugar tax
 date: 2016-12-06
 ---
 

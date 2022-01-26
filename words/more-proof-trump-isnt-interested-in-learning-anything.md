@@ -1,5 +1,5 @@
 ---
-title: More proof Trump isn"t interested in learning anything
+title: More proof Trump isnt interested in learning anything
 date: 2018-10-04
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Are you signalling what you think you"re signalling?
+title: Are you signalling what you think youre signalling?
 date: 2020-08-17
 ---
 

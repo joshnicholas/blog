@@ -1,5 +1,5 @@
 ---
-title: We don"t know where science might lead
+title: We dont know where science might lead
 date: 2016-10-11
 ---
 
