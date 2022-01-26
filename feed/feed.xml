@@ -24,20 +24,10 @@
 	</entry>
 	
 	<entry>
-		<title>This is my mobile test.</title>
-		<link href="https://joshnicholas.com/blog/posts/mobtest/"/>
-		<updated>2022-01-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/posts/mobtest/</id>
-		<content type="html">&lt;p&gt;This is a test of posting from my phone using working copy.&lt;/p&gt;
-&lt;p&gt;It&#39;s not actually too bad of a working environment, I must say? Although maybe I won&#39;t type directly into here.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Negombo fishing</title>
-		<link href="https://joshnicholas.com/blog/photos/2022-01-15/"/>
+		<link href="https://joshnicholas.com/blog/photos/negombo-fishing-2/"/>
 		<updated>2022-01-15T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2022-01-15/</id>
+		<id>https://joshnicholas.com/blog/photos/negombo-fishing-2/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Negombo.jpeg&quot; alt=&quot;&#39;Negombo fishing&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 Not bad for an iPhone snap. The best camera is the one with you etc. etc.&lt;/p&gt;
@@ -45,10 +35,32 @@ Not bad for an iPhone snap. The best camera is the one with you etc. etc.&lt;/p&
 	</entry>
 	
 	<entry>
+		<title>New watercolour set for Christmas</title>
+		<link href="https://joshnicholas.com/blog/scribbles/new-watercolour-set-for-christmas/"/>
+		<updated>2021-12-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/new-watercolour-set-for-christmas/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Face-2.jpeg&quot; alt=&quot;&#39;New watercolour set for Christmas&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+They aren&#39;t very pigmented. Nice colours though. Mouse modelling again&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Foreheadshortening</title>
+		<link href="https://joshnicholas.com/blog/scribbles/foreheadshortening/"/>
+		<updated>2021-12-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/foreheadshortening/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Head3.jpeg&quot; alt=&quot;&#39;Foreheadshortening&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Ant head&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>At the temple</title>
-		<link href="https://joshnicholas.com/blog/photos/2021-12-23/"/>
+		<link href="https://joshnicholas.com/blog/photos/at-the-temple/"/>
 		<updated>2021-12-23T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2021-12-23/</id>
+		<id>https://joshnicholas.com/blog/photos/at-the-temple/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Toothtemple.jpeg&quot; alt=&quot;&#39;At the temple&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 First decent photo I’ve taken at the Temple of the Tooth in Kandy.&lt;/p&gt;
@@ -57,9 +69,9 @@ First decent photo I’ve taken at the Temple of the Tooth in Kandy.&lt;/p&gt;
 	
 	<entry>
 		<title>Temple flowers</title>
-		<link href="https://joshnicholas.com/blog/photos/2021-12-11/"/>
+		<link href="https://joshnicholas.com/blog/photos/temple-flowers/"/>
 		<updated>2021-12-11T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2021-12-11/</id>
+		<id>https://joshnicholas.com/blog/photos/temple-flowers/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Flower-stall.jpeg&quot; alt=&quot;&#39;Temple flowers&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 Just outside the temple gates&lt;/p&gt;
@@ -67,20 +79,756 @@ Just outside the temple gates&lt;/p&gt;
 	</entry>
 	
 	<entry>
+		<title>Not moving enough</title>
+		<link href="https://joshnicholas.com/blog/scribbles/not-moving-enough/"/>
+		<updated>2021-12-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/not-moving-enough/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Notmoving.jpeg&quot; alt=&quot;&#39;Not moving enough&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Practicing planes.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Maybe it’s the light</title>
+		<link href="https://joshnicholas.com/blog/scribbles/maybe-its-the-light/"/>
+		<updated>2021-12-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/maybe-its-the-light/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Light.jpeg&quot; alt=&quot;&#39;Maybe it’s the light&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Have to work on planes</title>
+		<link href="https://joshnicholas.com/blog/scribbles/have-to-work-on-planes/"/>
+		<updated>2021-11-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/have-to-work-on-planes/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Gradients.jpeg&quot; alt=&quot;&#39;Have to work on planes&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Haven&#39;t quite captured all the planes of the face.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>New drawing book</title>
+		<link href="https://joshnicholas.com/blog/scribbles/new-drawing-book/"/>
+		<updated>2021-11-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/new-drawing-book/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Mouse-again.jpeg&quot; alt=&quot;&#39;New drawing book&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Got myself a new drawing book. Now attempting to go from big shapes to small.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Drawing old dutch oils</title>
+		<link href="https://joshnicholas.com/blog/scribbles/drawing-old-dutch-oils/"/>
+		<updated>2021-05-31T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/drawing-old-dutch-oils/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Cap.jpeg&quot; alt=&quot;&#39;Drawing old dutch oils&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Pidgins</title>
+		<link href="https://joshnicholas.com/blog/scribbles/pidgins/"/>
+		<updated>2021-05-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/pidgins/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Pidegons.jpeg&quot; alt=&quot;&#39;Pidgins&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Was quite nice a nice morning to sit in the park.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>More head studies</title>
+		<link href="https://joshnicholas.com/blog/scribbles/more-head-studies/"/>
+		<updated>2021-05-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/more-head-studies/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Mushy3.jpeg&quot; alt=&quot;&#39;More head studies&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Finally have a space just for art!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Sydney morning greyscale</title>
+		<link href="https://joshnicholas.com/blog/scribbles/sydney-morning-greyscale/"/>
+		<updated>2021-04-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/sydney-morning-greyscale/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Streetcornercafe.jpeg&quot; alt=&quot;&#39;Sydney morning greyscale&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Afternoon by the harbour</title>
+		<link href="https://joshnicholas.com/blog/scribbles/afternoon-by-the-harbour/"/>
+		<updated>2021-04-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/afternoon-by-the-harbour/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Ferry.jpeg&quot; alt=&quot;&#39;Afternoon by the harbour&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Clovelly rocks</title>
+		<link href="https://joshnicholas.com/blog/scribbles/clovelly-rocks/"/>
+		<updated>2021-01-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/clovelly-rocks/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Couple.jpeg&quot; alt=&quot;&#39;Clovelly rocks&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Quick scribbles around the rock platforms in Clovelly.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Scribble around Surry</title>
+		<link href="https://joshnicholas.com/blog/scribbles/scribble-around-surry/"/>
+		<updated>2021-01-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/scribble-around-surry/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Grocery.jpeg&quot; alt=&quot;&#39;Scribble around Surry&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Some head studies</title>
+		<link href="https://joshnicholas.com/blog/scribbles/some-head-studies/"/>
+		<updated>2020-12-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/some-head-studies/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Cue.jpeg&quot; alt=&quot;&#39;Some head studies&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Out of the woods</title>
+		<link href="https://joshnicholas.com/blog/scribbles/out-of-the-woods/"/>
+		<updated>2020-11-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/out-of-the-woods/</id>
+		<content type="html">&lt;br /&gt;
+Not liking graphite on toned paper so much.</content>
+	</entry>
+	
+	<entry>
+		<title>A bar in the time of covid</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-bar-in-the-time-of-covid/"/>
+		<updated>2020-10-31T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-bar-in-the-time-of-covid/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/53DAF7A4-8DEB-403E-B082-51E949B9EB8A_1_105_c.jpeg&quot; alt=&quot;&#39;A bar in the time of covid&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Quick sketch while getting a beer.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Side eye</title>
+		<link href="https://joshnicholas.com/blog/scribbles/side-eye-2/"/>
+		<updated>2020-10-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/side-eye-2/</id>
+		<content type="html">&lt;br /&gt;
+Started reading a biography of Cézanne. Still haven&#39;t figured out how to avoid
+watercolour blooms.</content>
+	</entry>
+	
+	<entry>
+		<title>Portrait of the artist...</title>
+		<link href="https://joshnicholas.com/blog/scribbles/portrait-of-the-artist/"/>
+		<updated>2020-10-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/portrait-of-the-artist/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Arteest.jpeg&quot; alt=&quot;&#39;Portrait of the artist...&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+...as an old man.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Keeeels</title>
+		<link href="https://joshnicholas.com/blog/scribbles/keeeels/"/>
+		<updated>2020-10-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/keeeels/</id>
+		<content type="html">&lt;br /&gt;
+There&#39;s nothing quite like painting a portrait and having it recognised by face
+detection on the camera.</content>
+	</entry>
+	
+	<entry>
+		<title>How do you draw desert?</title>
+		<link href="https://joshnicholas.com/blog/scribbles/how-do-you-draw-desert/"/>
+		<updated>2020-10-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/how-do-you-draw-desert/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Abdulrahmansroom.jpeg&quot; alt=&quot;&#39;How do you draw desert?&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+The latest window swap [&lt;a href=&quot;https://window-swap.com/&quot;&gt;https://window-swap.com/&lt;/a&gt;] sketch. I never even realised&lt;br /&gt;
+that people lived so close to the pyramids in Egypt. One reason I really miss&lt;br /&gt;
+about traveling, and I’m loving on this site, is the contrast between the&lt;br /&gt;
+wondrous and banal.&lt;/p&gt;
+&lt;p&gt;Still not very successful with the darks 🤔. But I think the contrasts are&lt;br /&gt;
+working with the buildings.&lt;/p&gt;
+&lt;p&gt;#8 [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/tag/windows]&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Can&#39;t remember whose window</title>
+		<link href="https://joshnicholas.com/blog/scribbles/cant-remember-whos-window/"/>
+		<updated>2020-10-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/cant-remember-whos-window/</id>
+		<content type="html">&lt;br /&gt;
+The latest window swap [https://window-swap.com/] sketch. I&#39;ve lost track of the
+source image but head over to window swap, click enough and you should find it. 
+&lt;p&gt;Anyway, I&#39;d recently been trying to go very dark but this reminds me of how&lt;br /&gt;
+peaceful it can be when I let the page shine through.&lt;/p&gt;
+&lt;p&gt;#7 [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/tag/windows]&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Anna&#39;s window</title>
+		<link href="https://joshnicholas.com/blog/scribbles/annas-window/"/>
+		<updated>2020-10-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/annas-window/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Annaswindow-2.jpeg&quot; alt=&quot;&#39;Anna&#39;s window&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+The latest window swap [&lt;a href=&quot;https://window-swap.com/&quot;&gt;https://window-swap.com/&lt;/a&gt;] sketch. This one of a window&lt;br /&gt;
+in Brooklyn, New York. I&#39;ve been focusing on improving value ranges recently.&lt;br /&gt;
+So, a lot of window sketches in greyscale using water soluble graphite.&lt;/p&gt;
+&lt;p&gt;#6 [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/tag/windows]&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Swim with the</title>
+		<link href="https://joshnicholas.com/blog/scribbles/swim-with-the/"/>
+		<updated>2020-10-01T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/swim-with-the/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Graphfish.jpeg&quot; alt=&quot;&#39;Swim with the&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+First time properly doing Inktober! Probably gonna keep going with value&lt;br /&gt;
+studies.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Nondestinct</title>
+		<link href="https://joshnicholas.com/blog/scribbles/nondestinct/"/>
+		<updated>2020-09-30T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/nondestinct/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Phnompenh.jpeg&quot; alt=&quot;&#39;Nondestinct&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Another window swap [&lt;a href=&quot;https://window-swap.com/&quot;&gt;https://window-swap.com/&lt;/a&gt;] sketch. This one is of Phnom&lt;br /&gt;
+Penh, where I was earlier this year&lt;br /&gt;
+[&lt;strong&gt;GHOST_URL&lt;/strong&gt;/think-theres-a-monastery-at-the-end-of-my-street/] as the&lt;br /&gt;
+pandemic really took off.&lt;/p&gt;
+&lt;p&gt;Hope I can go back some day and finish the trip. Will take my new watercolours.&lt;/p&gt;
+&lt;p&gt;#5 [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/tag/windows]&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Bit cartoony</title>
+		<link href="https://joshnicholas.com/blog/scribbles/but-cartoony/"/>
+		<updated>2020-09-30T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/but-cartoony/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Untitled.jpeg&quot; alt=&quot;&#39;Bit cartoony&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Another window swap [&lt;a href=&quot;https://window-swap.com/&quot;&gt;https://window-swap.com/&lt;/a&gt;] sketch. This time of a window in&lt;br /&gt;
+Manhattan, New York.&lt;/p&gt;
+&lt;p&gt;Getting a bit better with watercolours, but not much depth. Need to stop with&lt;br /&gt;
+the flat planes.&lt;/p&gt;
+&lt;p&gt;#4 [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/tag/windows]&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>philtruuuuum</title>
+		<link href="https://joshnicholas.com/blog/scribbles/philtruuuuum/"/>
+		<updated>2020-09-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/philtruuuuum/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Tonedmouse.jpeg&quot; alt=&quot;&#39;philtruuuuum&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Messed up some proportions but still loving toned paper.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>So many orange buildings</title>
+		<link href="https://joshnicholas.com/blog/scribbles/so-many-orange-buildings/"/>
+		<updated>2020-09-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/so-many-orange-buildings/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Romewindowsketch.jpeg&quot; alt=&quot;&#39;So many orange buildings&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Second attempt at a window swap [&lt;a href=&quot;https://window-swap.com/&quot;&gt;https://window-swap.com&lt;/a&gt;] sketch using&lt;br /&gt;
+watercolours. Watercolour pencils this time. Need to remember to use watercolour&lt;br /&gt;
+paper rather than a regular sketchbook.&lt;/p&gt;
+&lt;p&gt;There an awful lot of orange buildings in this collection.&lt;/p&gt;
+&lt;p&gt;#3 [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/tag/windows/]&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Gotta watch those mid-tones</title>
+		<link href="https://joshnicholas.com/blog/scribbles/gotta-watch-those-mid-tones/"/>
+		<updated>2020-09-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/gotta-watch-those-mid-tones/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Midtone-portrait.jpeg&quot; alt=&quot;&#39;Gotta watch those mid-tones&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+First time working with toned paper. I like it.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Need more window gardens imo</title>
+		<link href="https://joshnicholas.com/blog/scribbles/need-more-window-gardens/"/>
+		<updated>2020-08-30T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/need-more-window-gardens/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Windowswap2.jpeg&quot; alt=&quot;&#39;Need more window gardens imo&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Another [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/a-dog-with-a-view/] window from window swap&lt;br /&gt;
+[&lt;a href=&quot;https://window-swap.com/&quot;&gt;https://window-swap.com&lt;/a&gt;].&lt;/p&gt;
+&lt;p&gt;#2 [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/tag/windows/]&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Sign of the times</title>
+		<link href="https://joshnicholas.com/blog/scribbles/sign-of-the-times/"/>
+		<updated>2020-08-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/sign-of-the-times/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Covidtests.jpeg&quot; alt=&quot;&#39;Sign of the times&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+They’re back around Surfers.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Kinda exxy</title>
+		<link href="https://joshnicholas.com/blog/scribbles/kinda-exxy/"/>
+		<updated>2020-08-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/kinda-exxy/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Coldbrew.jpeg&quot; alt=&quot;&#39;Kinda exxy&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Market again today&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>A dog with a view</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-dog-with-a-view/"/>
+		<updated>2020-08-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-dog-with-a-view/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Windowchallenge1.jpeg&quot; alt=&quot;&#39;A dog with a view&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Recently discovered a brilliant “window swapping” website&lt;br /&gt;
+[&lt;a href=&quot;https://window-swap.com/&quot;&gt;https://window-swap.com&lt;/a&gt;] during Covid. Going to see how many I can draw.&lt;/p&gt;
+&lt;p&gt;#1 [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/tag/windows/]&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Breakfast on the balcony</title>
+		<link href="https://joshnicholas.com/blog/scribbles/breakfast-on-the-balcony/"/>
+		<updated>2020-08-28T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/breakfast-on-the-balcony/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Omabreakfasting.jpeg&quot; alt=&quot;&#39;Breakfast on the balcony&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Quickly caught my Grandma breakfasting on the balcony.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Cafe man</title>
+		<link href="https://joshnicholas.com/blog/scribbles/cafe-man/"/>
+		<updated>2020-08-25T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/cafe-man/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Cafeman.jpeg&quot; alt=&quot;&#39;Cafe man&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Been a fair while since I could just sit and work in a cafe.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Flowerpot2</title>
+		<link href="https://joshnicholas.com/blog/scribbles/flowerpot2/"/>
+		<updated>2020-08-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/flowerpot2/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Flowerpot-2.jpeg&quot; alt=&quot;&#39;Flowerpot2&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Better values than last time [&lt;strong&gt;GHOST_URL&lt;/strong&gt;/new-graphite/].&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Another market day</title>
+		<link href="https://joshnicholas.com/blog/scribbles/another-market-day/"/>
+		<updated>2020-08-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/another-market-day/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Singing.jpeg&quot; alt=&quot;&#39;Another market day&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Oh Grandma where art thou</title>
+		<link href="https://joshnicholas.com/blog/scribbles/oh-grandma-where-are-thou/"/>
+		<updated>2020-08-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/oh-grandma-where-are-thou/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Grandma.jpeg&quot; alt=&quot;&#39;Oh Grandma where art thou&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Rusty bucket</title>
+		<link href="https://joshnicholas.com/blog/scribbles/rusty-bucket/"/>
+		<updated>2020-08-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/rusty-bucket/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Broadwaterboat.jpeg&quot; alt=&quot;&#39;Rusty bucket&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Waiting for caffeine</title>
+		<link href="https://joshnicholas.com/blog/scribbles/waiting-for-caffeine/"/>
+		<updated>2020-08-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/waiting-for-caffeine/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Coffeewaiting.jpeg&quot; alt=&quot;&#39;Waiting for caffeine&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Practicing hatching</title>
+		<link href="https://joshnicholas.com/blog/scribbles/practicing-hatching/"/>
+		<updated>2020-08-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/practicing-hatching/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Hatchingmarket.jpeg&quot; alt=&quot;&#39;Practicing hatching&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Sleep</title>
+		<link href="https://joshnicholas.com/blog/scribbles/sleep/"/>
+		<updated>2020-08-12T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/sleep/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Sleepingbenny.jpeg&quot; alt=&quot;&#39;Sleep&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Monkfish</title>
+		<link href="https://joshnicholas.com/blog/scribbles/monkfish/"/>
+		<updated>2020-08-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/monkfish/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Monk.jpeg&quot; alt=&quot;&#39;Monkfish&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Been looking at a lot of Senaka Senanayake paintings.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>New graphite</title>
+		<link href="https://joshnicholas.com/blog/scribbles/new-graphite/"/>
+		<updated>2020-08-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/new-graphite/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Flowerpot.jpeg&quot; alt=&quot;&#39;New graphite&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Still trying to figure out my new graphite blocks. Probably should stop drawing&lt;br /&gt;
+such dark lines.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Where the magic happens</title>
+		<link href="https://joshnicholas.com/blog/scribbles/where-the-magic-happens/"/>
+		<updated>2020-08-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/where-the-magic-happens/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Desk.jpeg&quot; alt=&quot;&#39;Where the magic happens&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>In lila</title>
+		<link href="https://joshnicholas.com/blog/scribbles/in-lila/"/>
+		<updated>2020-08-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/in-lila/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Inlila.jpeg&quot; alt=&quot;&#39;In lila&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Study 2</title>
+		<link href="https://joshnicholas.com/blog/scribbles/study-2/"/>
+		<updated>2020-08-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/study-2/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Study2.jpeg&quot; alt=&quot;&#39;Study 2&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Based on a Bellini.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Study 1</title>
+		<link href="https://joshnicholas.com/blog/scribbles/study-1/"/>
+		<updated>2020-08-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/study-1/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Study1.jpeg&quot; alt=&quot;&#39;Study 1&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Working my way through some drawing books.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Piped in</title>
+		<link href="https://joshnicholas.com/blog/scribbles/piped-in/"/>
+		<updated>2020-08-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/piped-in/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Pipedin.jpeg&quot; alt=&quot;&#39;Piped in&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Can you pull off fauvism with crayons?&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Chin butt</title>
+		<link href="https://joshnicholas.com/blog/scribbles/chin-butt/"/>
+		<updated>2020-07-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/chin-butt/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Chinbutt.jpeg&quot; alt=&quot;&#39;Chin butt&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Simple lines</title>
+		<link href="https://joshnicholas.com/blog/scribbles/simple-lines/"/>
+		<updated>2020-07-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/simple-lines/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Gogh2.jpeg&quot; alt=&quot;&#39;Simple lines&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Trying to nail more abstract portraits, with simpler lines&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Out for lunch</title>
+		<link href="https://joshnicholas.com/blog/scribbles/out-for-lunch/"/>
+		<updated>2020-07-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/out-for-lunch/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Fancy.jpeg&quot; alt=&quot;&#39;Out for lunch&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+How much longer will this be tenable?&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Selfie</title>
+		<link href="https://joshnicholas.com/blog/scribbles/selfie-7/"/>
+		<updated>2020-07-13T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/selfie-7/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Selfie7.jpeg&quot; alt=&quot;&#39;Selfie #7&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Been reading about Matisse&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>John Dickinson</title>
+		<link href="https://joshnicholas.com/blog/scribbles/john-dickinson/"/>
+		<updated>2020-07-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/john-dickinson/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Dickinson.jpeg&quot; alt=&quot;&#39;John Dickinson&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Breaking out the sketching crayons!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The sower</title>
+		<link href="https://joshnicholas.com/blog/scribbles/the-sower/"/>
+		<updated>2020-07-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/the-sower/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Sower2.jpeg&quot; alt=&quot;&#39;The sower&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Hard not to get inspired when reading about Van Gogh&lt;br /&gt;
+[&lt;strong&gt;GHOST_URL&lt;/strong&gt;/teach-a-man-to-fish/].&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Red sower</title>
+		<link href="https://joshnicholas.com/blog/scribbles/red-sower/"/>
+		<updated>2020-07-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/red-sower/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Sowerred.jpeg&quot; alt=&quot;&#39;Red sower&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Hadn’t broken out sketching crayons in a while.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>About time</title>
+		<link href="https://joshnicholas.com/blog/scribbles/about-time/"/>
+		<updated>2020-07-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/about-time/</id>
+		<content type="html">&lt;br /&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Why are these plants everywhere?</title>
+		<link href="https://joshnicholas.com/blog/scribbles/why-are-these-plants-everywhere/"/>
+		<updated>2020-07-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/why-are-these-plants-everywhere/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/Indoor-palm.jpeg&quot; alt=&quot;&#39;Why are these plants everywhere?&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+It’s a palm, I think?&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Yorked again</title>
+		<link href="https://joshnicholas.com/blog/scribbles/yorked-again/"/>
+		<updated>2020-06-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/yorked-again/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/0Yorkedagain1.jpg&quot; alt=&quot;&#39;Yorked again&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Strauss in da hauss</title>
+		<link href="https://joshnicholas.com/blog/scribbles/strauss-in-da-hauss/"/>
+		<updated>2020-06-28T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/strauss-in-da-hauss/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/1Straussindahausss.png&quot; alt=&quot;&#39;Strauss in da hauss&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Yorked</title>
+		<link href="https://joshnicholas.com/blog/scribbles/yorked/"/>
+		<updated>2020-06-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/yorked/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/2Yorkedd-1.jpg&quot; alt=&quot;&#39;Yorked&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Bit exxy</title>
+		<link href="https://joshnicholas.com/blog/scribbles/bit-exxy/"/>
+		<updated>2020-06-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/bit-exxy/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/3Bitexxyd.jpg&quot; alt=&quot;&#39;Bit exxy&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Surfers are returning, nature is healing</title>
-		<link href="https://joshnicholas.com/blog/photos/2020-06-21/"/>
+		<link href="https://joshnicholas.com/blog/photos/surfers-are-returning-nature-is-healing/"/>
 		<updated>2020-06-21T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2020-06-21/</id>
+		<id>https://joshnicholas.com/blog/photos/surfers-are-returning-nature-is-healing/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/0Surfersarereturning-natureishealing.jpg&quot; alt=&quot;&#39;Surfers are returning, nature is healing&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
+		<title>aho and maho</title>
+		<link href="https://joshnicholas.com/blog/scribbles/aho-and-maho/"/>
+		<updated>2020-06-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/aho-and-maho/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/4ahoandmaho1.jpg&quot; alt=&quot;&#39;aho and maho&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Kûrvi-Tasch</title>
+		<link href="https://joshnicholas.com/blog/scribbles/kurvi-tasch/"/>
+		<updated>2020-06-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/kurvi-tasch/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/5Ku-rvi-Tasch.jpeg&quot; alt=&quot;&#39;Kûrvi-Tasch&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Laksa man</title>
+		<link href="https://joshnicholas.com/blog/scribbles/laksa-man/"/>
+		<updated>2020-05-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/laksa-man/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/6Laksaman.jpeg&quot; alt=&quot;&#39;Laksa man&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Hmph</title>
+		<link href="https://joshnicholas.com/blog/scribbles/hmph-scribble/"/>
+		<updated>2020-05-25T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/hmph-scribble/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/7Hmph.jpeg&quot; alt=&quot;&#39;Hmph&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Side eye</title>
+		<link href="https://joshnicholas.com/blog/scribbles/side-eye/"/>
+		<updated>2020-05-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/side-eye/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/10Sideeye.jpeg&quot; alt=&quot;&#39;Side eye&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Selfie</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-josh-a-day-6/"/>
+		<updated>2020-05-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-josh-a-day-6/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/8Selfie-6.jpeg&quot; alt=&quot;&#39;Selfie #6&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Shannon</title>
+		<link href="https://joshnicholas.com/blog/scribbles/claude-shannon-scribble/"/>
+		<updated>2020-05-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/claude-shannon-scribble/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/11Shannon.jpeg&quot; alt=&quot;&#39;Shannon&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Selfie</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-josh-a-day-5/"/>
+		<updated>2020-05-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-josh-a-day-5/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/12Selfie-5.jpeg&quot; alt=&quot;&#39;Selfie #5&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Gulley</title>
-		<link href="https://joshnicholas.com/blog/photos/2020-05-21/"/>
+		<link href="https://joshnicholas.com/blog/photos/gulley/"/>
 		<updated>2020-05-21T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2020-05-21/</id>
+		<id>https://joshnicholas.com/blog/photos/gulley/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/1Gulley.jpg&quot; alt=&quot;&#39;Gulley&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -88,59 +836,705 @@ Just outside the temple gates&lt;/p&gt;
 	
 	<entry>
 		<title>Distance</title>
-		<link href="https://joshnicholas.com/blog/photos/2020-05-19/"/>
+		<link href="https://joshnicholas.com/blog/photos/distance/"/>
 		<updated>2020-05-19T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2020-05-19/</id>
+		<id>https://joshnicholas.com/blog/photos/distance/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/2Distance.jpg&quot; alt=&quot;&#39;Distance&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
+		<title>Sitting by the dock of the bay</title>
+		<link href="https://joshnicholas.com/blog/scribbles/sitting-by-the-dock-of-the-bay/"/>
+		<updated>2020-05-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/sitting-by-the-dock-of-the-bay/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/13Sittingbythedockofthebay.jpeg&quot; alt=&quot;&#39;Sitting by the dock of the bay&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>First time back at the market</title>
-		<link href="https://joshnicholas.com/blog/photos/2020-05-16/"/>
+		<link href="https://joshnicholas.com/blog/photos/first-time-back-at-the-market/"/>
 		<updated>2020-05-16T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2020-05-16/</id>
+		<id>https://joshnicholas.com/blog/photos/first-time-back-at-the-market/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/3Firsttimebackatthemarket.jpg&quot; alt=&quot;&#39;First time back at the market&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
+		<title>Selfie</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-josh-a-day-4/"/>
+		<updated>2020-05-13T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-josh-a-day-4/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/14Selfie-4.jpeg&quot; alt=&quot;&#39;Selfie #4&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Selfie</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-josh-a-day-3/"/>
+		<updated>2020-05-12T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-josh-a-day-3/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/15Selfie-3.jpeg&quot; alt=&quot;&#39;Selfie #3&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Selfie</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-josh-a-day-2/"/>
+		<updated>2020-05-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-josh-a-day-2/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/16Selfie-2.jpeg&quot; alt=&quot;&#39;Selfie #2&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Selfie</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-josh-a-day-1/"/>
+		<updated>2020-05-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-josh-a-day-1/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/18Selfie-1.jpeg&quot; alt=&quot;&#39;Selfie #1&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Selfie</title>
+		<link href="https://joshnicholas.com/blog/scribbles/a-josh-a-day-1-5/"/>
+		<updated>2020-05-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/a-josh-a-day-1-5/</id>
+		<content type="html">&lt;br /&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Paddlin</title>
-		<link href="https://joshnicholas.com/blog/photos/2020-05-08/"/>
+		<link href="https://joshnicholas.com/blog/photos/paddlin/"/>
 		<updated>2020-05-08T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2020-05-08/</id>
+		<id>https://joshnicholas.com/blog/photos/paddlin/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/paddlin.jpeg&quot; alt=&quot;&#39;Paddlin&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Lockdown games</title>
-		<link href="https://joshnicholas.com/blog/photos/2020-04-23/"/>
+		<title>White rabbits</title>
+		<link href="https://joshnicholas.com/blog/scribbles/white-rabbits/"/>
+		<updated>2020-05-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/white-rabbits/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/19Whiterabbits7.jpg&quot; alt=&quot;&#39;White rabbits&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>In a mood</title>
+		<link href="https://joshnicholas.com/blog/scribbles/in-a-mood/"/>
+		<updated>2020-05-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/in-a-mood/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/20Inamood2.jpg&quot; alt=&quot;&#39;In a mood&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Søren not Søren</title>
+		<link href="https://joshnicholas.com/blog/scribbles/soren-not-soren/"/>
+		<updated>2020-05-06T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/soren-not-soren/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/22S-rennotS-ren9.jpg&quot; alt=&quot;&#39;Søren not Søren&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Got a new brush pen</title>
+		<link href="https://joshnicholas.com/blog/scribbles/got-a-new-brush-pen/"/>
+		<updated>2020-05-06T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/got-a-new-brush-pen/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/21Gotanewbrushpen2.jpg&quot; alt=&quot;&#39;Got a new brush pen&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Definitely not Kierkegaard</title>
+		<link href="https://joshnicholas.com/blog/scribbles/definitely-not-kierkegaard/"/>
+		<updated>2020-05-05T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/definitely-not-kierkegaard/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/23DefinitelynotKierkegaard7.jpg&quot; alt=&quot;&#39;Definitely not Kierkegaard&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Oh Dahvid</title>
+		<link href="https://joshnicholas.com/blog/scribbles/oh-dahvid/"/>
+		<updated>2020-04-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/oh-dahvid/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/25OhDahvid8.jpg&quot; alt=&quot;&#39;Oh Dahvid&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>GnT</title>
+		<link href="https://joshnicholas.com/blog/scribbles/gnt/"/>
+		<updated>2020-04-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/gnt/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/24GnT0.jpg&quot; alt=&quot;&#39;GnT&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The space</title>
+		<link href="https://joshnicholas.com/blog/scribbles/the-space/"/>
+		<updated>2020-04-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/the-space/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/26Thespace5.jpg&quot; alt=&quot;&#39;The space&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Keeps going</title>
+		<link href="https://joshnicholas.com/blog/scribbles/keeps-going/"/>
 		<updated>2020-04-23T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2020-04-23/</id>
+		<id>https://joshnicholas.com/blog/scribbles/keeps-going/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/27Keepsgoing6.jpg&quot; alt=&quot;&#39;Keeps going&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Lockdown games</title>
+		<link href="https://joshnicholas.com/blog/photos/lockdown-games/"/>
+		<updated>2020-04-23T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/lockdown-games/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/5Lockdowngames.jpg&quot; alt=&quot;&#39;Lockdown games&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Booots</title>
-		<link href="https://joshnicholas.com/blog/photos/2020-04-14/"/>
+		<title>Lockdown day whatever</title>
+		<link href="https://joshnicholas.com/blog/scribbles/lockdown-day-whatever/"/>
+		<updated>2020-04-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/lockdown-day-whatever/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/28Lockdowndaywhatever5.png&quot; alt=&quot;&#39;Lockdown day whatever&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Subjects starting to run dry</title>
+		<link href="https://joshnicholas.com/blog/scribbles/subjects-starting-to-run-dry/"/>
+		<updated>2020-04-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/subjects-starting-to-run-dry/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/29Subjectsstartingtorundry2.jpg&quot; alt=&quot;&#39;Subjects starting to run dry&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Pain point</title>
+		<link href="https://joshnicholas.com/blog/scribbles/pain-point/"/>
+		<updated>2020-04-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/pain-point/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/30Painpoint4.png&quot; alt=&quot;&#39;Pain point&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Scribbling to mediocrity</title>
+		<link href="https://joshnicholas.com/blog/scribbles/scribbling-to-mediocrity/"/>
 		<updated>2020-04-14T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2020-04-14/</id>
+		<id>https://joshnicholas.com/blog/scribbles/scribbling-to-mediocrity/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/31Scribblingtomediocrity3.png&quot; alt=&quot;&#39;Scribbling to mediocrity&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Out and aboot</title>
+		<link href="https://joshnicholas.com/blog/photos/out-and-aboot/"/>
+		<updated>2020-04-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/out-and-aboot/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/7Outandaboot.jpg&quot; alt=&quot;&#39;Out and aboot&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Booots</title>
+		<link href="https://joshnicholas.com/blog/photos/booots/"/>
+		<updated>2020-04-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/booots/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/6Booots.jpg&quot; alt=&quot;&#39;Booots&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Tel Aviv streets</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-13/"/>
+		<title>Elementary</title>
+		<link href="https://joshnicholas.com/blog/scribbles/elementary/"/>
+		<updated>2020-04-12T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/elementary/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/32Elementary0.jpg&quot; alt=&quot;&#39;Elementary&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Atticus Punding</title>
+		<link href="https://joshnicholas.com/blog/scribbles/atticus-punding/"/>
+		<updated>2020-04-12T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/atticus-punding/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/33AtticusPunding5.png&quot; alt=&quot;&#39;Atticus Punding&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Purple period</title>
+		<link href="https://joshnicholas.com/blog/scribbles/purple-period/"/>
+		<updated>2020-04-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/purple-period/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/34Purpleperiod8.png&quot; alt=&quot;&#39;Purple period&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Financier</title>
+		<link href="https://joshnicholas.com/blog/scribbles/financier/"/>
+		<updated>2020-03-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/financier/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/36Financier2.jpg&quot; alt=&quot;&#39;Financier&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>At the embassy</title>
+		<link href="https://joshnicholas.com/blog/scribbles/at-the-embassy/"/>
+		<updated>2020-03-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/at-the-embassy/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/35Attheembassy3.jpg&quot; alt=&quot;&#39;At the embassy&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>British car day</title>
+		<link href="https://joshnicholas.com/blog/scribbles/british-car-day/"/>
+		<updated>2020-03-01T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/british-car-day/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/38Britishcarday0.jpg&quot; alt=&quot;&#39;British car day&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Doesn’t like green tea</title>
+		<link href="https://joshnicholas.com/blog/scribbles/doesnt-like-green-tea/"/>
+		<updated>2020-02-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/doesnt-like-green-tea/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/39Doesn-tlikegreentea6.jpg&quot; alt=&quot;&#39;Doesn’t like green tea&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Why are hands so hard?</title>
+		<link href="https://joshnicholas.com/blog/scribbles/why-are-hands-so-hard/"/>
+		<updated>2020-02-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/why-are-hands-so-hard/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/40Whyarehandssohard-6.jpg&quot; alt=&quot;&#39;Why are hands so hard?&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Mouse in profile</title>
+		<link href="https://joshnicholas.com/blog/scribbles/mouse-in-profile/"/>
+		<updated>2020-02-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/mouse-in-profile/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/41Mouseinprofile2.jpg&quot; alt=&quot;&#39;Mouse in profile&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Lil tree</title>
+		<link href="https://joshnicholas.com/blog/scribbles/lil-tree/"/>
+		<updated>2020-02-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/lil-tree/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/43Liltree6.jpg&quot; alt=&quot;&#39;Lil tree&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Cafe cat</title>
+		<link href="https://joshnicholas.com/blog/scribbles/cafe-cat/"/>
+		<updated>2020-02-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/cafe-cat/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/42Cafecat1.jpg&quot; alt=&quot;&#39;Cafe cat&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Arrived in Bangkok</title>
+		<link href="https://joshnicholas.com/blog/scribbles/arrived-in-bangkok/"/>
+		<updated>2020-02-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/arrived-in-bangkok/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/44ArrivedinBangkok1.jpg&quot; alt=&quot;&#39;Arrived in Bangkok&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>I went to a farm in Siem Reap!</title>
+		<link href="https://joshnicholas.com/blog/scribbles/i-went-to-a-farm-in-siem-reap/"/>
+		<updated>2020-02-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/i-went-to-a-farm-in-siem-reap/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/45IwenttoafarminSiemReap-3.jpg&quot; alt=&quot;&#39;I went to a farm in Siem Reap!&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The anti-coronavirus flow chart</title>
+		<link href="https://joshnicholas.com/blog/scribbles/the-anti-coronavirus-flow-chart/"/>
+		<updated>2020-02-01T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/the-anti-coronavirus-flow-chart/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/rona.jpg&quot; alt=&quot;&#39;The anti-coronavirus flow chart&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Been reading a lot of guides over the past few weeks and this seems to be the&lt;br /&gt;
+gist. The World Health Organisation&lt;br /&gt;
+[&lt;a href=&quot;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public&quot;&gt;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public&lt;/a&gt;]&lt;br /&gt;
+has more info.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Really loving the remorque’s in Cambodia</title>
+		<link href="https://joshnicholas.com/blog/scribbles/really-loving-the-remorques-in-cambodia/"/>
+		<updated>2020-02-01T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/really-loving-the-remorques-in-cambodia/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/48Reallylovingtheremorque-sinCambodia1.jpg&quot; alt=&quot;&#39;Really loving the remorque’s in Cambodia&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>I wanted more rice</title>
+		<link href="https://joshnicholas.com/blog/scribbles/i-wanted-more-rice/"/>
+		<updated>2020-01-31T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/i-wanted-more-rice/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/rice.jpg&quot; alt=&quot;&#39;I wanted more rice&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Seriously this has happened in like three different cities now. I just wanted&lt;br /&gt;
+more rice with the amok 😬&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Some more from Angkor Thom</title>
+		<link href="https://joshnicholas.com/blog/scribbles/some-more-from-angkor-thom/"/>
+		<updated>2020-01-25T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/some-more-from-angkor-thom/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/51SomemorefromAngkorThom8.jpg&quot; alt=&quot;&#39;Some more from Angkor Thom&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Angkor Thom today</title>
+		<link href="https://joshnicholas.com/blog/scribbles/angkor-thom-today/"/>
+		<updated>2020-01-25T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/angkor-thom-today/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/53AngkorThomtoday3.jpg&quot; alt=&quot;&#39;Angkor Thom today&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Reflections on a thousand Buddhas</title>
+		<link href="https://joshnicholas.com/blog/scribbles/reflections-on-a-thousand-buddhas/"/>
+		<updated>2020-01-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/reflections-on-a-thousand-buddhas/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/58Reflections-on-a-thousand-Buddhas9.jpg&quot; alt=&quot;&#39;Reflections on a thousand Buddhas&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>More from around Angkor Wat</title>
+		<link href="https://joshnicholas.com/blog/scribbles/more-from-around-angkor-wat/"/>
+		<updated>2020-01-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/more-from-around-angkor-wat/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/55More-from-around-Angkor-Wat1.jpg&quot; alt=&quot;&#39;More from around Angkor Wat&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Finally made it to Angkor Wat</title>
+		<link href="https://joshnicholas.com/blog/scribbles/finally-made-it-to-angkor-wat/"/>
+		<updated>2020-01-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/finally-made-it-to-angkor-wat/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/56FinallymadeittoAngkorWat3.jpg&quot; alt=&quot;&#39;Finally made it to Angkor Wat&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Think there’s a monastery at the end of my street</title>
+		<link href="https://joshnicholas.com/blog/scribbles/think-theres-a-monastery-at-the-end-of-my-street/"/>
+		<updated>2020-01-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/think-theres-a-monastery-at-the-end-of-my-street/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/59Thinkthere-samonasteryattheendofmystreet0.jpg&quot; alt=&quot;&#39;Think there’s a monastery at the end of my street&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Really getting into Khmer architecture</title>
+		<link href="https://joshnicholas.com/blog/scribbles/really-getting-into-khmer-architecture/"/>
+		<updated>2020-01-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/really-getting-into-khmer-architecture/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/60ReallygettingintoKhmerarchitecture3.jpg&quot; alt=&quot;&#39;Really getting into Khmer architecture&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Walking along the Mekong</title>
+		<link href="https://joshnicholas.com/blog/scribbles/walking-along-the-mekong/"/>
+		<updated>2020-01-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/walking-along-the-mekong/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/61WalkingalongtheMekong2.jpg&quot; alt=&quot;&#39;Walking along the Mekong&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Mmmmmboats</title>
+		<link href="https://joshnicholas.com/blog/scribbles/mmmmmboats/"/>
+		<updated>2020-01-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/mmmmmboats/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/62Mmmmmboats1.jpg&quot; alt=&quot;&#39;Mmmmmboats&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Quick lines</title>
+		<link href="https://joshnicholas.com/blog/scribbles/quick-lines/"/>
+		<updated>2020-01-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/quick-lines/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/63Quicklines9.jpg&quot; alt=&quot;&#39;Quick lines&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>In Kuala Lumpur after a long time</title>
+		<link href="https://joshnicholas.com/blog/scribbles/in-kuala-lumpur-after-a-long-time/"/>
+		<updated>2020-01-16T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/in-kuala-lumpur-after-a-long-time/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/64InKualaLumpurafteralongtime7.jpg&quot; alt=&quot;&#39;In Kuala Lumpur after a long time&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Need a scarf</title>
+		<link href="https://joshnicholas.com/blog/scribbles/need-a-scarf/"/>
+		<updated>2019-12-27T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/need-a-scarf/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/68Needascarf5.jpg&quot; alt=&quot;&#39;Need a scarf&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Christmas markets</title>
+		<link href="https://joshnicholas.com/blog/scribbles/christmas-markets/"/>
+		<updated>2019-12-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/christmas-markets/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/69Christmasmarkets2.jpg&quot; alt=&quot;&#39;Christmas markets&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Ghost</title>
+		<link href="https://joshnicholas.com/blog/scribbles/ghost-post/"/>
+		<updated>2019-12-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/ghost-post/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/70Ghost6.jpg&quot; alt=&quot;&#39;Ghost&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Wrinkly</title>
+		<link href="https://joshnicholas.com/blog/scribbles/wrinkly/"/>
+		<updated>2019-12-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/wrinkly/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/72Wrinkly3.png&quot; alt=&quot;&#39;Wrinkly&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Love to Wes Mountain from whom I blatantly plagiarised the style&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Playing with stylii</title>
+		<link href="https://joshnicholas.com/blog/scribbles/playing-with-stylii/"/>
+		<updated>2019-12-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/playing-with-stylii/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/75Playingwithstylii3.jpg&quot; alt=&quot;&#39;Playing with stylii&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>More pot plants</title>
+		<link href="https://joshnicholas.com/blog/scribbles/more-pot-plants/"/>
+		<updated>2019-12-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/more-pot-plants/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/74Morepotplants8.jpg&quot; alt=&quot;&#39;More pot plants&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Square eyed</title>
+		<link href="https://joshnicholas.com/blog/scribbles/square-eyed/"/>
+		<updated>2019-12-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/square-eyed/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/80Squareeyed8.jpg&quot; alt=&quot;&#39;Square eyed&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>I hope it will last</title>
+		<link href="https://joshnicholas.com/blog/scribbles/i-hope-it-will-last/"/>
+		<updated>2019-12-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/i-hope-it-will-last/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/81Ihopeitwilllast8.jpg&quot; alt=&quot;&#39;I hope it will last&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Been watching a fair bit of Disney</title>
+		<link href="https://joshnicholas.com/blog/scribbles/been-watching-a-fair-bit-of-disney/"/>
+		<updated>2019-12-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/been-watching-a-fair-bit-of-disney/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/82BeenwatchingafairbitofDisney5.jpg&quot; alt=&quot;&#39;Been watching a fair bit of Disney&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Schucks</title>
+		<link href="https://joshnicholas.com/blog/scribbles/schucks/"/>
+		<updated>2019-11-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/schucks/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/83Schucks2.jpg&quot; alt=&quot;&#39;Schucks&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Hatman</title>
+		<link href="https://joshnicholas.com/blog/scribbles/hatman/"/>
+		<updated>2019-11-16T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/hatman/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/84Hatman3.jpg&quot; alt=&quot;&#39;Hatman&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>At the library</title>
+		<link href="https://joshnicholas.com/blog/scribbles/at-the-library/"/>
+		<updated>2019-11-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/at-the-library/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/85Atthelibrary6.jpg&quot; alt=&quot;&#39;At the library&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Flatness</title>
+		<link href="https://joshnicholas.com/blog/scribbles/flatness/"/>
+		<updated>2019-11-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/flatness/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/86Flatness3.jpg&quot; alt=&quot;&#39;Flatness&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Omah</title>
+		<link href="https://joshnicholas.com/blog/scribbles/omah/"/>
+		<updated>2019-11-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/omah/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/88Omah8.jpg&quot; alt=&quot;&#39;Omah&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Lipsss</title>
+		<link href="https://joshnicholas.com/blog/scribbles/lipsss/"/>
+		<updated>2019-11-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/lipsss/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/89Lipsss6.jpg&quot; alt=&quot;&#39;Lipsss&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Got some new colours</title>
+		<link href="https://joshnicholas.com/blog/scribbles/got-some-new-colours/"/>
+		<updated>2019-10-30T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/got-some-new-colours/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/90Gotsomenewcolours9.jpg&quot; alt=&quot;&#39;Got some new colours&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Fort railway buses</title>
+		<link href="https://joshnicholas.com/blog/scribbles/fort-railway-buses/"/>
 		<updated>2019-10-13T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-13/</id>
+		<id>https://joshnicholas.com/blog/scribbles/fort-railway-buses/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/93Fortrailwaybuses1.jpg&quot; alt=&quot;&#39;Fort railway buses&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Tel Aviv streets</title>
+		<link href="https://joshnicholas.com/blog/photos/tel-aviv-streets/"/>
+		<updated>2019-10-13T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/tel-aviv-streets/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/8TelAvivstreets.jpg&quot; alt=&quot;&#39;Tel Aviv streets&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -148,29 +1542,59 @@ Just outside the temple gates&lt;/p&gt;
 	
 	<entry>
 		<title>Fishing and Jaffa</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-10/"/>
+		<link href="https://joshnicholas.com/blog/photos/fishing-and-jaffa/"/>
 		<updated>2019-10-10T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-10/</id>
+		<id>https://joshnicholas.com/blog/photos/fishing-and-jaffa/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/9FishingandJaffa.jpg&quot; alt=&quot;&#39;Fishing and Jaffa&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Tel Aviv fishin</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-09/"/>
+		<title>At the bar</title>
+		<link href="https://joshnicholas.com/blog/scribbles/at-the-bar/"/>
 		<updated>2019-10-09T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-09/</id>
+		<id>https://joshnicholas.com/blog/scribbles/at-the-bar/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/94Atthebar9.jpg&quot; alt=&quot;&#39;At the bar&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Tel Aviv fishin</title>
+		<link href="https://joshnicholas.com/blog/photos/tel-aviv-fishin/"/>
+		<updated>2019-10-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/tel-aviv-fishin/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/10TelAvivfishin.jpg&quot; alt=&quot;&#39;Tel Aviv fishin&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Welcome to Jerash</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-07/"/>
+		<title>Scribbling a profile is hard</title>
+		<link href="https://joshnicholas.com/blog/scribbles/scribbling-a-profile-is-hard/"/>
+		<updated>2019-10-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/scribbling-a-profile-is-hard/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/95Scribblingaprofileishard4.jpg&quot; alt=&quot;&#39;Scribbling a profile is hard&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Mouse in the house</title>
+		<link href="https://joshnicholas.com/blog/scribbles/mouse-in-the-house/"/>
 		<updated>2019-10-07T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-07/</id>
+		<id>https://joshnicholas.com/blog/scribbles/mouse-in-the-house/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/96Mouseinthehouse9.jpg&quot; alt=&quot;&#39;Mouse in the house&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Welcome to Jerash</title>
+		<link href="https://joshnicholas.com/blog/photos/welcome-to-the-racecourse/"/>
+		<updated>2019-10-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/welcome-to-the-racecourse/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/11WelcometoJerash.jpg&quot; alt=&quot;&#39;Welcome to Jerash&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -178,9 +1602,9 @@ Just outside the temple gates&lt;/p&gt;
 	
 	<entry>
 		<title>Carting through Petra</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-06/"/>
+		<link href="https://joshnicholas.com/blog/photos/carting-through-petra/"/>
 		<updated>2019-10-06T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-06/</id>
+		<id>https://joshnicholas.com/blog/photos/carting-through-petra/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/12CartingthroughPetra.jpg&quot; alt=&quot;&#39;Carting through Petra&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -188,9 +1612,9 @@ Just outside the temple gates&lt;/p&gt;
 	
 	<entry>
 		<title>Riding through Petra</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-05/"/>
+		<link href="https://joshnicholas.com/blog/photos/riding-through-petra/"/>
 		<updated>2019-10-05T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-05/</id>
+		<id>https://joshnicholas.com/blog/photos/riding-through-petra/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/13RidingthroughPetra.jpg&quot; alt=&quot;&#39;Riding through Petra&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -198,9 +1622,9 @@ Just outside the temple gates&lt;/p&gt;
 	
 	<entry>
 		<title>Deeep in the Petra canyons 🇯🇴</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-04/"/>
+		<link href="https://joshnicholas.com/blog/photos/deeep-in-the-petra-canyons/"/>
 		<updated>2019-10-04T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-04/</id>
+		<id>https://joshnicholas.com/blog/photos/deeep-in-the-petra-canyons/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/14DeeepinthePetracanyons----.jpg&quot; alt=&quot;&#39;Deeep in the Petra canyons 🇯🇴&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -208,29 +1632,299 @@ Just outside the temple gates&lt;/p&gt;
 	
 	<entry>
 		<title>Atop Petra 🇯🇴</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-03/"/>
+		<link href="https://joshnicholas.com/blog/photos/atop-petra/"/>
 		<updated>2019-10-03T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-03/</id>
+		<id>https://joshnicholas.com/blog/photos/atop-petra/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/15AtopPetra----.jpg&quot; alt=&quot;&#39;Atop Petra 🇯🇴&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>In the Jordan desert 🇯🇴</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-10-02/"/>
+		<title>Sydney vividness 🇦🇺</title>
+		<link href="https://joshnicholas.com/blog/photos/sydney-vividness/"/>
 		<updated>2019-10-02T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-10-02/</id>
+		<id>https://joshnicholas.com/blog/photos/sydney-vividness/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/17Sydneyvividness----.jpg&quot; alt=&quot;&#39;Sydney vividness 🇦🇺&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>In the Jordan desert 🇯🇴</title>
+		<link href="https://joshnicholas.com/blog/photos/in-the-jordan-desert/"/>
+		<updated>2019-10-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/in-the-jordan-desert/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/16IntheJordandesert----.jpg&quot; alt=&quot;&#39;In the Jordan desert 🇯🇴&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
+		<title>Morning coffee</title>
+		<link href="https://joshnicholas.com/blog/scribbles/morning-coffee/"/>
+		<updated>2019-09-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/morning-coffee/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/97Morningcoffee5.jpg&quot; alt=&quot;&#39;Morning coffee&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Cool glasses bro 🇱🇰✏️</title>
+		<link href="https://joshnicholas.com/blog/scribbles/cool-glasses/"/>
+		<updated>2019-09-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/cool-glasses/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/98Coolglassesbro------3.jpg&quot; alt=&quot;&#39;Cool glasses bro 🇱🇰✏️&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Galle Face with the port in the background 🇱🇰✏️</title>
+		<link href="https://joshnicholas.com/blog/scribbles/galle-face-scribble/"/>
+		<updated>2019-09-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/galle-face-scribble/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/99GalleFacewiththeportinthebackground------1.jpg&quot; alt=&quot;&#39;Galle Face with the port in the background 🇱🇰✏️&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Cat! 🇱🇰✏️</title>
+		<link href="https://joshnicholas.com/blog/scribbles/cat-drawing/"/>
+		<updated>2019-09-08T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/cat-drawing/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/100Cat-------1.jpg&quot; alt=&quot;&#39;Cat! 🇱🇰✏️&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Scream 🇱🇰✏️</title>
+		<link href="https://joshnicholas.com/blog/scribbles/scream-drawing/"/>
+		<updated>2019-09-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/scream-drawing/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/101Scream------1.jpg&quot; alt=&quot;&#39;Scream 🇱🇰✏️&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>🤔 ✏️🇭🇺</title>
+		<link href="https://joshnicholas.com/blog/scribbles/thinking-thinking-drawing/"/>
+		<updated>2019-08-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/thinking-thinking-drawing/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/104--------1.jpg&quot; alt=&quot;&#39;🤔 ✏️🇭🇺&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Back in London for a few days ✏️🇬🇧</title>
+		<link href="https://joshnicholas.com/blog/scribbles/back-in-london/"/>
+		<updated>2019-08-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/back-in-london/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/103BackinLondonforafewdays------1.jpg&quot; alt=&quot;&#39;Back in London for a few days ✏️🇬🇧&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>I’ll sing you a song a song of the sea 🎶🇬🇧✏️</title>
+		<link href="https://joshnicholas.com/blog/scribbles/__trashed-5/"/>
+		<updated>2019-08-29T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/__trashed-5/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/102I-llsingyouasongasongofthesea--------1.jpg&quot; alt=&quot;&#39;I’ll sing you a song a song of the sea 🎶🇬🇧✏️&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Trying some new colour combinations in Budapest ✏️🇭🇺</title>
+		<link href="https://joshnicholas.com/blog/scribbles/buda-colour-combos/"/>
+		<updated>2019-08-26T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/buda-colour-combos/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/105TryingsomenewcolourcombinationsinBudapest------1.jpg&quot; alt=&quot;&#39;Trying some new colour combinations in Budapest ✏️🇭🇺&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Bought some orange crayons 🙂✏️🇭🇺</title>
+		<link href="https://joshnicholas.com/blog/scribbles/new-orange-crayons/"/>
+		<updated>2019-08-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/new-orange-crayons/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/106Boughtsomeorangecrayons--------4.jpg&quot; alt=&quot;&#39;Bought some orange crayons 🙂✏️🇭🇺&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Loving these trees lining the streets in Budapest ✏️🇭🇺</title>
+		<link href="https://joshnicholas.com/blog/scribbles/buda-streets-trees/"/>
+		<updated>2019-08-24T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/buda-streets-trees/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/107LovingthesetreesliningthestreetsinBudapest------0.jpg&quot; alt=&quot;&#39;Loving these trees lining the streets in Budapest ✏️🇭🇺&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Another view of the Temple of St Nicholas (yup) ✏️🇸🇰</title>
+		<link href="https://joshnicholas.com/blog/scribbles/nicholas-temple/"/>
+		<updated>2019-08-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/nicholas-temple/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/108AnotherviewoftheTempleofStNicholas-yup-------1.jpg&quot; alt=&quot;&#39;Another view of the Temple of St Nicholas (yup) ✏️🇸🇰&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The clock tower in Bratislava ✏️🇸🇰</title>
+		<link href="https://joshnicholas.com/blog/scribbles/bratislava-clock/"/>
+		<updated>2019-08-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/bratislava-clock/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/109TheclocktowerinBratislava------1.jpg&quot; alt=&quot;&#39;The clock tower in Bratislava ✏️🇸🇰&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>TFW you forget to leave enough room on the page for the steeple of the church ✏️🇸🇰</title>
+		<link href="https://joshnicholas.com/blog/scribbles/bratislava-church-scribble/"/>
+		<updated>2019-08-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/bratislava-church-scribble/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/110TFWyouforgettoleaveenoughroomonthepageforthesteepleofthechurch------1.jpg&quot; alt=&quot;&#39;TFW you forget to leave enough room on the page for the steeple of the church ✏️🇸🇰&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Morning from Bratislava Castle 👋 ✏️🇸🇰</title>
+		<link href="https://joshnicholas.com/blog/scribbles/bratislava-castle/"/>
+		<updated>2019-08-19T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/bratislava-castle/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/111MorningfromBratislavaCastle--------1.jpg&quot; alt=&quot;&#39;Morning from Bratislava Castle 👋 ✏️🇸🇰&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Me sitting in the sun in Bratislava  ✏️🇸🇰</title>
+		<link href="https://joshnicholas.com/blog/scribbles/bratislava-sun-portrait/"/>
+		<updated>2019-08-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/bratislava-sun-portrait/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/113MesittinginthesuninBratislava------c.jpg&quot; alt=&quot;&#39;Me sitting in the sun in Bratislava  ✏️🇸🇰&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Beers by the river in Bratislava  ✏️🇸🇰</title>
+		<link href="https://joshnicholas.com/blog/scribbles/bratislava-beers/"/>
+		<updated>2019-08-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/bratislava-beers/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/112BeersbytheriverinBratislava------5.jpg&quot; alt=&quot;&#39;Beers by the river in Bratislava  ✏️🇸🇰&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Last one from Vienna - Belvedere Palace ✏️🇦🇹</title>
+		<link href="https://joshnicholas.com/blog/scribbles/belvedere-palace/"/>
+		<updated>2019-08-18T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/belvedere-palace/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/114LastonefromVienna-BelvederePalace------4.jpg&quot; alt=&quot;&#39;Last one from Vienna - Belvedere Palace ✏️🇦🇹&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Waiting for the art gallery to open 😴✏️🇦🇹</title>
+		<link href="https://joshnicholas.com/blog/scribbles/vienna-kunst-gallery/"/>
+		<updated>2019-08-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/vienna-kunst-gallery/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/115Waitingfortheartgallerytoopen--------9.jpg&quot; alt=&quot;&#39;Waiting for the art gallery to open 😴✏️🇦🇹&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Day by the canals in Vienna  ✏️🇦🇹</title>
+		<link href="https://joshnicholas.com/blog/scribbles/vienna-canals/"/>
+		<updated>2019-08-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/vienna-canals/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/116DaybythecanalsinVienna------9.jpg&quot; alt=&quot;&#39;Day by the canals in Vienna  ✏️🇦🇹&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Some kind of ministry building in Prague 🤔 ✏️🇨🇿</title>
+		<link href="https://joshnicholas.com/blog/scribbles/prague-ministry-river/"/>
+		<updated>2019-08-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/prague-ministry-river/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/117SomekindofministrybuildinginPrague--------7.jpg&quot; alt=&quot;&#39;Some kind of ministry building in Prague 🤔 ✏️🇨🇿&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The Overlook Hotel/Prague palace  ✏️🇨🇿</title>
+		<link href="https://joshnicholas.com/blog/scribbles/overlook-hotel-prague/"/>
+		<updated>2019-08-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/overlook-hotel-prague/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/118TheOverlookHotelPraguepalace------5.jpg&quot; alt=&quot;&#39;The Overlook Hotel/Prague palace  ✏️🇨🇿&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>A couple of days by the Vltava river in Prague ✏️🇨🇿</title>
+		<link href="https://joshnicholas.com/blog/scribbles/vltava-river-prague/"/>
+		<updated>2019-08-09T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/vltava-river-prague/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/122AcoupleofdaysbytheVltavariverinPrague------c.jpg&quot; alt=&quot;&#39;A couple of days by the Vltava river in Prague ✏️🇨🇿&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Toooooorists   ✏️🇨🇿</title>
+		<link href="https://joshnicholas.com/blog/scribbles/toooooorists/"/>
+		<updated>2019-08-07T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/toooooorists/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/123Toooooorists------8.jpg&quot; alt=&quot;&#39;Toooooorists   ✏️🇨🇿&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Couple more from Krakow 😬</title>
+		<link href="https://joshnicholas.com/blog/scribbles/couple-more-from-krakow/"/>
+		<updated>2019-08-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/couple-more-from-krakow/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/126CouplemorefromKrakow--e.jpg&quot; alt=&quot;&#39;Couple more from Krakow 😬&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Krakow Kathedral 😱 there are too many buildings to draw in this city  ✏️🇵🇱</title>
+		<link href="https://joshnicholas.com/blog/scribbles/krakow-kathedral/"/>
+		<updated>2019-08-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/scribbles/krakow-kathedral/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/127KrakowKathedral--therearetoomanybuildingstodrawinthiscity------5.jpg&quot; alt=&quot;&#39;Krakow Kathedral 😱 there are too many buildings to draw in this city  ✏️🇵🇱&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Before and after 🤔 ✏️🇵🇱</title>
-		<link href="https://joshnicholas.com/blog/scribbles/2019-07-30/"/>
+		<link href="https://joshnicholas.com/blog/scribbles/before-and-after/"/>
 		<updated>2019-07-30T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/scribbles/2019-07-30/</id>
+		<id>https://joshnicholas.com/blog/scribbles/before-and-after/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/129Beforeandafter--------b.jpg&quot; alt=&quot;&#39;Before and after 🤔 ✏️🇵🇱&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -238,9 +1932,9 @@ Just outside the temple gates&lt;/p&gt;
 	
 	<entry>
 		<title>Warsaw is damn pretty tbh  ✏️🇵🇱</title>
-		<link href="https://joshnicholas.com/blog/scribbles/2019-07-29/"/>
+		<link href="https://joshnicholas.com/blog/scribbles/warsaw-is-damn-pretty/"/>
 		<updated>2019-07-29T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/scribbles/2019-07-29/</id>
+		<id>https://joshnicholas.com/blog/scribbles/warsaw-is-damn-pretty/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/131Warsawisdamnprettytbh------0.jpg&quot; alt=&quot;&#39;Warsaw is damn pretty tbh  ✏️🇵🇱&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -248,9 +1942,9 @@ Just outside the temple gates&lt;/p&gt;
 	
 	<entry>
 		<title>Saw a guy with pigtails in his beard</title>
-		<link href="https://joshnicholas.com/blog/scribbles/2019-07-27/"/>
+		<link href="https://joshnicholas.com/blog/scribbles/pigtail-beard/"/>
 		<updated>2019-07-27T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/scribbles/2019-07-27/</id>
+		<id>https://joshnicholas.com/blog/scribbles/pigtail-beard/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/132Sawaguywithpigtailsinhisbeardf.jpg&quot; alt=&quot;&#39;Saw a guy with pigtails in his beard&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
@@ -259,9 +1953,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Scribbling from Dublin castle 😀 ✏️🇮🇪</title>
-		<link href="https://joshnicholas.com/blog/scribbles/2019-07-24/"/>
+		<link href="https://joshnicholas.com/blog/scribbles/scribbling-dublin-castle/"/>
 		<updated>2019-07-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/scribbles/2019-07-24/</id>
+		<id>https://joshnicholas.com/blog/scribbles/scribbling-dublin-castle/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/134ScribblingfromDublincastle--------3.jpg&quot; alt=&quot;&#39;Scribbling from Dublin castle 😀 ✏️🇮🇪&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -269,9 +1963,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>I always wondered how they put the sand in the bottles to make pictures 🇵🇸 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-28/"/>
+		<link href="https://joshnicholas.com/blog/photos/palestine-sand/"/>
 		<updated>2019-06-28T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-28/</id>
+		<id>https://joshnicholas.com/blog/photos/palestine-sand/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/18Ialwayswonderedhowtheyputthesandinthebottlestomakepictures------.jpg&quot; alt=&quot;&#39;I always wondered how they put the sand in the bottles to make pictures 🇵🇸 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -279,9 +1973,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Scooting along the Jerusalem old city 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-27/"/>
+		<link href="https://joshnicholas.com/blog/photos/jerusalem-scooting/"/>
 		<updated>2019-06-27T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-27/</id>
+		<id>https://joshnicholas.com/blog/photos/jerusalem-scooting/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/19ScootingalongtheJerusalemoldcity------.jpg&quot; alt=&quot;&#39;Scooting along the Jerusalem old city 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -289,9 +1983,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Snoooooze in the old city 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-25/"/>
+		<link href="https://joshnicholas.com/blog/photos/jerusalem-old-city-snooze/"/>
 		<updated>2019-06-25T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-25/</id>
+		<id>https://joshnicholas.com/blog/photos/jerusalem-old-city-snooze/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/snoooooze.jpg&quot; alt=&quot;&#39;Snoooooze in the old city 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -299,9 +1993,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>I could go a chess set tbh 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-24/"/>
+		<link href="https://joshnicholas.com/blog/photos/i-could-go-a-chess-set-tbh/"/>
 		<updated>2019-06-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-24/</id>
+		<id>https://joshnicholas.com/blog/photos/i-could-go-a-chess-set-tbh/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/21Icouldgoachesssettbh------.jpg&quot; alt=&quot;&#39;I could go a chess set tbh 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -309,9 +2003,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Soooooo much carrots in the old city 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-23/"/>
+		<link href="https://joshnicholas.com/blog/photos/soooooo-much-carrots-in-the-old-city/"/>
 		<updated>2019-06-23T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-23/</id>
+		<id>https://joshnicholas.com/blog/photos/soooooo-much-carrots-in-the-old-city/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/22Soooooomuchcarrotsintheoldcity-------1.jpg&quot; alt=&quot;&#39;Soooooo much carrots in the old city 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -319,9 +2013,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Jerusalem old city tunnels 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-22/"/>
+		<link href="https://joshnicholas.com/blog/photos/jerusalem-old-city-tunnels/"/>
 		<updated>2019-06-22T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-22/</id>
+		<id>https://joshnicholas.com/blog/photos/jerusalem-old-city-tunnels/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/23Jerusalemoldcitytunnels------.jpg&quot; alt=&quot;&#39;Jerusalem old city tunnels 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -329,9 +2023,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Damascus gate bubbles 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-21/"/>
+		<link href="https://joshnicholas.com/blog/photos/damascus-gate-bubbles/"/>
 		<updated>2019-06-21T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-21/</id>
+		<id>https://joshnicholas.com/blog/photos/damascus-gate-bubbles/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/24Damascusgatebubbles------.jpg&quot; alt=&quot;&#39;Damascus gate bubbles 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -339,9 +2033,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>In the middle</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-20/"/>
+		<link href="https://joshnicholas.com/blog/photos/in-the-middle/"/>
 		<updated>2019-06-20T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-20/</id>
+		<id>https://joshnicholas.com/blog/photos/in-the-middle/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/25Inthemiddle.jpg&quot; alt=&quot;&#39;In the middle&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -349,9 +2043,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Anuradhapura temple ruins 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-19/"/>
+		<link href="https://joshnicholas.com/blog/photos/anuradhapura-temple-ruins/"/>
 		<updated>2019-06-19T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-19/</id>
+		<id>https://joshnicholas.com/blog/photos/anuradhapura-temple-ruins/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/26Anuradhapuratempleruins------.jpg&quot; alt=&quot;&#39;Anuradhapura temple ruins 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -359,9 +2053,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Anuradhapura palace from afar 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-18/"/>
+		<link href="https://joshnicholas.com/blog/photos/anuradhapura-palace-from-afar/"/>
 		<updated>2019-06-18T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-18/</id>
+		<id>https://joshnicholas.com/blog/photos/anuradhapura-palace-from-afar/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/27Anuradhapurapalacefromafar------.jpg&quot; alt=&quot;&#39;Anuradhapura palace from afar 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -369,9 +2063,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Welcome to the ancient city of Anuradhapura 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-17/"/>
+		<link href="https://joshnicholas.com/blog/photos/welcome-to-the-ancient-city-of-anuradhapura/"/>
 		<updated>2019-06-17T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-17/</id>
+		<id>https://joshnicholas.com/blog/photos/welcome-to-the-ancient-city-of-anuradhapura/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/28WelcometotheancientcityofAnuradhapura------.jpg&quot; alt=&quot;&#39;Welcome to the ancient city of Anuradhapura 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -379,9 +2073,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Under the dagoba 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-16/"/>
+		<link href="https://joshnicholas.com/blog/photos/under-the-dagoba/"/>
 		<updated>2019-06-16T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-16/</id>
+		<id>https://joshnicholas.com/blog/photos/under-the-dagoba/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/29Underthedagoba------.jpg&quot; alt=&quot;&#39;Under the dagoba 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -389,9 +2083,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Sigiriya palace ruins 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-15/"/>
+		<link href="https://joshnicholas.com/blog/photos/sigiriya-palace-ruins/"/>
 		<updated>2019-06-15T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-15/</id>
+		<id>https://joshnicholas.com/blog/photos/sigiriya-palace-ruins/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/30Sigiriyapalaceruins------.jpg&quot; alt=&quot;&#39;Sigiriya palace ruins 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -399,19 +2093,29 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Climbing atop Sigiriya 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-14/"/>
+		<link href="https://joshnicholas.com/blog/photos/climbing-atop-sigiriya/"/>
 		<updated>2019-06-14T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-14/</id>
+		<id>https://joshnicholas.com/blog/photos/climbing-atop-sigiriya/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/31ClimbingatopSigiriya------.jpg&quot; alt=&quot;&#39;Climbing atop Sigiriya 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Entrance to Sigiriya rock palace 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-11/"/>
+		<title>Walkin up to Sigiriya 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/blog/photos/walkin-up-to-sigiriya/"/>
 		<updated>2019-06-11T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-11/</id>
+		<id>https://joshnicholas.com/blog/photos/walkin-up-to-sigiriya/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/33WalkinuptoSigiriya------.jpg&quot; alt=&quot;&#39;Walkin up to Sigiriya 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Entrance to Sigiriya rock palace 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/blog/photos/entrance-to-sigiriya-rock-palace/"/>
+		<updated>2019-06-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/entrance-to-sigiriya-rock-palace/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/32EntrancetoSigiriyarockpalace------.jpg&quot; alt=&quot;&#39;Entrance to Sigiriya rock palace 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -419,9 +2123,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Bye Jaffna 👋🏽 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-10/"/>
+		<link href="https://joshnicholas.com/blog/photos/bye-jaffna/"/>
 		<updated>2019-06-10T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-10/</id>
+		<id>https://joshnicholas.com/blog/photos/bye-jaffna/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/34ByeJaffna----------.jpg&quot; alt=&quot;&#39;Bye Jaffna 👋🏽 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -429,9 +2133,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Bus conductor yo 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-09/"/>
+		<link href="https://joshnicholas.com/blog/photos/bus-conductor-yo/"/>
 		<updated>2019-06-09T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-09/</id>
+		<id>https://joshnicholas.com/blog/photos/bus-conductor-yo/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/35Busconductoryo------.jpg&quot; alt=&quot;&#39;Bus conductor yo 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -439,9 +2143,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Bus driver man 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-08/"/>
+		<link href="https://joshnicholas.com/blog/photos/bus-driver-man/"/>
 		<updated>2019-06-08T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-08/</id>
+		<id>https://joshnicholas.com/blog/photos/bus-driver-man/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/36Busdriverman------.jpg&quot; alt=&quot;&#39;Bus driver man 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -449,19 +2153,29 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Jaffna streets 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-06/"/>
+		<link href="https://joshnicholas.com/blog/photos/jaffna-streets/"/>
 		<updated>2019-06-06T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-06/</id>
+		<id>https://joshnicholas.com/blog/photos/jaffna-streets/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/37Jaffnastreets------.jpg&quot; alt=&quot;&#39;Jaffna streets 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
+		<title>Feeding the elephants 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/blog/photos/feeding-the-elephants/"/>
+		<updated>2019-06-06T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/feeding-the-elephants/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/38Feedingtheelephants------.jpg&quot; alt=&quot;&#39;Feeding the elephants 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Baby elephant doing swimming zooms at Pinnawala elephant orphanage 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-05/"/>
+		<link href="https://joshnicholas.com/blog/photos/baby-elephant-doing-swimming-zooms-at-pinnawala-elephant-orphanage/"/>
 		<updated>2019-06-05T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-05/</id>
+		<id>https://joshnicholas.com/blog/photos/baby-elephant-doing-swimming-zooms-at-pinnawala-elephant-orphanage/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/39BabyelephantdoingswimmingzoomsatPinnawalaelephantorphanage------.jpg&quot; alt=&quot;&#39;Baby elephant doing swimming zooms at Pinnawala elephant orphanage 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -469,9 +2183,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>On the way to Jaffna 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-04/"/>
+		<link href="https://joshnicholas.com/blog/photos/on-the-way-to-jaffna/"/>
 		<updated>2019-06-04T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-04/</id>
+		<id>https://joshnicholas.com/blog/photos/on-the-way-to-jaffna/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/40OnthewaytoJaffna------.jpg&quot; alt=&quot;&#39;On the way to Jaffna 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -479,9 +2193,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Jaffna boats 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-03/"/>
+		<link href="https://joshnicholas.com/blog/photos/jaffna-boats/"/>
 		<updated>2019-06-03T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-03/</id>
+		<id>https://joshnicholas.com/blog/photos/jaffna-boats/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/41Jaffnaboats-------1.jpg&quot; alt=&quot;&#39;Jaffna boats 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -489,9 +2203,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Harvesting prawns in Jafffna 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-02/"/>
+		<link href="https://joshnicholas.com/blog/photos/harvesting-prawns-in-jafffna/"/>
 		<updated>2019-06-02T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-02/</id>
+		<id>https://joshnicholas.com/blog/photos/harvesting-prawns-in-jafffna/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/42HarvestingprawnsinJafffna------.jpg&quot; alt=&quot;&#39;Harvesting prawns in Jafffna 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -499,9 +2213,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Pretty strong winds on the West Coast 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-06-01/"/>
+		<link href="https://joshnicholas.com/blog/photos/pretty-strong-winds-on-the-west-coast/"/>
 		<updated>2019-06-01T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-06-01/</id>
+		<id>https://joshnicholas.com/blog/photos/pretty-strong-winds-on-the-west-coast/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/43PrettystrongwindsontheWestCoast------.jpg&quot; alt=&quot;&#39;Pretty strong winds on the West Coast 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -509,9 +2223,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Temple dog 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-31/"/>
+		<link href="https://joshnicholas.com/blog/photos/temple-dog/"/>
 		<updated>2019-05-31T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-31/</id>
+		<id>https://joshnicholas.com/blog/photos/temple-dog/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/44Templedog------.jpg&quot; alt=&quot;&#39;Temple dog 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -519,9 +2233,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Interlude 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-30/"/>
+		<link href="https://joshnicholas.com/blog/photos/interlude/"/>
 		<updated>2019-05-30T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-30/</id>
+		<id>https://joshnicholas.com/blog/photos/interlude/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/45Interlude------.jpg&quot; alt=&quot;&#39;Interlude 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -529,18 +2243,18 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Found this old pic I took at a market in Jaffna. I appear to have a thing for scales 😀 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-29/"/>
+		<link href="https://joshnicholas.com/blog/photos/found-this-old-pic-i-took-at-a-market-in-jaffna-i-appear-to-have-a-thing-for-scales/"/>
 		<updated>2019-05-29T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-29/</id>
+		<id>https://joshnicholas.com/blog/photos/found-this-old-pic-i-took-at-a-market-in-jaffna-i-appear-to-have-a-thing-for-scales/</id>
 		<content type="html">&lt;br /&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>See ya 👋🏽 Kandy 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-28/"/>
+		<link href="https://joshnicholas.com/blog/photos/see-ya/"/>
 		<updated>2019-05-28T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-28/</id>
+		<id>https://joshnicholas.com/blog/photos/see-ya/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/47Seeya----Kandy------.jpg&quot; alt=&quot;&#39;See ya 👋🏽 Kandy 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -548,27 +2262,27 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>I’m really fascinated by ye olde scales @ Kandy market 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-27/"/>
+		<link href="https://joshnicholas.com/blog/photos/im-really-fascinated-by-ye-olde-scales-kandy-market/"/>
 		<updated>2019-05-27T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-27/</id>
+		<id>https://joshnicholas.com/blog/photos/im-really-fascinated-by-ye-olde-scales-kandy-market/</id>
 		<content type="html">&lt;br /&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Lotsa chillies @ Kandy market 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-26/"/>
+		<link href="https://joshnicholas.com/blog/photos/lotsa-chillies-kandy-market/"/>
 		<updated>2019-05-26T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-26/</id>
+		<id>https://joshnicholas.com/blog/photos/lotsa-chillies-kandy-market/</id>
 		<content type="html">&lt;br /&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Grandpa buying carrots 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-24/"/>
+		<link href="https://joshnicholas.com/blog/photos/grandpa-buying-carrots/"/>
 		<updated>2019-05-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-24/</id>
+		<id>https://joshnicholas.com/blog/photos/grandpa-buying-carrots/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/50Grandpabuyingcarrots------.jpg&quot; alt=&quot;&#39;Grandpa buying carrots 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -576,9 +2290,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Peace amidst the market chaos 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-23/"/>
+		<link href="https://joshnicholas.com/blog/photos/peace-amidst-the-market-chaos/"/>
 		<updated>2019-05-23T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-23/</id>
+		<id>https://joshnicholas.com/blog/photos/peace-amidst-the-market-chaos/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/51Peaceamidstthemarketchaos------.jpg&quot; alt=&quot;&#39;Peace amidst the market chaos 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -586,9 +2300,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Stepping into the Kandy vegetable market 🇱🇰📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-21/"/>
+		<link href="https://joshnicholas.com/blog/photos/stepping-into-the-kandy-vegetable-market/"/>
 		<updated>2019-05-21T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-21/</id>
+		<id>https://joshnicholas.com/blog/photos/stepping-into-the-kandy-vegetable-market/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/52SteppingintotheKandyvegetablemarket------.jpg&quot; alt=&quot;&#39;Stepping into the Kandy vegetable market 🇱🇰📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -596,19 +2310,29 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Vesak with the lights on 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-20/"/>
+		<link href="https://joshnicholas.com/blog/photos/vesak-with-the-lights-on/"/>
 		<updated>2019-05-20T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-20/</id>
+		<id>https://joshnicholas.com/blog/photos/vesak-with-the-lights-on/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/53Vesakwiththelightson------.jpg&quot; alt=&quot;&#39;Vesak with the lights on 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
+		<title>Flowers at night 🇱🇰 📷</title>
+		<link href="https://joshnicholas.com/blog/photos/flowers-at-night/"/>
+		<updated>2019-05-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/flowers-at-night/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/54Flowersatnight------.jpg&quot; alt=&quot;&#39;Flowers at night 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Stocking up for Vesak 📷 🇱🇰</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-19/"/>
+		<link href="https://joshnicholas.com/blog/photos/stocking-up-for-vesak/"/>
 		<updated>2019-05-19T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-19/</id>
+		<id>https://joshnicholas.com/blog/photos/stocking-up-for-vesak/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/55StockingupforVesak------.jpg&quot; alt=&quot;&#39;Stocking up for Vesak 📷 🇱🇰&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -616,9 +2340,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Getting ready for Vesak in Kandy 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-18/"/>
+		<link href="https://joshnicholas.com/blog/photos/getting-ready-for-vesak-in-kandy/"/>
 		<updated>2019-05-18T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-18/</id>
+		<id>https://joshnicholas.com/blog/photos/getting-ready-for-vesak-in-kandy/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/56GettingreadyforVesakinKandy------.jpg&quot; alt=&quot;&#39;Getting ready for Vesak in Kandy 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -626,9 +2350,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Making bricks in Kandy 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-17/"/>
+		<link href="https://joshnicholas.com/blog/photos/making-bricks-in-kandy/"/>
 		<updated>2019-05-17T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-17/</id>
+		<id>https://joshnicholas.com/blog/photos/making-bricks-in-kandy/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/57MakingbricksinKandy------.jpg&quot; alt=&quot;&#39;Making bricks in Kandy 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -636,29 +2360,19 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Dehiwala carryin‘ 📷 🇱🇰</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-14/"/>
+		<link href="https://joshnicholas.com/blog/photos/dehiwala-carryin/"/>
 		<updated>2019-05-14T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-14/</id>
+		<id>https://joshnicholas.com/blog/photos/dehiwala-carryin/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/58Dehiwalacarryin-------.jpg&quot; alt=&quot;&#39;Dehiwala carryin‘ 📷 🇱🇰&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Tel Aviv streets 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-13/"/>
-		<updated>2019-05-13T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-13/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/59TelAvivstreets------.jpg&quot; alt=&quot;&#39;Tel Aviv streets 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Dehiwala walkin 📷 🇱🇰</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-12/"/>
+		<link href="https://joshnicholas.com/blog/photos/dehiwala-walkin/"/>
 		<updated>2019-05-12T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-12/</id>
+		<id>https://joshnicholas.com/blog/photos/dehiwala-walkin/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/60Dehiwalawalkin------.jpg&quot; alt=&quot;&#39;Dehiwala walkin 📷 🇱🇰&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -666,9 +2380,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Derailment in a Colombo park 🇱🇰📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-11/"/>
+		<link href="https://joshnicholas.com/blog/photos/derailment-in-a-colombo-park/"/>
 		<updated>2019-05-11T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-11/</id>
+		<id>https://joshnicholas.com/blog/photos/derailment-in-a-colombo-park/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/61DerailmentinaColombopark------.jpg&quot; alt=&quot;&#39;Derailment in a Colombo park 🇱🇰📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -676,9 +2390,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Damascus gate 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-09/"/>
+		<link href="https://joshnicholas.com/blog/photos/damascus-gate/"/>
 		<updated>2019-05-09T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-09/</id>
+		<id>https://joshnicholas.com/blog/photos/damascus-gate/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/62Damascusgate------.jpg&quot; alt=&quot;&#39;Damascus gate 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -686,9 +2400,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Beach day in Mt Lavinia 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-08/"/>
+		<link href="https://joshnicholas.com/blog/photos/beach-day-in-mt-lavinia/"/>
 		<updated>2019-05-08T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-08/</id>
+		<id>https://joshnicholas.com/blog/photos/beach-day-in-mt-lavinia/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/63BeachdayinMtLavinia------.jpg&quot; alt=&quot;&#39;Beach day in Mt Lavinia 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -696,9 +2410,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Colombo under construction 📷 🇱🇰</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-07/"/>
+		<link href="https://joshnicholas.com/blog/photos/colombo-under-construction/"/>
 		<updated>2019-05-07T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-07/</id>
+		<id>https://joshnicholas.com/blog/photos/colombo-under-construction/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/64Colombounderconstruction------.jpg&quot; alt=&quot;&#39;Colombo under construction 📷 🇱🇰&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -706,9 +2420,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Over the Galle Face Green, Colombo 📷 🇱🇰</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-06/"/>
+		<link href="https://joshnicholas.com/blog/photos/over-the-galle-face-green-colombo/"/>
 		<updated>2019-05-06T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-06/</id>
+		<id>https://joshnicholas.com/blog/photos/over-the-galle-face-green-colombo/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/65OvertheGalleFaceGreen-Colombo------.jpg&quot; alt=&quot;&#39;Over the Galle Face Green, Colombo 📷 🇱🇰&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -716,9 +2430,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Also Church of the Holy Sepulchre 📷 🇮🇱</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-05/"/>
+		<link href="https://joshnicholas.com/blog/photos/also-church-of-the-holy-sepulchre/"/>
 		<updated>2019-05-05T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-05/</id>
+		<id>https://joshnicholas.com/blog/photos/also-church-of-the-holy-sepulchre/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/66AlsoChurchoftheHolySepulchre------.jpg&quot; alt=&quot;&#39;Also Church of the Holy Sepulchre 📷 🇮🇱&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -726,9 +2440,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Church of the Holy Sepulchre 📷 🇮🇱</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-04/"/>
+		<link href="https://joshnicholas.com/blog/photos/church-of-the-holy-sepulchre/"/>
 		<updated>2019-05-04T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-04/</id>
+		<id>https://joshnicholas.com/blog/photos/church-of-the-holy-sepulchre/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/67ChurchoftheHolySepulchre------.jpg&quot; alt=&quot;&#39;Church of the Holy Sepulchre 📷 🇮🇱&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -736,9 +2450,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Jerusalem old city 🇮🇱 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-03/"/>
+		<link href="https://joshnicholas.com/blog/photos/jerusalem-old-city/"/>
 		<updated>2019-05-03T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-03/</id>
+		<id>https://joshnicholas.com/blog/photos/jerusalem-old-city/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/68Jerusalemoldcity------.jpg&quot; alt=&quot;&#39;Jerusalem old city 🇮🇱 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -746,9 +2460,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Jaffna grape farming 📷 🇱🇰</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-05-01/"/>
+		<link href="https://joshnicholas.com/blog/photos/jaffna-grape-farming/"/>
 		<updated>2019-05-01T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-05-01/</id>
+		<id>https://joshnicholas.com/blog/photos/jaffna-grape-farming/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/69Jaffnagrapefarming------.jpg&quot; alt=&quot;&#39;Jaffna grape farming 📷 🇱🇰&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -756,9 +2470,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Colombo driftin 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-29/"/>
+		<link href="https://joshnicholas.com/blog/photos/colombo-driftin/"/>
 		<updated>2019-04-29T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-29/</id>
+		<id>https://joshnicholas.com/blog/photos/colombo-driftin/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/70Colombodriftin------.jpg&quot; alt=&quot;&#39;Colombo driftin 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -766,29 +2480,19 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Taking the 🇱🇰 flag down at sunset On the Galle Face Green Colombo 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-28/"/>
+		<link href="https://joshnicholas.com/blog/photos/taking-the/"/>
 		<updated>2019-04-28T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-28/</id>
+		<id>https://joshnicholas.com/blog/photos/taking-the/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/71Takingthe----flagdownatsunsetOntheGalleFaceGreenColombo--.jpg&quot; alt=&quot;&#39;Taking the 🇱🇰 flag down at sunset On the Galle Face Green Colombo 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Fruit and veg on the way to Colombo 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-27/"/>
-		<updated>2019-04-27T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-27/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/72FruitandvegonthewaytoColombo------.jpg&quot; alt=&quot;&#39;Fruit and veg on the way to Colombo 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Played billiards with my Grandpa last weekend 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-26/"/>
+		<link href="https://joshnicholas.com/blog/photos/played-billiards-with-my-grandpa-last-weekend/"/>
 		<updated>2019-04-26T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-26/</id>
+		<id>https://joshnicholas.com/blog/photos/played-billiards-with-my-grandpa-last-weekend/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/73PlayedbilliardswithmyGrandpalastweekend------.jpg&quot; alt=&quot;&#39;Played billiards with my Grandpa last weekend 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -796,9 +2500,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Colombo streets 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-25/"/>
+		<link href="https://joshnicholas.com/blog/photos/colombo-streets/"/>
 		<updated>2019-04-25T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-25/</id>
+		<id>https://joshnicholas.com/blog/photos/colombo-streets/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/74Colombostreets------.jpg&quot; alt=&quot;&#39;Colombo streets 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -806,9 +2510,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>The Pettah 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-24/"/>
+		<link href="https://joshnicholas.com/blog/photos/the-pettah/"/>
 		<updated>2019-04-24T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-24/</id>
+		<id>https://joshnicholas.com/blog/photos/the-pettah/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/75ThePettah------.jpg&quot; alt=&quot;&#39;The Pettah 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -816,9 +2520,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Hanging out in Galle market 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-23/"/>
+		<link href="https://joshnicholas.com/blog/photos/hanging-out-in-galle-market/"/>
 		<updated>2019-04-23T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-23/</id>
+		<id>https://joshnicholas.com/blog/photos/hanging-out-in-galle-market/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/76HangingoutinGallemarket------.jpg&quot; alt=&quot;&#39;Hanging out in Galle market 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -826,9 +2530,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>View from my hotel in Nuwara Eliya, 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-22/"/>
+		<link href="https://joshnicholas.com/blog/photos/view-from-my-hotel-in-nuwara-eliya-f0-9f-87-b1-f0-9f-87-b0/"/>
 		<updated>2019-04-22T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-22/</id>
+		<id>https://joshnicholas.com/blog/photos/view-from-my-hotel-in-nuwara-eliya-f0-9f-87-b1-f0-9f-87-b0/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/77ViewfrommyhotelinNuwaraEliya-------.jpg&quot; alt=&quot;&#39;View from my hotel in Nuwara Eliya, 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -836,9 +2540,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Sewing in Galle market 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-21/"/>
+		<link href="https://joshnicholas.com/blog/photos/sewing-in-galle-market/"/>
 		<updated>2019-04-21T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-21/</id>
+		<id>https://joshnicholas.com/blog/photos/sewing-in-galle-market/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/78SewinginGallemarket------.jpg&quot; alt=&quot;&#39;Sewing in Galle market 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -846,18 +2550,18 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Farming near Wilpattu national park. 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-20/"/>
+		<link href="https://joshnicholas.com/blog/photos/farming-near-wilpattu-national-park/"/>
 		<updated>2019-04-20T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-20/</id>
+		<id>https://joshnicholas.com/blog/photos/farming-near-wilpattu-national-park/</id>
 		<content type="html">&lt;br /&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Beating up fish in the Galle fish market 🇱🇰📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-19/"/>
+		<link href="https://joshnicholas.com/blog/photos/beating-up-fish-in-the-galle-fish-market/"/>
 		<updated>2019-04-19T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-19/</id>
+		<id>https://joshnicholas.com/blog/photos/beating-up-fish-in-the-galle-fish-market/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/80BeatingupfishintheGallefishmarket------.jpg&quot; alt=&quot;&#39;Beating up fish in the Galle fish market 🇱🇰📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -865,9 +2569,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>A puppy in a bar in Galle, 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-18/"/>
+		<link href="https://joshnicholas.com/blog/photos/a-puppy-in-a-bar-in-galle/"/>
 		<updated>2019-04-18T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-18/</id>
+		<id>https://joshnicholas.com/blog/photos/a-puppy-in-a-bar-in-galle/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/81ApuppyinabarinGalle-------.jpg&quot; alt=&quot;&#39;A puppy in a bar in Galle, 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -875,9 +2579,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Drag fishing in Galle harbour  🇱🇰📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-17/"/>
+		<link href="https://joshnicholas.com/blog/photos/drag-fishing-in-galle-harbour/"/>
 		<updated>2019-04-17T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-17/</id>
+		<id>https://joshnicholas.com/blog/photos/drag-fishing-in-galle-harbour/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/82DragfishinginGalleharbour------.jpg&quot; alt=&quot;&#39;Drag fishing in Galle harbour  🇱🇰📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -885,18 +2589,28 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Fishies @ the polla 📷🇱🇰</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-15/"/>
+		<link href="https://joshnicholas.com/blog/photos/fishies-the-polla/"/>
 		<updated>2019-04-15T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-15/</id>
+		<id>https://joshnicholas.com/blog/photos/fishies-the-polla/</id>
 		<content type="html">&lt;br /&gt;
 </content>
 	</entry>
 	
 	<entry>
+		<title>Colombo street cricket 📷 🇱🇰</title>
+		<link href="https://joshnicholas.com/blog/photos/colombo-street-cricket/"/>
+		<updated>2019-04-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/blog/photos/colombo-street-cricket/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/84Colombostreetcricket------.jpg&quot; alt=&quot;&#39;Colombo street cricket 📷 🇱🇰&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>My guide around Jaffna 🇱🇰 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2019-04-14/"/>
+		<link href="https://joshnicholas.com/blog/photos/my-guide-around-jaffna/"/>
 		<updated>2019-04-14T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2019-04-14/</id>
+		<id>https://joshnicholas.com/blog/photos/my-guide-around-jaffna/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/85MyguidearoundJaffna------.jpg&quot; alt=&quot;&#39;My guide around Jaffna 🇱🇰 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -904,40 +2618,19 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Venice busking 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-11-23/"/>
+		<link href="https://joshnicholas.com/blog/photos/venice-busking/"/>
 		<updated>2018-11-23T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-11-23/</id>
+		<id>https://joshnicholas.com/blog/photos/venice-busking/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/86Venicebusking------.jpg&quot; alt=&quot;&#39;Venice busking 🇮🇹 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>This is my fourth post.</title>
-		<link href="https://joshnicholas.com/blog/posts/fourthpost/"/>
-		<updated>2018-09-30T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/posts/fourthpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Section Header&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>This is my sixth post.</title>
-		<link href="https://joshnicholas.com/blog/posts/sixthpost/"/>
-		<updated>2018-09-01T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/posts/sixthpost/</id>
-		<content type="html">&lt;p&gt;Damn it looks live the way this is setup requires a bloody annoying template&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Buskin Rome 📷 🇮🇹</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-08-18/"/>
+		<link href="https://joshnicholas.com/blog/photos/buskin-rome/"/>
 		<updated>2018-08-18T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-08-18/</id>
+		<id>https://joshnicholas.com/blog/photos/buskin-rome/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/88BuskinRome------.jpg&quot; alt=&quot;&#39;Buskin Rome 📷 🇮🇹&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -945,33 +2638,19 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Rome sketchin 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-07-08/"/>
+		<link href="https://joshnicholas.com/blog/photos/rome-sketchin/"/>
 		<updated>2018-07-08T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-07-08/</id>
+		<id>https://joshnicholas.com/blog/photos/rome-sketchin/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/89Romesketchin------.jpg&quot; alt=&quot;&#39;Rome sketchin 🇮🇹 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>This is my second post.</title>
-		<link href="https://joshnicholas.com/blog/posts/secondpost/"/>
-		<updated>2018-07-04T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/posts/secondpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Section Header&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://joshnicholas.com/blog/posts/firstpost/&quot;&gt;First post&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://joshnicholas.com/blog/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Plumbing Vesuvius 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-01-16/"/>
+		<link href="https://joshnicholas.com/blog/photos/plumbing-vesuvius/"/>
 		<updated>2018-01-16T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-01-16/</id>
+		<id>https://joshnicholas.com/blog/photos/plumbing-vesuvius/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/91PlumbingVesuvius------.jpg&quot; alt=&quot;&#39;Plumbing Vesuvius 🇮🇹 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -979,9 +2658,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Inside St Peters 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2018-01-04/"/>
+		<link href="https://joshnicholas.com/blog/photos/inside-st-peters/"/>
 		<updated>2018-01-04T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2018-01-04/</id>
+		<id>https://joshnicholas.com/blog/photos/inside-st-peters/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/92InsideStPeters------.jpg&quot; alt=&quot;&#39;Inside St Peters 🇮🇹 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
@@ -989,9 +2668,9 @@ Am now sorely tempted (shitty artists approximation) ✏️🇮🇪&lt;/p&gt;
 	
 	<entry>
 		<title>Venice infrastructure 🇮🇹 📷</title>
-		<link href="https://joshnicholas.com/blog/photos/2017-07-21/"/>
+		<link href="https://joshnicholas.com/blog/photos/venice-infrastructure/"/>
 		<updated>2017-07-21T00:00:00Z</updated>
-		<id>https://joshnicholas.com/blog/photos/2017-07-21/</id>
+		<id>https://joshnicholas.com/blog/photos/venice-infrastructure/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/blog/img/94Veniceinfrastructure------.jpg&quot; alt=&quot;&#39;Venice infrastructure 🇮🇹 📷&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>

@@ -16,584 +16,1550 @@
       "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
       "date_published": "2022-01-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/posts/mobtest/",
-      "url": "https://joshnicholas.com/blog/posts/mobtest/",
-      "title": "This is my mobile test.",
-      "content_html": "<p>This is a test of posting from my phone using working copy.</p>\n<p>It's not actually too bad of a working environment, I must say? Although maybe I won't type directly into here.</p>\n",
-      "date_published": "2022-01-24T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/photos/2022-01-15/",
-      "url": "https://joshnicholas.com/blog/photos/2022-01-15/",
+      "id": "https://joshnicholas.com/blog/photos/negombo-fishing-2/",
+      "url": "https://joshnicholas.com/blog/photos/negombo-fishing-2/",
       "title": "Negombo fishing",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Negombo.jpeg\" alt=\"'Negombo fishing'\" /><br />\n<br /><br />\nNot bad for an iPhone snap. The best camera is the one with you etc. etc.</p>\n",
       "date_published": "2022-01-15T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2021-12-23/",
-      "url": "https://joshnicholas.com/blog/photos/2021-12-23/",
+      "id": "https://joshnicholas.com/blog/scribbles/new-watercolour-set-for-christmas/",
+      "url": "https://joshnicholas.com/blog/scribbles/new-watercolour-set-for-christmas/",
+      "title": "New watercolour set for Christmas",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Face-2.jpeg\" alt=\"'New watercolour set for Christmas'\" /><br />\n<br /><br />\nThey aren't very pigmented. Nice colours though. Mouse modelling again</p>\n",
+      "date_published": "2021-12-26T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/foreheadshortening/",
+      "url": "https://joshnicholas.com/blog/scribbles/foreheadshortening/",
+      "title": "Foreheadshortening",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Head3.jpeg\" alt=\"'Foreheadshortening'\" /><br />\n<br /><br />\nAnt head</p>\n",
+      "date_published": "2021-12-26T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/at-the-temple/",
+      "url": "https://joshnicholas.com/blog/photos/at-the-temple/",
       "title": "At the temple",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Toothtemple.jpeg\" alt=\"'At the temple'\" /><br />\n<br /><br />\nFirst decent photo I’ve taken at the Temple of the Tooth in Kandy.</p>\n",
       "date_published": "2021-12-23T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2021-12-11/",
-      "url": "https://joshnicholas.com/blog/photos/2021-12-11/",
+      "id": "https://joshnicholas.com/blog/photos/temple-flowers/",
+      "url": "https://joshnicholas.com/blog/photos/temple-flowers/",
       "title": "Temple flowers",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Flower-stall.jpeg\" alt=\"'Temple flowers'\" /><br />\n<br /><br />\nJust outside the temple gates</p>\n",
       "date_published": "2021-12-11T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2020-06-21/",
-      "url": "https://joshnicholas.com/blog/photos/2020-06-21/",
+      "id": "https://joshnicholas.com/blog/scribbles/not-moving-enough/",
+      "url": "https://joshnicholas.com/blog/scribbles/not-moving-enough/",
+      "title": "Not moving enough",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Notmoving.jpeg\" alt=\"'Not moving enough'\" /><br />\n<br /><br />\nPracticing planes.</p>\n",
+      "date_published": "2021-12-09T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/maybe-its-the-light/",
+      "url": "https://joshnicholas.com/blog/scribbles/maybe-its-the-light/",
+      "title": "Maybe it’s the light",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Light.jpeg\" alt=\"'Maybe it’s the light'\" /><br />\n<br /></p>\n",
+      "date_published": "2021-12-09T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/have-to-work-on-planes/",
+      "url": "https://joshnicholas.com/blog/scribbles/have-to-work-on-planes/",
+      "title": "Have to work on planes",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Gradients.jpeg\" alt=\"'Have to work on planes'\" /><br />\n<br /><br />\nHaven't quite captured all the planes of the face.</p>\n",
+      "date_published": "2021-11-27T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/new-drawing-book/",
+      "url": "https://joshnicholas.com/blog/scribbles/new-drawing-book/",
+      "title": "New drawing book",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Mouse-again.jpeg\" alt=\"'New drawing book'\" /><br />\n<br /><br />\nGot myself a new drawing book. Now attempting to go from big shapes to small.</p>\n",
+      "date_published": "2021-11-26T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/drawing-old-dutch-oils/",
+      "url": "https://joshnicholas.com/blog/scribbles/drawing-old-dutch-oils/",
+      "title": "Drawing old dutch oils",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Cap.jpeg\" alt=\"'Drawing old dutch oils'\" /><br />\n<br /></p>\n",
+      "date_published": "2021-05-31T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/pidgins/",
+      "url": "https://joshnicholas.com/blog/scribbles/pidgins/",
+      "title": "Pidgins",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Pidegons.jpeg\" alt=\"'Pidgins'\" /><br />\n<br /><br />\nWas quite nice a nice morning to sit in the park.</p>\n",
+      "date_published": "2021-05-23T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/more-head-studies/",
+      "url": "https://joshnicholas.com/blog/scribbles/more-head-studies/",
+      "title": "More head studies",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Mushy3.jpeg\" alt=\"'More head studies'\" /><br />\n<br /><br />\nFinally have a space just for art!</p>\n",
+      "date_published": "2021-05-10T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/sydney-morning-greyscale/",
+      "url": "https://joshnicholas.com/blog/scribbles/sydney-morning-greyscale/",
+      "title": "Sydney morning greyscale",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Streetcornercafe.jpeg\" alt=\"'Sydney morning greyscale'\" /><br />\n<br /></p>\n",
+      "date_published": "2021-04-18T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/afternoon-by-the-harbour/",
+      "url": "https://joshnicholas.com/blog/scribbles/afternoon-by-the-harbour/",
+      "title": "Afternoon by the harbour",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Ferry.jpeg\" alt=\"'Afternoon by the harbour'\" /><br />\n<br /></p>\n",
+      "date_published": "2021-04-18T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/clovelly-rocks/",
+      "url": "https://joshnicholas.com/blog/scribbles/clovelly-rocks/",
+      "title": "Clovelly rocks",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Couple.jpeg\" alt=\"'Clovelly rocks'\" /><br />\n<br /><br />\nQuick scribbles around the rock platforms in Clovelly.</p>\n",
+      "date_published": "2021-01-24T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/scribble-around-surry/",
+      "url": "https://joshnicholas.com/blog/scribbles/scribble-around-surry/",
+      "title": "Scribble around Surry",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Grocery.jpeg\" alt=\"'Scribble around Surry'\" /><br />\n<br /></p>\n",
+      "date_published": "2021-01-15T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/some-head-studies/",
+      "url": "https://joshnicholas.com/blog/scribbles/some-head-studies/",
+      "title": "Some head studies",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Cue.jpeg\" alt=\"'Some head studies'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-12-19T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/out-of-the-woods/",
+      "url": "https://joshnicholas.com/blog/scribbles/out-of-the-woods/",
+      "title": "Out of the woods",
+      "content_html": "<br />\nNot liking graphite on toned paper so much.",
+      "date_published": "2020-11-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/a-bar-in-the-time-of-covid/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-bar-in-the-time-of-covid/",
+      "title": "A bar in the time of covid",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/53DAF7A4-8DEB-403E-B082-51E949B9EB8A_1_105_c.jpeg\" alt=\"'A bar in the time of covid'\" /><br />\n<br /><br />\nQuick sketch while getting a beer.</p>\n",
+      "date_published": "2020-10-31T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/side-eye-2/",
+      "url": "https://joshnicholas.com/blog/scribbles/side-eye-2/",
+      "title": "Side eye",
+      "content_html": "<br />\nStarted reading a biography of Cézanne. Still haven't figured out how to avoid\nwatercolour blooms.",
+      "date_published": "2020-10-24T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/portrait-of-the-artist/",
+      "url": "https://joshnicholas.com/blog/scribbles/portrait-of-the-artist/",
+      "title": "Portrait of the artist...",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Arteest.jpeg\" alt=\"'Portrait of the artist...'\" /><br />\n<br /><br />\n...as an old man.</p>\n",
+      "date_published": "2020-10-23T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/keeeels/",
+      "url": "https://joshnicholas.com/blog/scribbles/keeeels/",
+      "title": "Keeeels",
+      "content_html": "<br />\nThere's nothing quite like painting a portrait and having it recognised by face\ndetection on the camera.",
+      "date_published": "2020-10-11T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/how-do-you-draw-desert/",
+      "url": "https://joshnicholas.com/blog/scribbles/how-do-you-draw-desert/",
+      "title": "How do you draw desert?",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Abdulrahmansroom.jpeg\" alt=\"'How do you draw desert?'\" /><br />\n<br /><br />\nThe latest window swap [<a href=\"https://window-swap.com/\">https://window-swap.com/</a>] sketch. I never even realised<br />\nthat people lived so close to the pyramids in Egypt. One reason I really miss<br />\nabout traveling, and I’m loving on this site, is the contrast between the<br />\nwondrous and banal.</p>\n<p>Still not very successful with the darks 🤔. But I think the contrasts are<br />\nworking with the buildings.</p>\n<p>#8 [<strong>GHOST_URL</strong>/tag/windows]</p>\n",
+      "date_published": "2020-10-04T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/cant-remember-whos-window/",
+      "url": "https://joshnicholas.com/blog/scribbles/cant-remember-whos-window/",
+      "title": "Can&#39;t remember whose window",
+      "content_html": "<br />\nThe latest window swap [https://window-swap.com/] sketch. I've lost track of the\nsource image but head over to window swap, click enough and you should find it. \n<p>Anyway, I'd recently been trying to go very dark but this reminds me of how<br />\npeaceful it can be when I let the page shine through.</p>\n<p>#7 [<strong>GHOST_URL</strong>/tag/windows]</p>\n",
+      "date_published": "2020-10-02T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/annas-window/",
+      "url": "https://joshnicholas.com/blog/scribbles/annas-window/",
+      "title": "Anna&#39;s window",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Annaswindow-2.jpeg\" alt=\"'Anna's window'\" /><br />\n<br /><br />\nThe latest window swap [<a href=\"https://window-swap.com/\">https://window-swap.com/</a>] sketch. This one of a window<br />\nin Brooklyn, New York. I've been focusing on improving value ranges recently.<br />\nSo, a lot of window sketches in greyscale using water soluble graphite.</p>\n<p>#6 [<strong>GHOST_URL</strong>/tag/windows]</p>\n",
+      "date_published": "2020-10-02T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/swim-with-the/",
+      "url": "https://joshnicholas.com/blog/scribbles/swim-with-the/",
+      "title": "Swim with the",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Graphfish.jpeg\" alt=\"'Swim with the'\" /><br />\n<br /><br />\nFirst time properly doing Inktober! Probably gonna keep going with value<br />\nstudies.</p>\n",
+      "date_published": "2020-10-01T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/nondestinct/",
+      "url": "https://joshnicholas.com/blog/scribbles/nondestinct/",
+      "title": "Nondestinct",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Phnompenh.jpeg\" alt=\"'Nondestinct'\" /><br />\n<br /></p>\n<p>Another window swap [<a href=\"https://window-swap.com/\">https://window-swap.com/</a>] sketch. This one is of Phnom<br />\nPenh, where I was earlier this year<br />\n[<strong>GHOST_URL</strong>/think-theres-a-monastery-at-the-end-of-my-street/] as the<br />\npandemic really took off.</p>\n<p>Hope I can go back some day and finish the trip. Will take my new watercolours.</p>\n<p>#5 [<strong>GHOST_URL</strong>/tag/windows]</p>\n",
+      "date_published": "2020-09-30T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/but-cartoony/",
+      "url": "https://joshnicholas.com/blog/scribbles/but-cartoony/",
+      "title": "Bit cartoony",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Untitled.jpeg\" alt=\"'Bit cartoony'\" /><br />\n<br /><br />\nAnother window swap [<a href=\"https://window-swap.com/\">https://window-swap.com/</a>] sketch. This time of a window in<br />\nManhattan, New York.</p>\n<p>Getting a bit better with watercolours, but not much depth. Need to stop with<br />\nthe flat planes.</p>\n<p>#4 [<strong>GHOST_URL</strong>/tag/windows]</p>\n",
+      "date_published": "2020-09-30T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/philtruuuuum/",
+      "url": "https://joshnicholas.com/blog/scribbles/philtruuuuum/",
+      "title": "philtruuuuum",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Tonedmouse.jpeg\" alt=\"'philtruuuuum'\" /><br />\n<br /><br />\nMessed up some proportions but still loving toned paper.</p>\n",
+      "date_published": "2020-09-07T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/so-many-orange-buildings/",
+      "url": "https://joshnicholas.com/blog/scribbles/so-many-orange-buildings/",
+      "title": "So many orange buildings",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Romewindowsketch.jpeg\" alt=\"'So many orange buildings'\" /><br />\n<br /><br />\nSecond attempt at a window swap [<a href=\"https://window-swap.com/\">https://window-swap.com</a>] sketch using<br />\nwatercolours. Watercolour pencils this time. Need to remember to use watercolour<br />\npaper rather than a regular sketchbook.</p>\n<p>There an awful lot of orange buildings in this collection.</p>\n<p>#3 [<strong>GHOST_URL</strong>/tag/windows/]</p>\n",
+      "date_published": "2020-09-03T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/gotta-watch-those-mid-tones/",
+      "url": "https://joshnicholas.com/blog/scribbles/gotta-watch-those-mid-tones/",
+      "title": "Gotta watch those mid-tones",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Midtone-portrait.jpeg\" alt=\"'Gotta watch those mid-tones'\" /><br />\n<br /><br />\nFirst time working with toned paper. I like it.</p>\n",
+      "date_published": "2020-09-03T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/need-more-window-gardens/",
+      "url": "https://joshnicholas.com/blog/scribbles/need-more-window-gardens/",
+      "title": "Need more window gardens imo",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Windowswap2.jpeg\" alt=\"'Need more window gardens imo'\" /><br />\n<br /><br />\nAnother [<strong>GHOST_URL</strong>/a-dog-with-a-view/] window from window swap<br />\n[<a href=\"https://window-swap.com/\">https://window-swap.com</a>].</p>\n<p>#2 [<strong>GHOST_URL</strong>/tag/windows/]</p>\n",
+      "date_published": "2020-08-30T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/sign-of-the-times/",
+      "url": "https://joshnicholas.com/blog/scribbles/sign-of-the-times/",
+      "title": "Sign of the times",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Covidtests.jpeg\" alt=\"'Sign of the times'\" /><br />\n<br /><br />\nThey’re back around Surfers.</p>\n",
+      "date_published": "2020-08-29T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/kinda-exxy/",
+      "url": "https://joshnicholas.com/blog/scribbles/kinda-exxy/",
+      "title": "Kinda exxy",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Coldbrew.jpeg\" alt=\"'Kinda exxy'\" /><br />\n<br /><br />\nMarket again today</p>\n",
+      "date_published": "2020-08-29T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/a-dog-with-a-view/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-dog-with-a-view/",
+      "title": "A dog with a view",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Windowchallenge1.jpeg\" alt=\"'A dog with a view'\" /><br />\n<br /><br />\nRecently discovered a brilliant “window swapping” website<br />\n[<a href=\"https://window-swap.com/\">https://window-swap.com</a>] during Covid. Going to see how many I can draw.</p>\n<p>#1 [<strong>GHOST_URL</strong>/tag/windows/]</p>\n",
+      "date_published": "2020-08-29T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/breakfast-on-the-balcony/",
+      "url": "https://joshnicholas.com/blog/scribbles/breakfast-on-the-balcony/",
+      "title": "Breakfast on the balcony",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Omabreakfasting.jpeg\" alt=\"'Breakfast on the balcony'\" /><br />\n<br /><br />\nQuickly caught my Grandma breakfasting on the balcony.</p>\n",
+      "date_published": "2020-08-28T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/cafe-man/",
+      "url": "https://joshnicholas.com/blog/scribbles/cafe-man/",
+      "title": "Cafe man",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Cafeman.jpeg\" alt=\"'Cafe man'\" /><br />\n<br /><br />\nBeen a fair while since I could just sit and work in a cafe.</p>\n",
+      "date_published": "2020-08-25T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/flowerpot2/",
+      "url": "https://joshnicholas.com/blog/scribbles/flowerpot2/",
+      "title": "Flowerpot2",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Flowerpot-2.jpeg\" alt=\"'Flowerpot2'\" /><br />\n<br /><br />\nBetter values than last time [<strong>GHOST_URL</strong>/new-graphite/].</p>\n",
+      "date_published": "2020-08-23T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/another-market-day/",
+      "url": "https://joshnicholas.com/blog/scribbles/another-market-day/",
+      "title": "Another market day",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Singing.jpeg\" alt=\"'Another market day'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-08-22T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/oh-grandma-where-are-thou/",
+      "url": "https://joshnicholas.com/blog/scribbles/oh-grandma-where-are-thou/",
+      "title": "Oh Grandma where art thou",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Grandma.jpeg\" alt=\"'Oh Grandma where art thou'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-08-20T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/rusty-bucket/",
+      "url": "https://joshnicholas.com/blog/scribbles/rusty-bucket/",
+      "title": "Rusty bucket",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Broadwaterboat.jpeg\" alt=\"'Rusty bucket'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-08-19T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/waiting-for-caffeine/",
+      "url": "https://joshnicholas.com/blog/scribbles/waiting-for-caffeine/",
+      "title": "Waiting for caffeine",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Coffeewaiting.jpeg\" alt=\"'Waiting for caffeine'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-08-18T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/practicing-hatching/",
+      "url": "https://joshnicholas.com/blog/scribbles/practicing-hatching/",
+      "title": "Practicing hatching",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Hatchingmarket.jpeg\" alt=\"'Practicing hatching'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-08-15T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/sleep/",
+      "url": "https://joshnicholas.com/blog/scribbles/sleep/",
+      "title": "Sleep",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Sleepingbenny.jpeg\" alt=\"'Sleep'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-08-12T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/monkfish/",
+      "url": "https://joshnicholas.com/blog/scribbles/monkfish/",
+      "title": "Monkfish",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Monk.jpeg\" alt=\"'Monkfish'\" /><br />\n<br /><br />\nBeen looking at a lot of Senaka Senanayake paintings.</p>\n",
+      "date_published": "2020-08-09T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/new-graphite/",
+      "url": "https://joshnicholas.com/blog/scribbles/new-graphite/",
+      "title": "New graphite",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Flowerpot.jpeg\" alt=\"'New graphite'\" /><br />\n<br /><br />\nStill trying to figure out my new graphite blocks. Probably should stop drawing<br />\nsuch dark lines.</p>\n",
+      "date_published": "2020-08-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/where-the-magic-happens/",
+      "url": "https://joshnicholas.com/blog/scribbles/where-the-magic-happens/",
+      "title": "Where the magic happens",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Desk.jpeg\" alt=\"'Where the magic happens'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-08-03T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/in-lila/",
+      "url": "https://joshnicholas.com/blog/scribbles/in-lila/",
+      "title": "In lila",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Inlila.jpeg\" alt=\"'In lila'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-08-03T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/study-2/",
+      "url": "https://joshnicholas.com/blog/scribbles/study-2/",
+      "title": "Study 2",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Study2.jpeg\" alt=\"'Study 2'\" /><br />\n<br /><br />\nBased on a Bellini.</p>\n",
+      "date_published": "2020-08-02T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/study-1/",
+      "url": "https://joshnicholas.com/blog/scribbles/study-1/",
+      "title": "Study 1",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Study1.jpeg\" alt=\"'Study 1'\" /><br />\n<br /><br />\nWorking my way through some drawing books.</p>\n",
+      "date_published": "2020-08-02T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/piped-in/",
+      "url": "https://joshnicholas.com/blog/scribbles/piped-in/",
+      "title": "Piped in",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Pipedin.jpeg\" alt=\"'Piped in'\" /><br />\n<br /><br />\nCan you pull off fauvism with crayons?</p>\n",
+      "date_published": "2020-08-02T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/chin-butt/",
+      "url": "https://joshnicholas.com/blog/scribbles/chin-butt/",
+      "title": "Chin butt",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Chinbutt.jpeg\" alt=\"'Chin butt'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-07-26T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/simple-lines/",
+      "url": "https://joshnicholas.com/blog/scribbles/simple-lines/",
+      "title": "Simple lines",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Gogh2.jpeg\" alt=\"'Simple lines'\" /><br />\n<br /><br />\nTrying to nail more abstract portraits, with simpler lines</p>\n",
+      "date_published": "2020-07-14T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/out-for-lunch/",
+      "url": "https://joshnicholas.com/blog/scribbles/out-for-lunch/",
+      "title": "Out for lunch",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Fancy.jpeg\" alt=\"'Out for lunch'\" /><br />\n<br /><br />\nHow much longer will this be tenable?</p>\n",
+      "date_published": "2020-07-14T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/selfie-7/",
+      "url": "https://joshnicholas.com/blog/scribbles/selfie-7/",
+      "title": "Selfie",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Selfie7.jpeg\" alt=\"'Selfie #7'\" /><br />\n<br /><br />\nBeen reading about Matisse</p>\n",
+      "date_published": "2020-07-13T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/john-dickinson/",
+      "url": "https://joshnicholas.com/blog/scribbles/john-dickinson/",
+      "title": "John Dickinson",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Dickinson.jpeg\" alt=\"'John Dickinson'\" /><br />\n<br /><br />\nBreaking out the sketching crayons!</p>\n",
+      "date_published": "2020-07-09T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/the-sower/",
+      "url": "https://joshnicholas.com/blog/scribbles/the-sower/",
+      "title": "The sower",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Sower2.jpeg\" alt=\"'The sower'\" /><br />\n<br /><br />\nHard not to get inspired when reading about Van Gogh<br />\n[<strong>GHOST_URL</strong>/teach-a-man-to-fish/].</p>\n",
+      "date_published": "2020-07-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/red-sower/",
+      "url": "https://joshnicholas.com/blog/scribbles/red-sower/",
+      "title": "Red sower",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Sowerred.jpeg\" alt=\"'Red sower'\" /><br />\n<br /><br />\nHadn’t broken out sketching crayons in a while.</p>\n",
+      "date_published": "2020-07-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/about-time/",
+      "url": "https://joshnicholas.com/blog/scribbles/about-time/",
+      "title": "About time",
+      "content_html": "<br />\n",
+      "date_published": "2020-07-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/why-are-these-plants-everywhere/",
+      "url": "https://joshnicholas.com/blog/scribbles/why-are-these-plants-everywhere/",
+      "title": "Why are these plants everywhere?",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/Indoor-palm.jpeg\" alt=\"'Why are these plants everywhere?'\" /><br />\n<br /><br />\nIt’s a palm, I think?</p>\n",
+      "date_published": "2020-07-07T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/yorked-again/",
+      "url": "https://joshnicholas.com/blog/scribbles/yorked-again/",
+      "title": "Yorked again",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/0Yorkedagain1.jpg\" alt=\"'Yorked again'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-06-29T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/strauss-in-da-hauss/",
+      "url": "https://joshnicholas.com/blog/scribbles/strauss-in-da-hauss/",
+      "title": "Strauss in da hauss",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/1Straussindahausss.png\" alt=\"'Strauss in da hauss'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-06-28T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/yorked/",
+      "url": "https://joshnicholas.com/blog/scribbles/yorked/",
+      "title": "Yorked",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/2Yorkedd-1.jpg\" alt=\"'Yorked'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-06-27T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/bit-exxy/",
+      "url": "https://joshnicholas.com/blog/scribbles/bit-exxy/",
+      "title": "Bit exxy",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/3Bitexxyd.jpg\" alt=\"'Bit exxy'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-06-26T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/surfers-are-returning-nature-is-healing/",
+      "url": "https://joshnicholas.com/blog/photos/surfers-are-returning-nature-is-healing/",
       "title": "Surfers are returning, nature is healing",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/0Surfersarereturning-natureishealing.jpg\" alt=\"'Surfers are returning, nature is healing'\" /><br />\n<br /></p>\n",
       "date_published": "2020-06-21T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2020-05-21/",
-      "url": "https://joshnicholas.com/blog/photos/2020-05-21/",
+      "id": "https://joshnicholas.com/blog/scribbles/aho-and-maho/",
+      "url": "https://joshnicholas.com/blog/scribbles/aho-and-maho/",
+      "title": "aho and maho",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/4ahoandmaho1.jpg\" alt=\"'aho and maho'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-06-19T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/kurvi-tasch/",
+      "url": "https://joshnicholas.com/blog/scribbles/kurvi-tasch/",
+      "title": "Kûrvi-Tasch",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/5Ku-rvi-Tasch.jpeg\" alt=\"'Kûrvi-Tasch'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-06-02T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/laksa-man/",
+      "url": "https://joshnicholas.com/blog/scribbles/laksa-man/",
+      "title": "Laksa man",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/6Laksaman.jpeg\" alt=\"'Laksa man'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-27T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/hmph-scribble/",
+      "url": "https://joshnicholas.com/blog/scribbles/hmph-scribble/",
+      "title": "Hmph",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/7Hmph.jpeg\" alt=\"'Hmph'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-25T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/side-eye/",
+      "url": "https://joshnicholas.com/blog/scribbles/side-eye/",
+      "title": "Side eye",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/10Sideeye.jpeg\" alt=\"'Side eye'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-23T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-6/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-6/",
+      "title": "Selfie",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/8Selfie-6.jpeg\" alt=\"'Selfie #6'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-23T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/claude-shannon-scribble/",
+      "url": "https://joshnicholas.com/blog/scribbles/claude-shannon-scribble/",
+      "title": "Shannon",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/11Shannon.jpeg\" alt=\"'Shannon'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-22T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-5/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-5/",
+      "title": "Selfie",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/12Selfie-5.jpeg\" alt=\"'Selfie #5'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-22T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/gulley/",
+      "url": "https://joshnicholas.com/blog/photos/gulley/",
       "title": "Gulley",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/1Gulley.jpg\" alt=\"'Gulley'\" /><br />\n<br /></p>\n",
       "date_published": "2020-05-21T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2020-05-19/",
-      "url": "https://joshnicholas.com/blog/photos/2020-05-19/",
+      "id": "https://joshnicholas.com/blog/photos/distance/",
+      "url": "https://joshnicholas.com/blog/photos/distance/",
       "title": "Distance",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/2Distance.jpg\" alt=\"'Distance'\" /><br />\n<br /></p>\n",
       "date_published": "2020-05-19T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2020-05-16/",
-      "url": "https://joshnicholas.com/blog/photos/2020-05-16/",
+      "id": "https://joshnicholas.com/blog/scribbles/sitting-by-the-dock-of-the-bay/",
+      "url": "https://joshnicholas.com/blog/scribbles/sitting-by-the-dock-of-the-bay/",
+      "title": "Sitting by the dock of the bay",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/13Sittingbythedockofthebay.jpeg\" alt=\"'Sitting by the dock of the bay'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-17T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/first-time-back-at-the-market/",
+      "url": "https://joshnicholas.com/blog/photos/first-time-back-at-the-market/",
       "title": "First time back at the market",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/3Firsttimebackatthemarket.jpg\" alt=\"'First time back at the market'\" /><br />\n<br /></p>\n",
       "date_published": "2020-05-16T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2020-05-08/",
-      "url": "https://joshnicholas.com/blog/photos/2020-05-08/",
+      "id": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-4/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-4/",
+      "title": "Selfie",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/14Selfie-4.jpeg\" alt=\"'Selfie #4'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-13T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-3/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-3/",
+      "title": "Selfie",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/15Selfie-3.jpeg\" alt=\"'Selfie #3'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-12T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-2/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-2/",
+      "title": "Selfie",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/16Selfie-2.jpeg\" alt=\"'Selfie #2'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-11T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-1/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-1/",
+      "title": "Selfie",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/18Selfie-1.jpeg\" alt=\"'Selfie #1'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-10T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-1-5/",
+      "url": "https://joshnicholas.com/blog/scribbles/a-josh-a-day-1-5/",
+      "title": "Selfie",
+      "content_html": "<br />\n",
+      "date_published": "2020-05-10T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/paddlin/",
+      "url": "https://joshnicholas.com/blog/photos/paddlin/",
       "title": "Paddlin",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/paddlin.jpeg\" alt=\"'Paddlin'\" /><br />\n<br /></p>\n",
       "date_published": "2020-05-08T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2020-04-23/",
-      "url": "https://joshnicholas.com/blog/photos/2020-04-23/",
+      "id": "https://joshnicholas.com/blog/scribbles/white-rabbits/",
+      "url": "https://joshnicholas.com/blog/scribbles/white-rabbits/",
+      "title": "White rabbits",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/19Whiterabbits7.jpg\" alt=\"'White rabbits'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-07T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/in-a-mood/",
+      "url": "https://joshnicholas.com/blog/scribbles/in-a-mood/",
+      "title": "In a mood",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/20Inamood2.jpg\" alt=\"'In a mood'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-07T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/soren-not-soren/",
+      "url": "https://joshnicholas.com/blog/scribbles/soren-not-soren/",
+      "title": "Søren not Søren",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/22S-rennotS-ren9.jpg\" alt=\"'Søren not Søren'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-06T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/got-a-new-brush-pen/",
+      "url": "https://joshnicholas.com/blog/scribbles/got-a-new-brush-pen/",
+      "title": "Got a new brush pen",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/21Gotanewbrushpen2.jpg\" alt=\"'Got a new brush pen'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-06T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/definitely-not-kierkegaard/",
+      "url": "https://joshnicholas.com/blog/scribbles/definitely-not-kierkegaard/",
+      "title": "Definitely not Kierkegaard",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/23DefinitelynotKierkegaard7.jpg\" alt=\"'Definitely not Kierkegaard'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-05-05T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/oh-dahvid/",
+      "url": "https://joshnicholas.com/blog/scribbles/oh-dahvid/",
+      "title": "Oh Dahvid",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/25OhDahvid8.jpg\" alt=\"'Oh Dahvid'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-27T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/gnt/",
+      "url": "https://joshnicholas.com/blog/scribbles/gnt/",
+      "title": "GnT",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/24GnT0.jpg\" alt=\"'GnT'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-27T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/the-space/",
+      "url": "https://joshnicholas.com/blog/scribbles/the-space/",
+      "title": "The space",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/26Thespace5.jpg\" alt=\"'The space'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-24T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/keeps-going/",
+      "url": "https://joshnicholas.com/blog/scribbles/keeps-going/",
+      "title": "Keeps going",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/27Keepsgoing6.jpg\" alt=\"'Keeps going'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-23T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/lockdown-games/",
+      "url": "https://joshnicholas.com/blog/photos/lockdown-games/",
       "title": "Lockdown games",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/5Lockdowngames.jpg\" alt=\"'Lockdown games'\" /><br />\n<br /></p>\n",
       "date_published": "2020-04-23T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2020-04-14/",
-      "url": "https://joshnicholas.com/blog/photos/2020-04-14/",
+      "id": "https://joshnicholas.com/blog/scribbles/lockdown-day-whatever/",
+      "url": "https://joshnicholas.com/blog/scribbles/lockdown-day-whatever/",
+      "title": "Lockdown day whatever",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/28Lockdowndaywhatever5.png\" alt=\"'Lockdown day whatever'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-22T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/subjects-starting-to-run-dry/",
+      "url": "https://joshnicholas.com/blog/scribbles/subjects-starting-to-run-dry/",
+      "title": "Subjects starting to run dry",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/29Subjectsstartingtorundry2.jpg\" alt=\"'Subjects starting to run dry'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-17T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/pain-point/",
+      "url": "https://joshnicholas.com/blog/scribbles/pain-point/",
+      "title": "Pain point",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/30Painpoint4.png\" alt=\"'Pain point'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-15T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/scribbling-to-mediocrity/",
+      "url": "https://joshnicholas.com/blog/scribbles/scribbling-to-mediocrity/",
+      "title": "Scribbling to mediocrity",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/31Scribblingtomediocrity3.png\" alt=\"'Scribbling to mediocrity'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-14T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/out-and-aboot/",
+      "url": "https://joshnicholas.com/blog/photos/out-and-aboot/",
+      "title": "Out and aboot",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/7Outandaboot.jpg\" alt=\"'Out and aboot'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-14T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/booots/",
+      "url": "https://joshnicholas.com/blog/photos/booots/",
       "title": "Booots",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/6Booots.jpg\" alt=\"'Booots'\" /><br />\n<br /></p>\n",
       "date_published": "2020-04-14T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-13/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-13/",
+      "id": "https://joshnicholas.com/blog/scribbles/elementary/",
+      "url": "https://joshnicholas.com/blog/scribbles/elementary/",
+      "title": "Elementary",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/32Elementary0.jpg\" alt=\"'Elementary'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-12T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/atticus-punding/",
+      "url": "https://joshnicholas.com/blog/scribbles/atticus-punding/",
+      "title": "Atticus Punding",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/33AtticusPunding5.png\" alt=\"'Atticus Punding'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-12T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/purple-period/",
+      "url": "https://joshnicholas.com/blog/scribbles/purple-period/",
+      "title": "Purple period",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/34Purpleperiod8.png\" alt=\"'Purple period'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-04-04T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/financier/",
+      "url": "https://joshnicholas.com/blog/scribbles/financier/",
+      "title": "Financier",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/36Financier2.jpg\" alt=\"'Financier'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-03-04T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/at-the-embassy/",
+      "url": "https://joshnicholas.com/blog/scribbles/at-the-embassy/",
+      "title": "At the embassy",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/35Attheembassy3.jpg\" alt=\"'At the embassy'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-03-04T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/british-car-day/",
+      "url": "https://joshnicholas.com/blog/scribbles/british-car-day/",
+      "title": "British car day",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/38Britishcarday0.jpg\" alt=\"'British car day'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-03-01T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/doesnt-like-green-tea/",
+      "url": "https://joshnicholas.com/blog/scribbles/doesnt-like-green-tea/",
+      "title": "Doesn’t like green tea",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/39Doesn-tlikegreentea6.jpg\" alt=\"'Doesn’t like green tea'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-02-26T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/why-are-hands-so-hard/",
+      "url": "https://joshnicholas.com/blog/scribbles/why-are-hands-so-hard/",
+      "title": "Why are hands so hard?",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/40Whyarehandssohard-6.jpg\" alt=\"'Why are hands so hard?'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-02-22T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/mouse-in-profile/",
+      "url": "https://joshnicholas.com/blog/scribbles/mouse-in-profile/",
+      "title": "Mouse in profile",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/41Mouseinprofile2.jpg\" alt=\"'Mouse in profile'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-02-21T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/lil-tree/",
+      "url": "https://joshnicholas.com/blog/scribbles/lil-tree/",
+      "title": "Lil tree",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/43Liltree6.jpg\" alt=\"'Lil tree'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-02-20T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/cafe-cat/",
+      "url": "https://joshnicholas.com/blog/scribbles/cafe-cat/",
+      "title": "Cafe cat",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/42Cafecat1.jpg\" alt=\"'Cafe cat'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-02-20T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/arrived-in-bangkok/",
+      "url": "https://joshnicholas.com/blog/scribbles/arrived-in-bangkok/",
+      "title": "Arrived in Bangkok",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/44ArrivedinBangkok1.jpg\" alt=\"'Arrived in Bangkok'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-02-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/i-went-to-a-farm-in-siem-reap/",
+      "url": "https://joshnicholas.com/blog/scribbles/i-went-to-a-farm-in-siem-reap/",
+      "title": "I went to a farm in Siem Reap!",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/45IwenttoafarminSiemReap-3.jpg\" alt=\"'I went to a farm in Siem Reap!'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-02-04T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/the-anti-coronavirus-flow-chart/",
+      "url": "https://joshnicholas.com/blog/scribbles/the-anti-coronavirus-flow-chart/",
+      "title": "The anti-coronavirus flow chart",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/rona.jpg\" alt=\"'The anti-coronavirus flow chart'\" /><br />\n<br /></p>\n<p>Been reading a lot of guides over the past few weeks and this seems to be the<br />\ngist. The World Health Organisation<br />\n[<a href=\"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public</a>]<br />\nhas more info.</p>\n",
+      "date_published": "2020-02-01T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/really-loving-the-remorques-in-cambodia/",
+      "url": "https://joshnicholas.com/blog/scribbles/really-loving-the-remorques-in-cambodia/",
+      "title": "Really loving the remorque’s in Cambodia",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/48Reallylovingtheremorque-sinCambodia1.jpg\" alt=\"'Really loving the remorque’s in Cambodia'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-02-01T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/i-wanted-more-rice/",
+      "url": "https://joshnicholas.com/blog/scribbles/i-wanted-more-rice/",
+      "title": "I wanted more rice",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/rice.jpg\" alt=\"'I wanted more rice'\" /><br />\n<br /></p>\n<p>Seriously this has happened in like three different cities now. I just wanted<br />\nmore rice with the amok 😬</p>\n",
+      "date_published": "2020-01-31T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/some-more-from-angkor-thom/",
+      "url": "https://joshnicholas.com/blog/scribbles/some-more-from-angkor-thom/",
+      "title": "Some more from Angkor Thom",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/51SomemorefromAngkorThom8.jpg\" alt=\"'Some more from Angkor Thom'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-25T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/angkor-thom-today/",
+      "url": "https://joshnicholas.com/blog/scribbles/angkor-thom-today/",
+      "title": "Angkor Thom today",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/53AngkorThomtoday3.jpg\" alt=\"'Angkor Thom today'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-25T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/reflections-on-a-thousand-buddhas/",
+      "url": "https://joshnicholas.com/blog/scribbles/reflections-on-a-thousand-buddhas/",
+      "title": "Reflections on a thousand Buddhas",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/58Reflections-on-a-thousand-Buddhas9.jpg\" alt=\"'Reflections on a thousand Buddhas'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-24T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/more-from-around-angkor-wat/",
+      "url": "https://joshnicholas.com/blog/scribbles/more-from-around-angkor-wat/",
+      "title": "More from around Angkor Wat",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/55More-from-around-Angkor-Wat1.jpg\" alt=\"'More from around Angkor Wat'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-24T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/finally-made-it-to-angkor-wat/",
+      "url": "https://joshnicholas.com/blog/scribbles/finally-made-it-to-angkor-wat/",
+      "title": "Finally made it to Angkor Wat",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/56FinallymadeittoAngkorWat3.jpg\" alt=\"'Finally made it to Angkor Wat'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-24T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/think-theres-a-monastery-at-the-end-of-my-street/",
+      "url": "https://joshnicholas.com/blog/scribbles/think-theres-a-monastery-at-the-end-of-my-street/",
+      "title": "Think there’s a monastery at the end of my street",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/59Thinkthere-samonasteryattheendofmystreet0.jpg\" alt=\"'Think there’s a monastery at the end of my street'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-20T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/really-getting-into-khmer-architecture/",
+      "url": "https://joshnicholas.com/blog/scribbles/really-getting-into-khmer-architecture/",
+      "title": "Really getting into Khmer architecture",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/60ReallygettingintoKhmerarchitecture3.jpg\" alt=\"'Really getting into Khmer architecture'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-20T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/walking-along-the-mekong/",
+      "url": "https://joshnicholas.com/blog/scribbles/walking-along-the-mekong/",
+      "title": "Walking along the Mekong",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/61WalkingalongtheMekong2.jpg\" alt=\"'Walking along the Mekong'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-19T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/mmmmmboats/",
+      "url": "https://joshnicholas.com/blog/scribbles/mmmmmboats/",
+      "title": "Mmmmmboats",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/62Mmmmmboats1.jpg\" alt=\"'Mmmmmboats'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-18T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/quick-lines/",
+      "url": "https://joshnicholas.com/blog/scribbles/quick-lines/",
+      "title": "Quick lines",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/63Quicklines9.jpg\" alt=\"'Quick lines'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-17T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/in-kuala-lumpur-after-a-long-time/",
+      "url": "https://joshnicholas.com/blog/scribbles/in-kuala-lumpur-after-a-long-time/",
+      "title": "In Kuala Lumpur after a long time",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/64InKualaLumpurafteralongtime7.jpg\" alt=\"'In Kuala Lumpur after a long time'\" /><br />\n<br /></p>\n",
+      "date_published": "2020-01-16T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/need-a-scarf/",
+      "url": "https://joshnicholas.com/blog/scribbles/need-a-scarf/",
+      "title": "Need a scarf",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/68Needascarf5.jpg\" alt=\"'Need a scarf'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-12-27T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/christmas-markets/",
+      "url": "https://joshnicholas.com/blog/scribbles/christmas-markets/",
+      "title": "Christmas markets",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/69Christmasmarkets2.jpg\" alt=\"'Christmas markets'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-12-26T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/ghost-post/",
+      "url": "https://joshnicholas.com/blog/scribbles/ghost-post/",
+      "title": "Ghost",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/70Ghost6.jpg\" alt=\"'Ghost'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-12-22T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/wrinkly/",
+      "url": "https://joshnicholas.com/blog/scribbles/wrinkly/",
+      "title": "Wrinkly",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/72Wrinkly3.png\" alt=\"'Wrinkly'\" /><br />\n<br /><br />\nLove to Wes Mountain from whom I blatantly plagiarised the style</p>\n",
+      "date_published": "2019-12-21T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/playing-with-stylii/",
+      "url": "https://joshnicholas.com/blog/scribbles/playing-with-stylii/",
+      "title": "Playing with stylii",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/75Playingwithstylii3.jpg\" alt=\"'Playing with stylii'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-12-15T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/more-pot-plants/",
+      "url": "https://joshnicholas.com/blog/scribbles/more-pot-plants/",
+      "title": "More pot plants",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/74Morepotplants8.jpg\" alt=\"'More pot plants'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-12-15T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/square-eyed/",
+      "url": "https://joshnicholas.com/blog/scribbles/square-eyed/",
+      "title": "Square eyed",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/80Squareeyed8.jpg\" alt=\"'Square eyed'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-12-09T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/i-hope-it-will-last/",
+      "url": "https://joshnicholas.com/blog/scribbles/i-hope-it-will-last/",
+      "title": "I hope it will last",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/81Ihopeitwilllast8.jpg\" alt=\"'I hope it will last'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-12-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/been-watching-a-fair-bit-of-disney/",
+      "url": "https://joshnicholas.com/blog/scribbles/been-watching-a-fair-bit-of-disney/",
+      "title": "Been watching a fair bit of Disney",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/82BeenwatchingafairbitofDisney5.jpg\" alt=\"'Been watching a fair bit of Disney'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-12-07T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/schucks/",
+      "url": "https://joshnicholas.com/blog/scribbles/schucks/",
+      "title": "Schucks",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/83Schucks2.jpg\" alt=\"'Schucks'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-11-17T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/hatman/",
+      "url": "https://joshnicholas.com/blog/scribbles/hatman/",
+      "title": "Hatman",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/84Hatman3.jpg\" alt=\"'Hatman'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-11-16T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/at-the-library/",
+      "url": "https://joshnicholas.com/blog/scribbles/at-the-library/",
+      "title": "At the library",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/85Atthelibrary6.jpg\" alt=\"'At the library'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-11-15T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/flatness/",
+      "url": "https://joshnicholas.com/blog/scribbles/flatness/",
+      "title": "Flatness",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/86Flatness3.jpg\" alt=\"'Flatness'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-11-14T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/omah/",
+      "url": "https://joshnicholas.com/blog/scribbles/omah/",
+      "title": "Omah",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/88Omah8.jpg\" alt=\"'Omah'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-11-10T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/lipsss/",
+      "url": "https://joshnicholas.com/blog/scribbles/lipsss/",
+      "title": "Lipsss",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/89Lipsss6.jpg\" alt=\"'Lipsss'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-11-10T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/got-some-new-colours/",
+      "url": "https://joshnicholas.com/blog/scribbles/got-some-new-colours/",
+      "title": "Got some new colours",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/90Gotsomenewcolours9.jpg\" alt=\"'Got some new colours'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-10-30T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/fort-railway-buses/",
+      "url": "https://joshnicholas.com/blog/scribbles/fort-railway-buses/",
+      "title": "Fort railway buses",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/93Fortrailwaybuses1.jpg\" alt=\"'Fort railway buses'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-10-13T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/tel-aviv-streets/",
+      "url": "https://joshnicholas.com/blog/photos/tel-aviv-streets/",
       "title": "Tel Aviv streets",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/8TelAvivstreets.jpg\" alt=\"'Tel Aviv streets'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-13T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-10/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-10/",
+      "id": "https://joshnicholas.com/blog/photos/fishing-and-jaffa/",
+      "url": "https://joshnicholas.com/blog/photos/fishing-and-jaffa/",
       "title": "Fishing and Jaffa",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/9FishingandJaffa.jpg\" alt=\"'Fishing and Jaffa'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-10T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-09/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-09/",
+      "id": "https://joshnicholas.com/blog/scribbles/at-the-bar/",
+      "url": "https://joshnicholas.com/blog/scribbles/at-the-bar/",
+      "title": "At the bar",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/94Atthebar9.jpg\" alt=\"'At the bar'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-10-09T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/tel-aviv-fishin/",
+      "url": "https://joshnicholas.com/blog/photos/tel-aviv-fishin/",
       "title": "Tel Aviv fishin",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/10TelAvivfishin.jpg\" alt=\"'Tel Aviv fishin'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-09T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-07/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-07/",
+      "id": "https://joshnicholas.com/blog/scribbles/scribbling-a-profile-is-hard/",
+      "url": "https://joshnicholas.com/blog/scribbles/scribbling-a-profile-is-hard/",
+      "title": "Scribbling a profile is hard",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/95Scribblingaprofileishard4.jpg\" alt=\"'Scribbling a profile is hard'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-10-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/mouse-in-the-house/",
+      "url": "https://joshnicholas.com/blog/scribbles/mouse-in-the-house/",
+      "title": "Mouse in the house",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/96Mouseinthehouse9.jpg\" alt=\"'Mouse in the house'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-10-07T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/welcome-to-the-racecourse/",
+      "url": "https://joshnicholas.com/blog/photos/welcome-to-the-racecourse/",
       "title": "Welcome to Jerash",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/11WelcometoJerash.jpg\" alt=\"'Welcome to Jerash'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-07T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-06/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-06/",
+      "id": "https://joshnicholas.com/blog/photos/carting-through-petra/",
+      "url": "https://joshnicholas.com/blog/photos/carting-through-petra/",
       "title": "Carting through Petra",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/12CartingthroughPetra.jpg\" alt=\"'Carting through Petra'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-06T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-05/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-05/",
+      "id": "https://joshnicholas.com/blog/photos/riding-through-petra/",
+      "url": "https://joshnicholas.com/blog/photos/riding-through-petra/",
       "title": "Riding through Petra",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/13RidingthroughPetra.jpg\" alt=\"'Riding through Petra'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-05T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-04/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-04/",
+      "id": "https://joshnicholas.com/blog/photos/deeep-in-the-petra-canyons/",
+      "url": "https://joshnicholas.com/blog/photos/deeep-in-the-petra-canyons/",
       "title": "Deeep in the Petra canyons 🇯🇴",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/14DeeepinthePetracanyons----.jpg\" alt=\"'Deeep in the Petra canyons 🇯🇴'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-04T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-03/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-03/",
+      "id": "https://joshnicholas.com/blog/photos/atop-petra/",
+      "url": "https://joshnicholas.com/blog/photos/atop-petra/",
       "title": "Atop Petra 🇯🇴",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/15AtopPetra----.jpg\" alt=\"'Atop Petra 🇯🇴'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-03T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-10-02/",
-      "url": "https://joshnicholas.com/blog/photos/2019-10-02/",
+      "id": "https://joshnicholas.com/blog/photos/sydney-vividness/",
+      "url": "https://joshnicholas.com/blog/photos/sydney-vividness/",
+      "title": "Sydney vividness 🇦🇺",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/17Sydneyvividness----.jpg\" alt=\"'Sydney vividness 🇦🇺'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-10-02T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/in-the-jordan-desert/",
+      "url": "https://joshnicholas.com/blog/photos/in-the-jordan-desert/",
       "title": "In the Jordan desert 🇯🇴",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/16IntheJordandesert----.jpg\" alt=\"'In the Jordan desert 🇯🇴'\" /><br />\n<br /></p>\n",
       "date_published": "2019-10-02T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/scribbles/2019-07-30/",
-      "url": "https://joshnicholas.com/blog/scribbles/2019-07-30/",
+      "id": "https://joshnicholas.com/blog/scribbles/morning-coffee/",
+      "url": "https://joshnicholas.com/blog/scribbles/morning-coffee/",
+      "title": "Morning coffee",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/97Morningcoffee5.jpg\" alt=\"'Morning coffee'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-09-21T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/cool-glasses/",
+      "url": "https://joshnicholas.com/blog/scribbles/cool-glasses/",
+      "title": "Cool glasses bro 🇱🇰✏️",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/98Coolglassesbro------3.jpg\" alt=\"'Cool glasses bro 🇱🇰✏️'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-09-17T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/galle-face-scribble/",
+      "url": "https://joshnicholas.com/blog/scribbles/galle-face-scribble/",
+      "title": "Galle Face with the port in the background 🇱🇰✏️",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/99GalleFacewiththeportinthebackground------1.jpg\" alt=\"'Galle Face with the port in the background 🇱🇰✏️'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-09-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/cat-drawing/",
+      "url": "https://joshnicholas.com/blog/scribbles/cat-drawing/",
+      "title": "Cat! 🇱🇰✏️",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/100Cat-------1.jpg\" alt=\"'Cat! 🇱🇰✏️'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-09-08T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/scream-drawing/",
+      "url": "https://joshnicholas.com/blog/scribbles/scream-drawing/",
+      "title": "Scream 🇱🇰✏️",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/101Scream------1.jpg\" alt=\"'Scream 🇱🇰✏️'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-09-03T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/thinking-thinking-drawing/",
+      "url": "https://joshnicholas.com/blog/scribbles/thinking-thinking-drawing/",
+      "title": "🤔 ✏️🇭🇺",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/104--------1.jpg\" alt=\"'🤔 ✏️🇭🇺'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-29T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/back-in-london/",
+      "url": "https://joshnicholas.com/blog/scribbles/back-in-london/",
+      "title": "Back in London for a few days ✏️🇬🇧",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/103BackinLondonforafewdays------1.jpg\" alt=\"'Back in London for a few days ✏️🇬🇧'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-29T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/__trashed-5/",
+      "url": "https://joshnicholas.com/blog/scribbles/__trashed-5/",
+      "title": "I’ll sing you a song a song of the sea 🎶🇬🇧✏️",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/102I-llsingyouasongasongofthesea--------1.jpg\" alt=\"'I’ll sing you a song a song of the sea 🎶🇬🇧✏️'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-29T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/buda-colour-combos/",
+      "url": "https://joshnicholas.com/blog/scribbles/buda-colour-combos/",
+      "title": "Trying some new colour combinations in Budapest ✏️🇭🇺",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/105TryingsomenewcolourcombinationsinBudapest------1.jpg\" alt=\"'Trying some new colour combinations in Budapest ✏️🇭🇺'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-26T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/new-orange-crayons/",
+      "url": "https://joshnicholas.com/blog/scribbles/new-orange-crayons/",
+      "title": "Bought some orange crayons 🙂✏️🇭🇺",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/106Boughtsomeorangecrayons--------4.jpg\" alt=\"'Bought some orange crayons 🙂✏️🇭🇺'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-24T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/buda-streets-trees/",
+      "url": "https://joshnicholas.com/blog/scribbles/buda-streets-trees/",
+      "title": "Loving these trees lining the streets in Budapest ✏️🇭🇺",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/107LovingthesetreesliningthestreetsinBudapest------0.jpg\" alt=\"'Loving these trees lining the streets in Budapest ✏️🇭🇺'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-24T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/nicholas-temple/",
+      "url": "https://joshnicholas.com/blog/scribbles/nicholas-temple/",
+      "title": "Another view of the Temple of St Nicholas (yup) ✏️🇸🇰",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/108AnotherviewoftheTempleofStNicholas-yup-------1.jpg\" alt=\"'Another view of the Temple of St Nicholas (yup) ✏️🇸🇰'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-19T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/bratislava-clock/",
+      "url": "https://joshnicholas.com/blog/scribbles/bratislava-clock/",
+      "title": "The clock tower in Bratislava ✏️🇸🇰",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/109TheclocktowerinBratislava------1.jpg\" alt=\"'The clock tower in Bratislava ✏️🇸🇰'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-19T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/bratislava-church-scribble/",
+      "url": "https://joshnicholas.com/blog/scribbles/bratislava-church-scribble/",
+      "title": "TFW you forget to leave enough room on the page for the steeple of the church ✏️🇸🇰",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/110TFWyouforgettoleaveenoughroomonthepageforthesteepleofthechurch------1.jpg\" alt=\"'TFW you forget to leave enough room on the page for the steeple of the church ✏️🇸🇰'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-19T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/bratislava-castle/",
+      "url": "https://joshnicholas.com/blog/scribbles/bratislava-castle/",
+      "title": "Morning from Bratislava Castle 👋 ✏️🇸🇰",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/111MorningfromBratislavaCastle--------1.jpg\" alt=\"'Morning from Bratislava Castle 👋 ✏️🇸🇰'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-19T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/bratislava-sun-portrait/",
+      "url": "https://joshnicholas.com/blog/scribbles/bratislava-sun-portrait/",
+      "title": "Me sitting in the sun in Bratislava  ✏️🇸🇰",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/113MesittinginthesuninBratislava------c.jpg\" alt=\"'Me sitting in the sun in Bratislava  ✏️🇸🇰'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-18T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/bratislava-beers/",
+      "url": "https://joshnicholas.com/blog/scribbles/bratislava-beers/",
+      "title": "Beers by the river in Bratislava  ✏️🇸🇰",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/112BeersbytheriverinBratislava------5.jpg\" alt=\"'Beers by the river in Bratislava  ✏️🇸🇰'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-18T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/belvedere-palace/",
+      "url": "https://joshnicholas.com/blog/scribbles/belvedere-palace/",
+      "title": "Last one from Vienna - Belvedere Palace ✏️🇦🇹",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/114LastonefromVienna-BelvederePalace------4.jpg\" alt=\"'Last one from Vienna - Belvedere Palace ✏️🇦🇹'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-18T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/vienna-kunst-gallery/",
+      "url": "https://joshnicholas.com/blog/scribbles/vienna-kunst-gallery/",
+      "title": "Waiting for the art gallery to open 😴✏️🇦🇹",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/115Waitingfortheartgallerytoopen--------9.jpg\" alt=\"'Waiting for the art gallery to open 😴✏️🇦🇹'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-14T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/vienna-canals/",
+      "url": "https://joshnicholas.com/blog/scribbles/vienna-canals/",
+      "title": "Day by the canals in Vienna  ✏️🇦🇹",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/116DaybythecanalsinVienna------9.jpg\" alt=\"'Day by the canals in Vienna  ✏️🇦🇹'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-14T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/prague-ministry-river/",
+      "url": "https://joshnicholas.com/blog/scribbles/prague-ministry-river/",
+      "title": "Some kind of ministry building in Prague 🤔 ✏️🇨🇿",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/117SomekindofministrybuildinginPrague--------7.jpg\" alt=\"'Some kind of ministry building in Prague 🤔 ✏️🇨🇿'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-11T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/overlook-hotel-prague/",
+      "url": "https://joshnicholas.com/blog/scribbles/overlook-hotel-prague/",
+      "title": "The Overlook Hotel/Prague palace  ✏️🇨🇿",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/118TheOverlookHotelPraguepalace------5.jpg\" alt=\"'The Overlook Hotel/Prague palace  ✏️🇨🇿'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-10T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/vltava-river-prague/",
+      "url": "https://joshnicholas.com/blog/scribbles/vltava-river-prague/",
+      "title": "A couple of days by the Vltava river in Prague ✏️🇨🇿",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/122AcoupleofdaysbytheVltavariverinPrague------c.jpg\" alt=\"'A couple of days by the Vltava river in Prague ✏️🇨🇿'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-09T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/toooooorists/",
+      "url": "https://joshnicholas.com/blog/scribbles/toooooorists/",
+      "title": "Toooooorists   ✏️🇨🇿",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/123Toooooorists------8.jpg\" alt=\"'Toooooorists   ✏️🇨🇿'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-07T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/couple-more-from-krakow/",
+      "url": "https://joshnicholas.com/blog/scribbles/couple-more-from-krakow/",
+      "title": "Couple more from Krakow 😬",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/126CouplemorefromKrakow--e.jpg\" alt=\"'Couple more from Krakow 😬'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-04T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/krakow-kathedral/",
+      "url": "https://joshnicholas.com/blog/scribbles/krakow-kathedral/",
+      "title": "Krakow Kathedral 😱 there are too many buildings to draw in this city  ✏️🇵🇱",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/127KrakowKathedral--therearetoomanybuildingstodrawinthiscity------5.jpg\" alt=\"'Krakow Kathedral 😱 there are too many buildings to draw in this city  ✏️🇵🇱'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-08-03T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/scribbles/before-and-after/",
+      "url": "https://joshnicholas.com/blog/scribbles/before-and-after/",
       "title": "Before and after 🤔 ✏️🇵🇱",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/129Beforeandafter--------b.jpg\" alt=\"'Before and after 🤔 ✏️🇵🇱'\" /><br />\n<br /></p>\n",
       "date_published": "2019-07-30T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/scribbles/2019-07-29/",
-      "url": "https://joshnicholas.com/blog/scribbles/2019-07-29/",
+      "id": "https://joshnicholas.com/blog/scribbles/warsaw-is-damn-pretty/",
+      "url": "https://joshnicholas.com/blog/scribbles/warsaw-is-damn-pretty/",
       "title": "Warsaw is damn pretty tbh  ✏️🇵🇱",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/131Warsawisdamnprettytbh------0.jpg\" alt=\"'Warsaw is damn pretty tbh  ✏️🇵🇱'\" /><br />\n<br /></p>\n",
       "date_published": "2019-07-29T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/scribbles/2019-07-27/",
-      "url": "https://joshnicholas.com/blog/scribbles/2019-07-27/",
+      "id": "https://joshnicholas.com/blog/scribbles/pigtail-beard/",
+      "url": "https://joshnicholas.com/blog/scribbles/pigtail-beard/",
       "title": "Saw a guy with pigtails in his beard",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/132Sawaguywithpigtailsinhisbeardf.jpg\" alt=\"'Saw a guy with pigtails in his beard'\" /><br />\n<br /><br />\nAm now sorely tempted (shitty artists approximation) ✏️🇮🇪</p>\n",
       "date_published": "2019-07-27T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/scribbles/2019-07-24/",
-      "url": "https://joshnicholas.com/blog/scribbles/2019-07-24/",
+      "id": "https://joshnicholas.com/blog/scribbles/scribbling-dublin-castle/",
+      "url": "https://joshnicholas.com/blog/scribbles/scribbling-dublin-castle/",
       "title": "Scribbling from Dublin castle 😀 ✏️🇮🇪",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/134ScribblingfromDublincastle--------3.jpg\" alt=\"'Scribbling from Dublin castle 😀 ✏️🇮🇪'\" /><br />\n<br /></p>\n",
       "date_published": "2019-07-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-28/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-28/",
+      "id": "https://joshnicholas.com/blog/photos/palestine-sand/",
+      "url": "https://joshnicholas.com/blog/photos/palestine-sand/",
       "title": "I always wondered how they put the sand in the bottles to make pictures 🇵🇸 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/18Ialwayswonderedhowtheyputthesandinthebottlestomakepictures------.jpg\" alt=\"'I always wondered how they put the sand in the bottles to make pictures 🇵🇸 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-28T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-27/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-27/",
+      "id": "https://joshnicholas.com/blog/photos/jerusalem-scooting/",
+      "url": "https://joshnicholas.com/blog/photos/jerusalem-scooting/",
       "title": "Scooting along the Jerusalem old city 🇮🇱 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/19ScootingalongtheJerusalemoldcity------.jpg\" alt=\"'Scooting along the Jerusalem old city 🇮🇱 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-27T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-25/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-25/",
+      "id": "https://joshnicholas.com/blog/photos/jerusalem-old-city-snooze/",
+      "url": "https://joshnicholas.com/blog/photos/jerusalem-old-city-snooze/",
       "title": "Snoooooze in the old city 🇮🇱 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/snoooooze.jpg\" alt=\"'Snoooooze in the old city 🇮🇱 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-25T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-24/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-24/",
+      "id": "https://joshnicholas.com/blog/photos/i-could-go-a-chess-set-tbh/",
+      "url": "https://joshnicholas.com/blog/photos/i-could-go-a-chess-set-tbh/",
       "title": "I could go a chess set tbh 🇮🇱 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/21Icouldgoachesssettbh------.jpg\" alt=\"'I could go a chess set tbh 🇮🇱 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-23/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-23/",
+      "id": "https://joshnicholas.com/blog/photos/soooooo-much-carrots-in-the-old-city/",
+      "url": "https://joshnicholas.com/blog/photos/soooooo-much-carrots-in-the-old-city/",
       "title": "Soooooo much carrots in the old city 🇮🇱 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/22Soooooomuchcarrotsintheoldcity-------1.jpg\" alt=\"'Soooooo much carrots in the old city 🇮🇱 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-23T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-22/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-22/",
+      "id": "https://joshnicholas.com/blog/photos/jerusalem-old-city-tunnels/",
+      "url": "https://joshnicholas.com/blog/photos/jerusalem-old-city-tunnels/",
       "title": "Jerusalem old city tunnels 🇮🇱 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/23Jerusalemoldcitytunnels------.jpg\" alt=\"'Jerusalem old city tunnels 🇮🇱 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-22T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-21/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-21/",
+      "id": "https://joshnicholas.com/blog/photos/damascus-gate-bubbles/",
+      "url": "https://joshnicholas.com/blog/photos/damascus-gate-bubbles/",
       "title": "Damascus gate bubbles 🇮🇱 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/24Damascusgatebubbles------.jpg\" alt=\"'Damascus gate bubbles 🇮🇱 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-21T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-20/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-20/",
+      "id": "https://joshnicholas.com/blog/photos/in-the-middle/",
+      "url": "https://joshnicholas.com/blog/photos/in-the-middle/",
       "title": "In the middle",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/25Inthemiddle.jpg\" alt=\"'In the middle'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-20T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-19/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-19/",
+      "id": "https://joshnicholas.com/blog/photos/anuradhapura-temple-ruins/",
+      "url": "https://joshnicholas.com/blog/photos/anuradhapura-temple-ruins/",
       "title": "Anuradhapura temple ruins 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/26Anuradhapuratempleruins------.jpg\" alt=\"'Anuradhapura temple ruins 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-19T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-18/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-18/",
+      "id": "https://joshnicholas.com/blog/photos/anuradhapura-palace-from-afar/",
+      "url": "https://joshnicholas.com/blog/photos/anuradhapura-palace-from-afar/",
       "title": "Anuradhapura palace from afar 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/27Anuradhapurapalacefromafar------.jpg\" alt=\"'Anuradhapura palace from afar 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-18T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-17/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-17/",
+      "id": "https://joshnicholas.com/blog/photos/welcome-to-the-ancient-city-of-anuradhapura/",
+      "url": "https://joshnicholas.com/blog/photos/welcome-to-the-ancient-city-of-anuradhapura/",
       "title": "Welcome to the ancient city of Anuradhapura 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/28WelcometotheancientcityofAnuradhapura------.jpg\" alt=\"'Welcome to the ancient city of Anuradhapura 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-17T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-16/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-16/",
+      "id": "https://joshnicholas.com/blog/photos/under-the-dagoba/",
+      "url": "https://joshnicholas.com/blog/photos/under-the-dagoba/",
       "title": "Under the dagoba 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/29Underthedagoba------.jpg\" alt=\"'Under the dagoba 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-16T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-15/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-15/",
+      "id": "https://joshnicholas.com/blog/photos/sigiriya-palace-ruins/",
+      "url": "https://joshnicholas.com/blog/photos/sigiriya-palace-ruins/",
       "title": "Sigiriya palace ruins 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/30Sigiriyapalaceruins------.jpg\" alt=\"'Sigiriya palace ruins 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-15T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-14/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-14/",
+      "id": "https://joshnicholas.com/blog/photos/climbing-atop-sigiriya/",
+      "url": "https://joshnicholas.com/blog/photos/climbing-atop-sigiriya/",
       "title": "Climbing atop Sigiriya 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/31ClimbingatopSigiriya------.jpg\" alt=\"'Climbing atop Sigiriya 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-14T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-11/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-11/",
+      "id": "https://joshnicholas.com/blog/photos/walkin-up-to-sigiriya/",
+      "url": "https://joshnicholas.com/blog/photos/walkin-up-to-sigiriya/",
+      "title": "Walkin up to Sigiriya 🇱🇰 📷",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/33WalkinuptoSigiriya------.jpg\" alt=\"'Walkin up to Sigiriya 🇱🇰 📷'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-06-11T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/entrance-to-sigiriya-rock-palace/",
+      "url": "https://joshnicholas.com/blog/photos/entrance-to-sigiriya-rock-palace/",
       "title": "Entrance to Sigiriya rock palace 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/32EntrancetoSigiriyarockpalace------.jpg\" alt=\"'Entrance to Sigiriya rock palace 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-11T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-10/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-10/",
+      "id": "https://joshnicholas.com/blog/photos/bye-jaffna/",
+      "url": "https://joshnicholas.com/blog/photos/bye-jaffna/",
       "title": "Bye Jaffna 👋🏽 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/34ByeJaffna----------.jpg\" alt=\"'Bye Jaffna 👋🏽 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-10T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-09/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-09/",
+      "id": "https://joshnicholas.com/blog/photos/bus-conductor-yo/",
+      "url": "https://joshnicholas.com/blog/photos/bus-conductor-yo/",
       "title": "Bus conductor yo 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/35Busconductoryo------.jpg\" alt=\"'Bus conductor yo 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-09T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-08/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-08/",
+      "id": "https://joshnicholas.com/blog/photos/bus-driver-man/",
+      "url": "https://joshnicholas.com/blog/photos/bus-driver-man/",
       "title": "Bus driver man 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/36Busdriverman------.jpg\" alt=\"'Bus driver man 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-08T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-06/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-06/",
+      "id": "https://joshnicholas.com/blog/photos/jaffna-streets/",
+      "url": "https://joshnicholas.com/blog/photos/jaffna-streets/",
       "title": "Jaffna streets 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/37Jaffnastreets------.jpg\" alt=\"'Jaffna streets 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-06T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-05/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-05/",
+      "id": "https://joshnicholas.com/blog/photos/feeding-the-elephants/",
+      "url": "https://joshnicholas.com/blog/photos/feeding-the-elephants/",
+      "title": "Feeding the elephants 🇱🇰 📷",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/38Feedingtheelephants------.jpg\" alt=\"'Feeding the elephants 🇱🇰 📷'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-06-06T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/baby-elephant-doing-swimming-zooms-at-pinnawala-elephant-orphanage/",
+      "url": "https://joshnicholas.com/blog/photos/baby-elephant-doing-swimming-zooms-at-pinnawala-elephant-orphanage/",
       "title": "Baby elephant doing swimming zooms at Pinnawala elephant orphanage 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/39BabyelephantdoingswimmingzoomsatPinnawalaelephantorphanage------.jpg\" alt=\"'Baby elephant doing swimming zooms at Pinnawala elephant orphanage 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-05T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-04/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-04/",
+      "id": "https://joshnicholas.com/blog/photos/on-the-way-to-jaffna/",
+      "url": "https://joshnicholas.com/blog/photos/on-the-way-to-jaffna/",
       "title": "On the way to Jaffna 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/40OnthewaytoJaffna------.jpg\" alt=\"'On the way to Jaffna 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-04T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-03/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-03/",
+      "id": "https://joshnicholas.com/blog/photos/jaffna-boats/",
+      "url": "https://joshnicholas.com/blog/photos/jaffna-boats/",
       "title": "Jaffna boats 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/41Jaffnaboats-------1.jpg\" alt=\"'Jaffna boats 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-03T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-02/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-02/",
+      "id": "https://joshnicholas.com/blog/photos/harvesting-prawns-in-jafffna/",
+      "url": "https://joshnicholas.com/blog/photos/harvesting-prawns-in-jafffna/",
       "title": "Harvesting prawns in Jafffna 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/42HarvestingprawnsinJafffna------.jpg\" alt=\"'Harvesting prawns in Jafffna 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-02T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-06-01/",
-      "url": "https://joshnicholas.com/blog/photos/2019-06-01/",
+      "id": "https://joshnicholas.com/blog/photos/pretty-strong-winds-on-the-west-coast/",
+      "url": "https://joshnicholas.com/blog/photos/pretty-strong-winds-on-the-west-coast/",
       "title": "Pretty strong winds on the West Coast 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/43PrettystrongwindsontheWestCoast------.jpg\" alt=\"'Pretty strong winds on the West Coast 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-06-01T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-31/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-31/",
+      "id": "https://joshnicholas.com/blog/photos/temple-dog/",
+      "url": "https://joshnicholas.com/blog/photos/temple-dog/",
       "title": "Temple dog 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/44Templedog------.jpg\" alt=\"'Temple dog 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-31T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-30/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-30/",
+      "id": "https://joshnicholas.com/blog/photos/interlude/",
+      "url": "https://joshnicholas.com/blog/photos/interlude/",
       "title": "Interlude 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/45Interlude------.jpg\" alt=\"'Interlude 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-30T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-29/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-29/",
+      "id": "https://joshnicholas.com/blog/photos/found-this-old-pic-i-took-at-a-market-in-jaffna-i-appear-to-have-a-thing-for-scales/",
+      "url": "https://joshnicholas.com/blog/photos/found-this-old-pic-i-took-at-a-market-in-jaffna-i-appear-to-have-a-thing-for-scales/",
       "title": "Found this old pic I took at a market in Jaffna. I appear to have a thing for scales 😀 🇱🇰 📷",
       "content_html": "<br />\n",
       "date_published": "2019-05-29T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-28/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-28/",
+      "id": "https://joshnicholas.com/blog/photos/see-ya/",
+      "url": "https://joshnicholas.com/blog/photos/see-ya/",
       "title": "See ya 👋🏽 Kandy 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/47Seeya----Kandy------.jpg\" alt=\"'See ya 👋🏽 Kandy 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-28T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-27/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-27/",
+      "id": "https://joshnicholas.com/blog/photos/im-really-fascinated-by-ye-olde-scales-kandy-market/",
+      "url": "https://joshnicholas.com/blog/photos/im-really-fascinated-by-ye-olde-scales-kandy-market/",
       "title": "I’m really fascinated by ye olde scales @ Kandy market 🇱🇰 📷",
       "content_html": "<br />\n",
       "date_published": "2019-05-27T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-26/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-26/",
+      "id": "https://joshnicholas.com/blog/photos/lotsa-chillies-kandy-market/",
+      "url": "https://joshnicholas.com/blog/photos/lotsa-chillies-kandy-market/",
       "title": "Lotsa chillies @ Kandy market 🇱🇰 📷",
       "content_html": "<br />\n",
       "date_published": "2019-05-26T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-24/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-24/",
+      "id": "https://joshnicholas.com/blog/photos/grandpa-buying-carrots/",
+      "url": "https://joshnicholas.com/blog/photos/grandpa-buying-carrots/",
       "title": "Grandpa buying carrots 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/50Grandpabuyingcarrots------.jpg\" alt=\"'Grandpa buying carrots 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-23/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-23/",
+      "id": "https://joshnicholas.com/blog/photos/peace-amidst-the-market-chaos/",
+      "url": "https://joshnicholas.com/blog/photos/peace-amidst-the-market-chaos/",
       "title": "Peace amidst the market chaos 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/51Peaceamidstthemarketchaos------.jpg\" alt=\"'Peace amidst the market chaos 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-23T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-21/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-21/",
+      "id": "https://joshnicholas.com/blog/photos/stepping-into-the-kandy-vegetable-market/",
+      "url": "https://joshnicholas.com/blog/photos/stepping-into-the-kandy-vegetable-market/",
       "title": "Stepping into the Kandy vegetable market 🇱🇰📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/52SteppingintotheKandyvegetablemarket------.jpg\" alt=\"'Stepping into the Kandy vegetable market 🇱🇰📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-21T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-20/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-20/",
+      "id": "https://joshnicholas.com/blog/photos/vesak-with-the-lights-on/",
+      "url": "https://joshnicholas.com/blog/photos/vesak-with-the-lights-on/",
       "title": "Vesak with the lights on 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/53Vesakwiththelightson------.jpg\" alt=\"'Vesak with the lights on 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-20T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-19/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-19/",
+      "id": "https://joshnicholas.com/blog/photos/flowers-at-night/",
+      "url": "https://joshnicholas.com/blog/photos/flowers-at-night/",
+      "title": "Flowers at night 🇱🇰 📷",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/54Flowersatnight------.jpg\" alt=\"'Flowers at night 🇱🇰 📷'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-05-20T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/stocking-up-for-vesak/",
+      "url": "https://joshnicholas.com/blog/photos/stocking-up-for-vesak/",
       "title": "Stocking up for Vesak 📷 🇱🇰",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/55StockingupforVesak------.jpg\" alt=\"'Stocking up for Vesak 📷 🇱🇰'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-19T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-18/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-18/",
+      "id": "https://joshnicholas.com/blog/photos/getting-ready-for-vesak-in-kandy/",
+      "url": "https://joshnicholas.com/blog/photos/getting-ready-for-vesak-in-kandy/",
       "title": "Getting ready for Vesak in Kandy 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/56GettingreadyforVesakinKandy------.jpg\" alt=\"'Getting ready for Vesak in Kandy 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-18T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-17/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-17/",
+      "id": "https://joshnicholas.com/blog/photos/making-bricks-in-kandy/",
+      "url": "https://joshnicholas.com/blog/photos/making-bricks-in-kandy/",
       "title": "Making bricks in Kandy 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/57MakingbricksinKandy------.jpg\" alt=\"'Making bricks in Kandy 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-17T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-14/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-14/",
+      "id": "https://joshnicholas.com/blog/photos/dehiwala-carryin/",
+      "url": "https://joshnicholas.com/blog/photos/dehiwala-carryin/",
       "title": "Dehiwala carryin‘ 📷 🇱🇰",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/58Dehiwalacarryin-------.jpg\" alt=\"'Dehiwala carryin‘ 📷 🇱🇰'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-14T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-13/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-13/",
-      "title": "Tel Aviv streets 🇮🇱 📷",
-      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/59TelAvivstreets------.jpg\" alt=\"'Tel Aviv streets 🇮🇱 📷'\" /><br />\n<br /></p>\n",
-      "date_published": "2019-05-13T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-12/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-12/",
+      "id": "https://joshnicholas.com/blog/photos/dehiwala-walkin/",
+      "url": "https://joshnicholas.com/blog/photos/dehiwala-walkin/",
       "title": "Dehiwala walkin 📷 🇱🇰",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/60Dehiwalawalkin------.jpg\" alt=\"'Dehiwala walkin 📷 🇱🇰'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-12T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-11/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-11/",
+      "id": "https://joshnicholas.com/blog/photos/derailment-in-a-colombo-park/",
+      "url": "https://joshnicholas.com/blog/photos/derailment-in-a-colombo-park/",
       "title": "Derailment in a Colombo park 🇱🇰📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/61DerailmentinaColombopark------.jpg\" alt=\"'Derailment in a Colombo park 🇱🇰📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-11T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-09/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-09/",
+      "id": "https://joshnicholas.com/blog/photos/damascus-gate/",
+      "url": "https://joshnicholas.com/blog/photos/damascus-gate/",
       "title": "Damascus gate 🇮🇱 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/62Damascusgate------.jpg\" alt=\"'Damascus gate 🇮🇱 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-09T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-08/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-08/",
+      "id": "https://joshnicholas.com/blog/photos/beach-day-in-mt-lavinia/",
+      "url": "https://joshnicholas.com/blog/photos/beach-day-in-mt-lavinia/",
       "title": "Beach day in Mt Lavinia 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/63BeachdayinMtLavinia------.jpg\" alt=\"'Beach day in Mt Lavinia 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-08T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-07/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-07/",
+      "id": "https://joshnicholas.com/blog/photos/colombo-under-construction/",
+      "url": "https://joshnicholas.com/blog/photos/colombo-under-construction/",
       "title": "Colombo under construction 📷 🇱🇰",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/64Colombounderconstruction------.jpg\" alt=\"'Colombo under construction 📷 🇱🇰'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-07T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-06/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-06/",
+      "id": "https://joshnicholas.com/blog/photos/over-the-galle-face-green-colombo/",
+      "url": "https://joshnicholas.com/blog/photos/over-the-galle-face-green-colombo/",
       "title": "Over the Galle Face Green, Colombo 📷 🇱🇰",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/65OvertheGalleFaceGreen-Colombo------.jpg\" alt=\"'Over the Galle Face Green, Colombo 📷 🇱🇰'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-06T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-05/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-05/",
+      "id": "https://joshnicholas.com/blog/photos/also-church-of-the-holy-sepulchre/",
+      "url": "https://joshnicholas.com/blog/photos/also-church-of-the-holy-sepulchre/",
       "title": "Also Church of the Holy Sepulchre 📷 🇮🇱",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/66AlsoChurchoftheHolySepulchre------.jpg\" alt=\"'Also Church of the Holy Sepulchre 📷 🇮🇱'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-05T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-04/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-04/",
+      "id": "https://joshnicholas.com/blog/photos/church-of-the-holy-sepulchre/",
+      "url": "https://joshnicholas.com/blog/photos/church-of-the-holy-sepulchre/",
       "title": "Church of the Holy Sepulchre 📷 🇮🇱",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/67ChurchoftheHolySepulchre------.jpg\" alt=\"'Church of the Holy Sepulchre 📷 🇮🇱'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-04T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-03/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-03/",
+      "id": "https://joshnicholas.com/blog/photos/jerusalem-old-city/",
+      "url": "https://joshnicholas.com/blog/photos/jerusalem-old-city/",
       "title": "Jerusalem old city 🇮🇱 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/68Jerusalemoldcity------.jpg\" alt=\"'Jerusalem old city 🇮🇱 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-03T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-05-01/",
-      "url": "https://joshnicholas.com/blog/photos/2019-05-01/",
+      "id": "https://joshnicholas.com/blog/photos/jaffna-grape-farming/",
+      "url": "https://joshnicholas.com/blog/photos/jaffna-grape-farming/",
       "title": "Jaffna grape farming 📷 🇱🇰",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/69Jaffnagrapefarming------.jpg\" alt=\"'Jaffna grape farming 📷 🇱🇰'\" /><br />\n<br /></p>\n",
       "date_published": "2019-05-01T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-29/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-29/",
+      "id": "https://joshnicholas.com/blog/photos/colombo-driftin/",
+      "url": "https://joshnicholas.com/blog/photos/colombo-driftin/",
       "title": "Colombo driftin 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/70Colombodriftin------.jpg\" alt=\"'Colombo driftin 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-29T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-28/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-28/",
+      "id": "https://joshnicholas.com/blog/photos/taking-the/",
+      "url": "https://joshnicholas.com/blog/photos/taking-the/",
       "title": "Taking the 🇱🇰 flag down at sunset On the Galle Face Green Colombo 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/71Takingthe----flagdownatsunsetOntheGalleFaceGreenColombo--.jpg\" alt=\"'Taking the 🇱🇰 flag down at sunset On the Galle Face Green Colombo 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-28T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-27/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-27/",
-      "title": "Fruit and veg on the way to Colombo 🇱🇰 📷",
-      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/72FruitandvegonthewaytoColombo------.jpg\" alt=\"'Fruit and veg on the way to Colombo 🇱🇰 📷'\" /><br />\n<br /></p>\n",
-      "date_published": "2019-04-27T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-26/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-26/",
+      "id": "https://joshnicholas.com/blog/photos/played-billiards-with-my-grandpa-last-weekend/",
+      "url": "https://joshnicholas.com/blog/photos/played-billiards-with-my-grandpa-last-weekend/",
       "title": "Played billiards with my Grandpa last weekend 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/73PlayedbilliardswithmyGrandpalastweekend------.jpg\" alt=\"'Played billiards with my Grandpa last weekend 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-26T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-25/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-25/",
+      "id": "https://joshnicholas.com/blog/photos/colombo-streets/",
+      "url": "https://joshnicholas.com/blog/photos/colombo-streets/",
       "title": "Colombo streets 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/74Colombostreets------.jpg\" alt=\"'Colombo streets 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-25T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-24/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-24/",
+      "id": "https://joshnicholas.com/blog/photos/the-pettah/",
+      "url": "https://joshnicholas.com/blog/photos/the-pettah/",
       "title": "The Pettah 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/75ThePettah------.jpg\" alt=\"'The Pettah 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-24T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-23/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-23/",
+      "id": "https://joshnicholas.com/blog/photos/hanging-out-in-galle-market/",
+      "url": "https://joshnicholas.com/blog/photos/hanging-out-in-galle-market/",
       "title": "Hanging out in Galle market 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/76HangingoutinGallemarket------.jpg\" alt=\"'Hanging out in Galle market 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-23T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-22/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-22/",
+      "id": "https://joshnicholas.com/blog/photos/view-from-my-hotel-in-nuwara-eliya-f0-9f-87-b1-f0-9f-87-b0/",
+      "url": "https://joshnicholas.com/blog/photos/view-from-my-hotel-in-nuwara-eliya-f0-9f-87-b1-f0-9f-87-b0/",
       "title": "View from my hotel in Nuwara Eliya, 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/77ViewfrommyhotelinNuwaraEliya-------.jpg\" alt=\"'View from my hotel in Nuwara Eliya, 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-22T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-21/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-21/",
+      "id": "https://joshnicholas.com/blog/photos/sewing-in-galle-market/",
+      "url": "https://joshnicholas.com/blog/photos/sewing-in-galle-market/",
       "title": "Sewing in Galle market 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/78SewinginGallemarket------.jpg\" alt=\"'Sewing in Galle market 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-21T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-20/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-20/",
+      "id": "https://joshnicholas.com/blog/photos/farming-near-wilpattu-national-park/",
+      "url": "https://joshnicholas.com/blog/photos/farming-near-wilpattu-national-park/",
       "title": "Farming near Wilpattu national park. 🇱🇰 📷",
       "content_html": "<br />\n",
       "date_published": "2019-04-20T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-19/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-19/",
+      "id": "https://joshnicholas.com/blog/photos/beating-up-fish-in-the-galle-fish-market/",
+      "url": "https://joshnicholas.com/blog/photos/beating-up-fish-in-the-galle-fish-market/",
       "title": "Beating up fish in the Galle fish market 🇱🇰📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/80BeatingupfishintheGallefishmarket------.jpg\" alt=\"'Beating up fish in the Galle fish market 🇱🇰📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-19T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-18/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-18/",
+      "id": "https://joshnicholas.com/blog/photos/a-puppy-in-a-bar-in-galle/",
+      "url": "https://joshnicholas.com/blog/photos/a-puppy-in-a-bar-in-galle/",
       "title": "A puppy in a bar in Galle, 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/81ApuppyinabarinGalle-------.jpg\" alt=\"'A puppy in a bar in Galle, 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-18T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-17/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-17/",
+      "id": "https://joshnicholas.com/blog/photos/drag-fishing-in-galle-harbour/",
+      "url": "https://joshnicholas.com/blog/photos/drag-fishing-in-galle-harbour/",
       "title": "Drag fishing in Galle harbour  🇱🇰📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/82DragfishinginGalleharbour------.jpg\" alt=\"'Drag fishing in Galle harbour  🇱🇰📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-17T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-15/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-15/",
+      "id": "https://joshnicholas.com/blog/photos/fishies-the-polla/",
+      "url": "https://joshnicholas.com/blog/photos/fishies-the-polla/",
       "title": "Fishies @ the polla 📷🇱🇰",
       "content_html": "<br />\n",
       "date_published": "2019-04-15T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2019-04-14/",
-      "url": "https://joshnicholas.com/blog/photos/2019-04-14/",
+      "id": "https://joshnicholas.com/blog/photos/colombo-street-cricket/",
+      "url": "https://joshnicholas.com/blog/photos/colombo-street-cricket/",
+      "title": "Colombo street cricket 📷 🇱🇰",
+      "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/84Colombostreetcricket------.jpg\" alt=\"'Colombo street cricket 📷 🇱🇰'\" /><br />\n<br /></p>\n",
+      "date_published": "2019-04-15T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/blog/photos/my-guide-around-jaffna/",
+      "url": "https://joshnicholas.com/blog/photos/my-guide-around-jaffna/",
       "title": "My guide around Jaffna 🇱🇰 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/85MyguidearoundJaffna------.jpg\" alt=\"'My guide around Jaffna 🇱🇰 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2019-04-14T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2018-11-23/",
-      "url": "https://joshnicholas.com/blog/photos/2018-11-23/",
+      "id": "https://joshnicholas.com/blog/photos/venice-busking/",
+      "url": "https://joshnicholas.com/blog/photos/venice-busking/",
       "title": "Venice busking 🇮🇹 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/86Venicebusking------.jpg\" alt=\"'Venice busking 🇮🇹 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2018-11-23T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/posts/fourthpost/",
-      "url": "https://joshnicholas.com/blog/posts/fourthpost/",
-      "title": "This is my fourth post.",
-      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Section Header</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
-      "date_published": "2018-09-30T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/posts/sixthpost/",
-      "url": "https://joshnicholas.com/blog/posts/sixthpost/",
-      "title": "This is my sixth post.",
-      "content_html": "<p>Damn it looks live the way this is setup requires a bloody annoying template</p>\n",
-      "date_published": "2018-09-01T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/photos/2018-08-18/",
-      "url": "https://joshnicholas.com/blog/photos/2018-08-18/",
+      "id": "https://joshnicholas.com/blog/photos/buskin-rome/",
+      "url": "https://joshnicholas.com/blog/photos/buskin-rome/",
       "title": "Buskin Rome 📷 🇮🇹",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/88BuskinRome------.jpg\" alt=\"'Buskin Rome 📷 🇮🇹'\" /><br />\n<br /></p>\n",
       "date_published": "2018-08-18T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2018-07-08/",
-      "url": "https://joshnicholas.com/blog/photos/2018-07-08/",
+      "id": "https://joshnicholas.com/blog/photos/rome-sketchin/",
+      "url": "https://joshnicholas.com/blog/photos/rome-sketchin/",
       "title": "Rome sketchin 🇮🇹 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/89Romesketchin------.jpg\" alt=\"'Rome sketchin 🇮🇹 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2018-07-08T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/posts/secondpost/",
-      "url": "https://joshnicholas.com/blog/posts/secondpost/",
-      "title": "This is my second post.",
-      "content_html": "<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>\n<p>Section Header</p>\n<p><a href=\"https://joshnicholas.com/blog/posts/firstpost/\">First post</a><br />\n<a href=\"https://joshnicholas.com/blog/posts/thirdpost/\">Third post</a></p>\n<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>\n<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>\n",
-      "date_published": "2018-07-04T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/blog/photos/2018-01-16/",
-      "url": "https://joshnicholas.com/blog/photos/2018-01-16/",
+      "id": "https://joshnicholas.com/blog/photos/plumbing-vesuvius/",
+      "url": "https://joshnicholas.com/blog/photos/plumbing-vesuvius/",
       "title": "Plumbing Vesuvius 🇮🇹 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/91PlumbingVesuvius------.jpg\" alt=\"'Plumbing Vesuvius 🇮🇹 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2018-01-16T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2018-01-04/",
-      "url": "https://joshnicholas.com/blog/photos/2018-01-04/",
+      "id": "https://joshnicholas.com/blog/photos/inside-st-peters/",
+      "url": "https://joshnicholas.com/blog/photos/inside-st-peters/",
       "title": "Inside St Peters 🇮🇹 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/92InsideStPeters------.jpg\" alt=\"'Inside St Peters 🇮🇹 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2018-01-04T00:00:00Z"
     },{
-      "id": "https://joshnicholas.com/blog/photos/2017-07-21/",
-      "url": "https://joshnicholas.com/blog/photos/2017-07-21/",
+      "id": "https://joshnicholas.com/blog/photos/venice-infrastructure/",
+      "url": "https://joshnicholas.com/blog/photos/venice-infrastructure/",
       "title": "Venice infrastructure 🇮🇹 📷",
       "content_html": "<p><img src=\"https://joshnicholas.com/blog/img/94Veniceinfrastructure------.jpg\" alt=\"'Venice infrastructure 🇮🇹 📷'\" /><br />\n<br /></p>\n",
       "date_published": "2017-07-21T00:00:00Z"
