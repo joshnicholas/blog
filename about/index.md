@@ -4,7 +4,7 @@ title: About
 templateClass: tmpl-post
 eleventyNavigation:
   key: about
-  order: 4
+  order: 5
 ---
 
 Ello. My name is Josh. I'm a [journalist](https://www.theguardian.com/profile/josh-nicholas) and co-host a [radio show](https://radiosms.substack.com/) about the internet. Before that I was an [economics editor](https://theconversation.com/speaking-with-law-professor-cass-sunstein-on-why-behavioural-science-is-always-nudging-us-101074), [technology journalist](https://www.businessinsider.com.au/photos-inside-the-library-of-the-future-2015-12) and [executive producer](https://www.thewire.org.au/about/team/alumni/) of a national current affairs radio show.
