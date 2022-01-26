@@ -1,0 +1,29 @@
+---
+title: Why China is pantsing us when it comes to education
+date: 2016-04-20
+---
+
+<!--kg-card-begin: html--><p>I’ve been writing a lot about education recently. Rants about <a href="http://www.joshnicholas.com/a-one-quote-summary-of-a-problem-in-our-education-system/">our stupid industrial model</a>, on how we need <a href="http://www.joshnicholas.com/i-wish-i-had-been-unschooled/">something that more conforms with the needs of the modern day</a> – curiosity, critical thinking, and research over rote.</p>
+<p>But even within our terrible model there are inequities to address. Some states are far better at turning out widget-people than others. Countries like Australia are <a href="http://www.smh.com.au/national/education/the-toughest-question-of-all-why-is-australia-falling-behind-in-maths-20150706-gi5ztd.html">falling behind in international rankings</a>. And the way we approach teachers and teaching may be a big reason why.</p>
+<p>I’m about halfway through <a href="http://amzn.to/1YG0c3P">Free Schools</a> by David Gillespie. It’s essentially an examination of the Australian education system, from the point of view of a parent trying to decide whether to send his children to a government or “private” school. Gillespie scrutinises a lot of factors – class and school size, religion, gender and age segregation, government schools, charter schools, unions etc. etc.</p>
+<p>There’s a lot of stuff to unpack here, which I hope to get to eventually. But something I read on the train this morning has stuck. A lot of the countries that are succeeding in our broken system have a great approach to teachers and teaching. They emphasise it as a craft and provide a method for constant finessing.</p>
+<blockquote>
+<p>“A Shanghai teacher with less than five years’ experience is assigned two mentors, one for classroom management and one for subject-specific guidance. The mentors are teachers with five to ten years’ experience.”</p>
+</blockquote>
+<p>According to Gillespie, teachers in Shanghai have enormous space and resources to improve their craft. They are given a three-year development plan, and mentors to act both as examples (they spend days observing their mentors’ classes), as well as to provide feedback on their own teaching practices (the mentors sit in classes and give them advice on teaching plans and delivery). As teachers progress through their career they are given increasingly experienced mentors, and they themselves become mentors. They aren’t promoted out of the classroom, their talent and expertise isn’t incentivised to leave the system.</p>
+<p>The teacher’s are also leaned upon to help improve the system from within. To critically analyse it from the front line. They join groups aimed at improving student results, to research, evaluate and apply strategies to make schools and education more effective. They conduct their own original research, submitting papers to academic journals. They are, in other words, treated in a similar fashion to lawyers, doctors or any other knowledge professional.</p>
+<p>This is all <strong>after</strong> they have graduated, and <strong>continues well into their careers</strong>.</p>
+<blockquote>
+<p>“[in Shanghai] teachers are expected to learn following the cycle of study–practise–analyse then start again.”</p>
+<p>“There’s a constant and pervasive culture of teacher-performance mentoring – not monitoring, mentoring. Teachers are treated like the professionals they are.”</p>
+</blockquote>
+<p>This is the complete opposite to how Australia has tackled improving education – playing on the margins by focusing on superficial gains like reducing class size (this has not proven effective). As Gillespie points out, painfully, over and over, the concept of teaching as a skill is absent in our discourse. We leave our teachers alone, on an island with their students. We don’t support them the way Shanghai does, or encourage them to improve the system. And education largely ends at uni. What little further training they get is spotty, and largely centred around things they might need to teach – not teaching itself.</p>
+<blockquote>
+<p>“Australian teachers reported that they received little or no constructive feedback from the programs, it was rarely based on classroom observation and, as a result, it was disconnected from student learning. Most teacher professional development consisted of attendance at one-off courses and wasn’t part of any longer term collaborative research program.”</p>
+</blockquote>
+<p>There is a big caveat here. The countries Gillespie namedrops are different to ours in fundamental ways. Age and governance-wise yes, but also culturally. Many of these well-performing countries are what’s known as collectivist cultures, <a href="http://psychology.wikia.com/wiki/Collectivist_and_individualist_cultures">while we are individualist</a>. Collectivist cultures, like that of China and Japan, emphasize group goals above individual needs or desire. See if you can catch a hint of that in this quote:</p>
+<blockquote>
+<p>“Asian and Finnish school teachers are not compensated based on their students’ performance, they work together as professionals to ensure they’re all more effective teachers. That students perform better is an outcome of better teaching, not a means of calculating the teachers’ weekly salary.”</p>
+</blockquote>
+<p>I would assume our emphasis on incentive structure and individuals probably has a lot to do with our individualist culture. Although don’t quote me on that. The main point is, countries like China obviously have a much healthier take on how to treat and train teachers.</p>
+<!--kg-card-end: html-->

@@ -1,0 +1,6 @@
+---
+title: Why can't you draw?
+date: 2020-08-16
+---
+
+<blockquote>To make significant progress in drawing, it is important to be aware of your strengths and challenges. Don’t just say, “I’m not good at drawing faces.” Try to learn specifically why you find it challenging to draw faces? Is it getting the proportions right? Shading? Anatomy? Break down challenges into small steps and tackle them one at a time. The clearer you are, the better prepared you will be for devising a solution.</blockquote><p>This is another gem from <a href="https://www.worldcat.org/title/pen-and-ink-drawing-a-simple-guide/oclc/1032832501&amp;referer=brief_results">Pen and ink drawing: a simple guide</a>.</p><p>I don't really think much of my drawing skills. That's why I like the word "scribble". I am always getting better, though.</p><p>So many don't even get past the first step. I regularly ask others to join me. But my invitations and provocations are usually, immediately, shut down with "I can't draw".</p><p>They're apparently so bad it's not worth bothering at all. Maybe I should start asking why and how.</p>

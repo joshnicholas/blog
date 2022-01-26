@@ -1,0 +1,21 @@
+---
+title: Where does your belief come from?
+date: 2019-04-12
+---
+
+<!--kg-card-begin: html--><p>I’ve posted a lot of stuff on this blog questioning the foundations of belief.</p>
+<p>How our beliefs are the <a href="__GHOST_URL__/its-about-who-you-know-and-trust/">function of the people we surround ourself with</a> or are <a href="__GHOST_URL__/time-to-update-our-democratic-models/">built during our formative years and then ossify</a>. How language and culture both <a href="__GHOST_URL__/why-the-west/">inform and limit what we can take in</a>. And that much appears to be <a href="__GHOST_URL__/why-are-we-not-keeping-up/">stuck in formative states</a>.</p>
+<p>But twice this week I’ve come across arguments that our “beliefs” are actually so transitory and shallow that they are all but meaningless.</p>
+<p>That we are so riven with contradictions and so lacking a coherent world view that our “beliefs” are little more than fleeting notions backed up by post hoc rationing.</p>
+<p>First in <a href="https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds">an old New Yorker article</a> that makes me <a href="https://annotations.joshnicholas.com/2019/04/10/fact-checking-is.html">seriously question</a> ever again trying to change someone’s mind.</p>
+<p>And now in my <a href="__GHOST_URL__/singles-not-home-runs/">continued</a> reading of <a href="https://www.worldcat.org/title/hidden-half-how-the-world-conceals-its-secrets/oclc/1085142484&amp;referer=brief_results">The Hidden Half</a>:</p>
+<blockquote><p>We asked our volunteers to choose their political priorities on a scale of 1 to 10. For example, what would you do if it came to a choice whether the country should spend more on state-provided healthcare, or spend less and cut taxes (where 1 was definitely spend more and 10 was definitely cut tax)?&#8230;A short while later, we went back to talk over with our volunteers what they’d written and why. But <strong>we cheated</strong>. We left their original answer sheet as it was–written in their own hand with their names at the top to help convince them nothing fishy was going on. But where their answers were anywhere from 3 to 7–so not a definite 1 or a definite, uncompromising 10–<strong>we flipped the question around</strong>.</p></blockquote>
+<p>These are quite long quotes, but bear with me.</p>
+<blockquote><p>The partially handwritten page in front of them was evidence of what they believed–or so they thought. And <strong>it was this (doctored) opinion that they now defended</strong>. I sat down with a man who originally said that tax cuts were more important than more spending on state healthcare–and listened as he now explained why the opposite was true. His explanation was earnest, intelligent, clear, without hesitation. He wasn’t confused. <strong>He accepted this new position as a legitimate summary of his beliefs and didn’t miss a beat in justifying them</strong>.</p></blockquote>
+<p>I’ve read of studies where people surrender their opinion in the face of a majority or authority figure.</p>
+<p>But that we are so intellectually supplicant that an unrecorded belief is essentially meaningless has quite thrown me. And that we could be dictated to by a recorded belief &#8211; even a false one &#8211; even more so.</p>
+<p>To a certain extent this merely lines up with previous arguments in the book about complexity and simplification. But the lack of stability in the “lens” we use to understand the world &#8211; that I can’t feed you similar information over and over and expect a somewhat predictable response &#8211; has huge implications for discourse and institutions.</p>
+<p>Let me end with a concluding remark from this section of the book:</p>
+<blockquote><p>&#8230;the ideal of holding a complete picture in our heads damns our capabilities with an impossible aspiration. The world, quite simply, is too complicated, too big, too messy, to frame in one go. The fact that we observe it in often contradictory fragments is also a measure of the enormity of the perceptual ask.</p></blockquote>
+<p><em>As always my emphasis</em></p>
+<!--kg-card-end: html-->

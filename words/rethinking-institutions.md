@@ -1,0 +1,6 @@
+---
+title: Rethinking institutions
+date: 2020-07-12
+---
+
+<blockquote>...more clues can be found in the extensive literature on irrationality. People tend, for example, to rate longer explanations as being more similar to ‘experts’ explanations’. There is also the ‘seductive details’ effect: if you present related (but logically irrelevant) details to people as part of an argument, this seems to make it more difficult for them to encode, and later recall, the main argument of a text, because their attention is diverted.</blockquote><p>Another from <a href="https://www.worldcat.org/title/science/oclc/718339454&amp;referer=brief_results">Bad Science</a>.</p><p>I often wonder how our world, our institutions would differ if we had a better understanding of our own foibles and deficiencies a few hundred years ago.</p><p>For instance, would the modern press conference exist if we understood how easy it is to derail critical thinking and shape narratives? Would they be similarly designed - with the stages, lecturns, flags and other signalling of authority or group dynamics?</p>
