@@ -2157,21 +2157,6 @@
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/about/</loc>
-    <lastmod>2022-01-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshnicholas.com/</loc>
-    <lastmod>2022-01-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joshnicholas.com/page-list/</loc>
-    <lastmod>2022-01-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://joshnicholas.com/scribbles/</loc>
     <lastmod>2022-01-24</lastmod>
   </url>
@@ -2184,5 +2169,15 @@
   <url>
     <loc>https://joshnicholas.com/photos/</loc>
     <lastmod>2022-01-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/page-list/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/</loc>
+    <lastmod>2022-01-26</lastmod>
   </url>
 </urlset>
