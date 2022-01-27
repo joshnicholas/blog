@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Home
+title: Josh Nicholas
 eleventyNavigation:
   key: home
   order: 1
@@ -10,7 +10,7 @@ eleventyNavigation:
 
 <img src="{{ '/img/about.png' | url }}" style="max-width:200px !important;height:auto !important; align = 'left' !important; margin: 0px 10px 0px 0px !important;"/> Ello. <br>
 
-My name is Josh and I like to learn stuff. I am also a [data journalist](https://www.theguardian.com/profile/josh-nicholas) and I like to draw and paint. Previously I was an [economics editor](https://theconversation.com/speaking-with-law-professor-cass-sunstein-on-why-behavioural-science-is-always-nudging-us-101074), [technology journalist](https://www.businessinsider.com.au/photos-inside-the-library-of-the-future-2015-12) and [executive producer](https://www.thewire.org.au/about/team/alumni/) of a national current affairs radio show.<br><br>
+My name is Josh and I love to learn stuff. I am also a [data journalist](https://www.theguardian.com/profile/josh-nicholas) and like to draw and paint. Previously I was an [economics editor](https://theconversation.com/speaking-with-law-professor-cass-sunstein-on-why-behavioural-science-is-always-nudging-us-101074), [technology journalist](https://www.businessinsider.com.au/photos-inside-the-library-of-the-future-2015-12) and [executive producer](https://www.thewire.org.au/about/team/alumni/) of a national current affairs radio show.<br><br>
 
 
 You can find most of my work at [The Guardian](https://www.theguardian.com/profile/josh-nicholas). I post a bunch of data liberated from news headlines, trending sections, stock markets and Covid stats pages on my [GitHub](https://github.com/joshnicholas). You can also follow me on [Goodreads](https://www.goodreads.com/joshnicholas).<br><br>
