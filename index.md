@@ -21,3 +21,4 @@ This blog is a decade old now. It began as a place to post book reviews but has 
 Over the years this site has gone through many stylistic iterations and been ported to several different platforms and blogging tools. Some links, quotes etc. may be broken. The current version was created using [Eleventy](https://www.11ty.dev/), is hosted on [GitHub pages](https://github.com/joshnicholas/blog) and uses a heavily modified fork of the [base blog template](https://github.com/11ty/eleventy-base-blog).<br><br>
 
 If you'd like to get in touch I'd recommend [Twitter](https://twitter.com/joshcnicholas).
+

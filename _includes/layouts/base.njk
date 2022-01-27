@@ -20,13 +20,16 @@
       <br>
       {%- for entry in collections.all | eleventyNavigation %}
 
-      {% if entry.url == '/scribbles/' %} 
-      <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-      {% else %}
+      <script>console.log({{ entry.title | safe}})</script>
 
-      <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li> |
-      {% endif %}
-    
+
+
+        {% if entry.url == '/scribbles/' %} 
+          <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+        {% else %}
+
+          <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li> |
+        {% endif %}
 
       {%- endfor %}
 

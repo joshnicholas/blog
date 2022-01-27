@@ -1,14 +1,50 @@
 ---
 layout: layouts/home.njk
-permalink: /scribbles/
 eleventyNavigation:
   key: scribbles
   order: 4
+pagination:
+  data: collections.scribbles
+  size: 4
+  alias: posts
+  reverse: true
 ---
 
 <div style="margin:auto !important; max-width:700px !important;">
 
-{% set postslist = collections.scribbles %}
-{% include "postslist.njk" %}
+{%- for post in posts %}
+
+<h1><a href="{{ post.url | url }}" class="post-header">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h1>
+{{ content | safe }}
+
+<p>{{ post.templateContent | safe  }}</p>
+
+<br>
+<br>
+
+{% if loop.index < 5 %}
+
+<hr>
+
+{% endif %}
+
+
+<br>
+
+{% endfor %}
+
+
+</div>
+
+</div>
+
+<div style="text-align:center; font-size: 0.9em";>
+
+{% if pagination.href.previous %}
+  <a href="{{ pagination.href.previous }}">previous</a> | 
+{% endif %}
+{% if pagination.href.next %}
+  <a href="{{ pagination.href.next }}">next</a>
+{% endif %}
 
 </div>
