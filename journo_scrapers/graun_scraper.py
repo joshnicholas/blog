@@ -24,6 +24,7 @@ for page in range(1,5):
             datter = story.find(class_='fc-item__timestamp')['datetime']
 
             datto = dateparser.parse(datter).strftime("%Y-%m-%d")
+            format_datto = dateparser.parse(datto).strftime("%d %B %Y")
 
             r2 = requests.get(urlo)
 
@@ -32,14 +33,17 @@ for page in range(1,5):
             ps = soup2.find_all('p')
             ps = [x for x in ps if len(x.text) > 5][2:5]
 
-            stringo = ''
+            stringo = f"<center>From {format_datto}:</center><br><br>\n\n"
+
+            stringo += '<blockquote>'
 
             for p in ps:
                 stringo += "<p>"
                 stringo += p.text.strip()
-                stringo += "</p><br><br>"
+                stringo += "</p><br>"
                 stringo += "\n\n"
             
+            stringo += "</blockquote><br>\n\n"
             stringo += f'<p>Read more <a href="{urlo}">here</a>.</p>'
 
             
