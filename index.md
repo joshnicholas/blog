@@ -8,7 +8,9 @@ eleventyNavigation:
 
 <div style="margin:auto !important; max-width:700px !important;">
 
-<img src="{{ '/img/about.png' | url }}" style="max-width:200px !important;height:auto !important; align = 'left' !important; margin: 0px 10px 0px 0px !important;"/> Ello. <br>
+<br>
+
+<img src="{{ '/img/about.png' | url }}" style="max-width:150px !important;height:auto !important; float : left !important; margin: 0px 10px 0px 0px !important;"/> Ello. <br>
 
 My name is Josh. Probably the most pertinent thing to know about me is that I love learning. It's my hobby. It's (thankfully) a large part of my job. It's a lot of what goes on around here.<br><br>
 
