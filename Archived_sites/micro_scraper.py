@@ -8,7 +8,7 @@ import urllib
 import textwrap 
 
 
-f = open('josh-nicholas.ghost.2022-01-25-06-36-38.json')
+f = open('/Users/josh_nicholas/Downloads/josh-nicholas.ghost.2022-02-02-06-05-44.json')
 
 ### INITIAL EXPLORE
 
@@ -70,10 +70,12 @@ def post_extractor(fillo, tag_name, tag_id):
 
                 print("\n\n")
                 print(title)
+                print(slug)
+                print(datto)
                 print(html)
                 print("\n\n")
 
-                with open(f'/Users/josh_nicholas/personal_git/blog/words/{slug}.md', 'w') as f:
+                with open(f'log/{slug}.md', 'w') as f:
 
                     stringo = f"""---
 title: {title}
@@ -82,7 +84,7 @@ date: {datto}
 
 {html}"""
 
-                    # f.write(stringo)
+                    f.write(stringo)
 
 
 

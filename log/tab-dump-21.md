@@ -1,0 +1,6 @@
+---
+title: Tab dump
+date: 2020-07-27
+---
+
+<ul><li><a href="https://daily.jstor.org/the-surgeons-who-said-no-to-gloves/">The surgeons who said no to gloves</a></li><li><a href="https://www.nytimes.com/2020/07/27/world/europe/france-alsace-wine-coronavirus.html#click=https://t.co/adycTYZQV0">Of wine, hand sanitizer and heartbreak</a></li><li><a href="http://www.espn.com/espn/feature/story/_/id/15117732/three-days-houston-rockets-hotel-monaco-portland">Three days with the Houston Rockets at the Hotel Monaco Portland</a></li><li><a href="https://www.latimes.com/california/story/2020-07-16/qatar-prince-usc-ucla-la">The true story of the prince of Qatar and his time at USC</a></li><li><a href="https://medium.com/art-direct/chilean-artist-draws-from-covid-19-hospital-bed-a0b5766a00a2">Chilean artist draws from Covid-19 hospital bed</a></li><li><a href="https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary">Chart-doctor/visual-vocabulary</a></li><li><a href="https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5">The end of Starsky Robotics</a></li><li><a href="https://www.youtube.com/watch?v=jeGqnicNS2A">The ancient art of painting on water</a></li><li><a href="https://pressthink.org/2020/06/battleship-newspaper/">Battleship newspaper</a></li></ul>

@@ -1,0 +1,6 @@
+---
+title: Ain't language grand
+date: 2020-08-01
+---
+
+<blockquote>Ironically enough, the original “suburbs” were seen as dens of iniquity, not the placid avatars of decency as in the Trumpian imagination. The word suburb goes back to medieval times, when it developed a highly pejorative connotation to refer to areas outside the walls of London or other cities, where unseemly institutions—gambling holes, bordellos, slaughterhouses, and the like—were relegated. As the Oxford English Dictionary puts it, the words suburb and suburban early on were associated with “immoral or licentious practices.” In the 17th century, expressions such as suburb lechery and suburb sinner (meaning a prostitute) were common.</blockquote><blockquote>For Londoners, the “suburbs” didn’t start becoming more reputable until the early 19th century, when upwardly mobile city dwellers began to move to houses in the surrounding semirural regions. With the arrival of these social strivers, suburb and suburban began developing new associations of respectability, though that respectability was often portrayed as close-minded and complacent.</blockquote><p>From <a href="https://www.theatlantic.com/culture/archive/2020/07/what-trump-doesnt-understand-about-the-suburbs/614824/">The Atlantic</a>.</p>

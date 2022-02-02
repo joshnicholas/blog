@@ -1,0 +1,6 @@
+---
+title: Art Brut
+date: 2020-08-09
+---
+
+<blockquote>The term outsider art was coined by art critic Roger Cardinal in 1972 as an English synonym for art brut (French: [aʁ bʁyt], "raw art" or "rough art"), a label created by French artist Jean Dubuffet to describe art created outside the boundaries of official culture; Dubuffet focused particularly on art by those on the outside of the established art scene, such as psychiatric hospital patients and children.</blockquote><blockquote>While Dubuffet's term is quite specific, the English term "outsider art" is often applied more broadly, to <strong>include certain self-taught or naïve art makers who were never institutionalized</strong>. Typically, those labeled as outsider artists have little or no contact with the mainstream art world or art institutions. In many cases, their work is discovered only after their deaths. Often, outsider art illustrates extreme mental states, unconventional ideas, or elaborate fantasy worlds.</blockquote><p>From the <a href="https://www.wikiart.org/en/paintings-by-style/art-brut">brilliant WikiArt</a>. Discovered through <a href="https://www.wikiart.org/en/louis-soutter/sureau-en-fleurs">this Louis Soutter piece</a>. </p><p><em>My emphasis.</em></p>

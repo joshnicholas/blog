@@ -1,0 +1,22 @@
+---
+title: Tab dump
+date: 2019-04-16
+---
+
+<!--kg-card-begin: html--><p>Research, articles, podcasts and videos in no particular order.</p>
+<ul>
+<li><a href="https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds" target="_blank" rel="noopener noreferrer">Why facts don’t change our minds</a></li>
+<li><a href="https://www.youtube.com/watch?v=-wiNh4LLQzg" target="_blank" rel="noopener noreferrer">How this guy became a world yo-yo champion</a></li>
+<li><a href="https://www.youtube.com/watch?v=EmHUTNwn7L4" target="_blank" rel="noopener noreferrer">How Fox News and President Trump lost control to their base</a></li>
+<li><a href="https://www.youtube.com/watch?v=mY3EqTDRH5U" target="_blank" rel="noopener noreferrer">The crepe that’s not a crepe</a></li>
+<li><a href="https://www.theguardian.com/environment/2019/apr/05/why-the-guardian-is-putting-global-co2-levels-in-the-weather-forecast" target="_blank" rel="noopener noreferrer">Why the Guardian is putting global CO2 levels in the weather forecast</a></li>
+<li><a href="https://twitter.com/academia/status/1107692982256304133" target="_blank" rel="noopener noreferrer">Profile of Academia, a company trying to make academic research free and internet-first</a></li>
+<li><a href="https://www.theplayerstribune.com/en-us/articles/kyle-korver-utah-jazz-nba" target="_blank" rel="noopener noreferrer">One of the greatest NBA shooters reflects on the privilege of his being white</a></li>
+<li><a href="http://www.newyorker.com/business/currency/why-yahoo-couldnt-adapt-to-the-iphone-era" target="_blank" rel="noopener noreferrer">Why Yahoo couldn’t adapt to the smartphone era</a></li>
+<li><a href="https://www.nytimes.com/2019/04/13/world/asia/india-election-results.html" target="_blank" rel="noopener noreferrer"> What it takes to pull off India’s gargantuan election</a></li>
+<li><a href="http://nautil.us/issue/34/adaptation/how-the-mormons-conquered-america-rp" target="_blank" rel="noopener noreferrer">How the Mormons conquered America</a></li>
+<li><a href="https://www.nytimes.com/interactive/2019/04/03/magazine/rupert-murdoch-fox-news-trump.html" target="_blank" rel="noopener noreferrer">Pt. 1: How Rupert Murdoch’s empire of influence remade the world</a></li>
+<li><a href="https://www.nytimes.com/interactive/2019/04/03/magazine/james-murdoch-lachlan-succession.html" target="_blank" rel="noopener noreferrer">Pt. 2: Inside the succession battle for the Murdoch empire</a></li>
+<li><a href="https://www.nytimes.com/interactive/2019/04/03/magazine/new-fox-corporation-disney-deal.html" target="_blank" rel="noopener noreferrer">Pt. 3: The future of Fox: an even more powerful political weapon</a></li>
+</ul>
+<!--kg-card-end: html-->

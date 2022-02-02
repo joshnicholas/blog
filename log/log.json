@@ -1,0 +1,6 @@
+{
+    "tags": [
+      "log"
+    ],
+    "layout":"layouts/post.njk"
+  }
