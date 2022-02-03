@@ -3,14 +3,16 @@ title: Australia still lags many other countries on vaccine rollout – but it�
 date: 2021-10-11
 ---
 
-<center>From 11 October 2021:</center><br><br>
+<br><center>by Josh Nicholas</center><br>
 
-<blockquote><p>Federal health minister Greg Hunt has celebrated Australia’s vaccination rate passing that of major global powers, including the US and the EU.</p><br>
+<center>11 October 2021</center><br><br>
 
-<p>“We’ve now passed the [United States], we’ve passed Israel, we’ve passed the [European Union] over the weekend, Germany and the OECD,” Hunt told RN Breakfast on Monday.</p><br>
+<blockquote><p>But is he correct?</p><br>
 
-<p>But is he correct?</p><br>
+<p>At 231 days into the vaccine rollout, Australia still lags behind many OECD nations. More than 50 countries have administered at least one dose to a greater share of their populations. But many of them have much smaller populations than Australia.</p><br>
+
+<p>Australia also trails other powerful nations on its share of the fully vaccinated population. The United States, Germany and Israel all have higher fully vaccinated populations – as do almost 30 other OECD countries, according to the latest data available.</p><br>
 
 </blockquote><br>
 
-<p>Read more <a href="https://www.theguardian.com/news/datablog/2021/oct/11/australia-still-lags-many-other-countries-on-vaccine-rollout-but-its-catching-up-fast">here</a>.</p>
+<center><a href="https://www.theguardian.com/news/datablog/2021/oct/11/australia-still-lags-many-other-countries-on-vaccine-rollout-but-its-catching-up-fast">Read more</a></center>

@@ -3,14 +3,16 @@ title: Pacific plunder  Australian mining companies have paid little or no corpo
 date: 2021-06-08
 ---
 
-<center>From 08 June 2021:</center><br><br>
+<br><center>by Josh Nicholas and Kate Lyons</center><br>
 
-<blockquote><p>Australian mining companies have paid little or no corporate income tax in Papua New Guinea despite earning hundreds of millions of dollars from their PNG operations, benefiting from a complex taxation system that experts say leaves the country’s resources sector significantly “undertaxed”.</p><br>
+<center>08 June 2021</center><br><br>
 
-<p>Guardian analysis of company reports and industry data can reveal that during the past decade Australian mining giants Newcrest and St Barbara, which have huge mines in PNG, have paid no corporate income tax some years, with the companies legally using generous tax rules and accounting practices to minimise their tax burdens.</p><br>
+<blockquote><p>PNG has vast natural resources, with gold, silver and copper mines dotted around the country, as well large petroleum and liquefied natural gas reserves, but comparatively little of the wealth from these resources makes its way into government coffers or trickles down into communities.</p><br>
 
-<p>PNG has vast natural resources, with gold, silver and copper mines dotted around the country, as well large petroleum and liquefied natural gas reserves, but comparatively little of the wealth from these resources makes its way into government coffers or trickles down into communities.</p><br>
+<p>In 2018, oil and mineral products made up almost 90% of the value of Papua New Guinea’s exports but less than 10% of government revenues, according to the latest data from the Extractive Industries Transparency Initiative. Oil and mineral products contributed an even smaller share of government revenues in previous years.</p><br>
+
+<p>This is partly due to PNG’s taxation system, which uses an additional profits or “rent tax” method of taxation, which is complex, rather than a more straightforward flat royalty rate.</p><br>
 
 </blockquote><br>
 
-<p>Read more <a href="https://www.theguardian.com/world/2021/jun/09/australian-mining-companies-have-paid-little-or-no-corporate-income-tax-in-png-despite-huge-profits">here</a>.</p>
+<center><a href="https://www.theguardian.com/world/2021/jun/09/australian-mining-companies-have-paid-little-or-no-corporate-income-tax-in-png-despite-huge-profits">Read more</a></center>

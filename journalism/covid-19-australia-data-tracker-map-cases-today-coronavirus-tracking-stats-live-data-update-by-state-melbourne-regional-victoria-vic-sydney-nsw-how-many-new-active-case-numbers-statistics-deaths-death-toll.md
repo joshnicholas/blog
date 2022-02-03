@@ -3,14 +3,16 @@ title: Covid-19 Australia data tracker - coronavirus cases today, trend map, hos
 date: 2022-01-31
 ---
 
-<center>From 31 January 2022:</center><br><br>
+<br><center>by Josh Nicholas and Andy Ball and Nick Evershed</center><br>
 
-<blockquote><p>Due to the difference in reporting times between states, territories and the federal government, it can be difficult to get a current picture of how many confirmed cases of coronavirus there are in Australia, where cases are increasing or decreasing, and the overall trend for each state and territory.</p><br>
+<center>31 January 2022</center><br><br>
 
-<p>Here, we’ve brought together all the figures in one place for Australia as a whole, as well as more information on the states with current Omicron outbreaks.</p><br>
+<blockquote><p>You can use the table of contents to jump to a specific section:</p><br>
 
-<p>You can use the table of contents to jump to a specific section:</p><br>
+<p>Here you can see a summary of the overall situation, including the current status of the Covid vaccine booster rollout. For more information about vaccinations, you can check out our dedicated vaccine rollout page.</p><br>
+
+<p>This chart shows the number of Covid cases announced daily, for all of Australia. Unlike some of the other charts on this page it does not distinguish between cases reported from rapid antigen tests (RAT) and cases reported from PCR tests, and does not backdate RAT case numbers.</p><br>
 
 </blockquote><br>
 
-<p>Read more <a href="https://www.theguardian.com/australia-news/datablog/ng-interactive/2022/jan/31/covid-19-australia-data-tracker-map-cases-today-coronavirus-tracking-stats-live-data-update-by-state-melbourne-regional-victoria-vic-sydney-nsw-how-many-new-active-case-numbers-statistics-deaths-death-toll">here</a>.</p>
+<center><a href="https://www.theguardian.com/australia-news/datablog/ng-interactive/2022/jan/31/covid-19-australia-data-tracker-map-cases-today-coronavirus-tracking-stats-live-data-update-by-state-melbourne-regional-victoria-vic-sydney-nsw-how-many-new-active-case-numbers-statistics-deaths-death-toll">Read more</a></center>

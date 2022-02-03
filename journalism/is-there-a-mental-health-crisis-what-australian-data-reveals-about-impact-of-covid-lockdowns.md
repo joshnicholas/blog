@@ -3,14 +3,16 @@ title: Is there a mental health crisis? What Australian data reveals about impac
 date: 2021-09-02
 ---
 
-<center>From 02 September 2021:</center><br><br>
+<br><center>by Josh Nicholas</center><br>
 
-<blockquote><p>Some politicians and commentators are calling for lockdowns to end to prevent a mental health crisis, but it is not clear what exactly the impact is.</p><br>
+<center>02 September 2021</center><br><br>
 
-<p>Experts who spoke to Guardian Australia said calls to end lockdowns ignored longer-term mental health trends, as well as the fact that increasing cases resulting from reopening would not be great for mental health either.</p><br>
+<blockquote><p>We delved into several datasets to get a clearer picture of the impact of lockdowns on mental health.</p><br>
 
-<p>We delved into several datasets to get a clearer picture of the impact of lockdowns on mental health.</p><br>
+<p>The Covid pandemic has seen large increases in contacts with support organisations such as Beyond Blue and Kids Helpline. Data shared by NSW Health also showed an increase in self-harm presentations of children at emergency departments during the pandemic. Lockdowns also appear associated with even greater use of these support services, as well as mental health services booked through Medicare.</p><br>
+
+<p>Guardian Australia compiled data on more than 500 mental health items on the Medicare Benefits Schedule, and found that usage tends to be roughly uniform around the country over time. However, there was a significant peak in mental health services use in Victoria around the time of the extended 2020 lockdown. This was not matched in other states.</p><br>
 
 </blockquote><br>
 
-<p>Read more <a href="https://www.theguardian.com/australia-news/datablog/2021/sep/03/is-there-a-mental-health-crisis-what-australian-data-reveals-about-impact-of-covid-lockdowns">here</a>.</p>
+<center><a href="https://www.theguardian.com/australia-news/datablog/2021/sep/03/is-there-a-mental-health-crisis-what-australian-data-reveals-about-impact-of-covid-lockdowns">Read more</a></center>

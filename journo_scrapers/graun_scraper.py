@@ -21,48 +21,64 @@ for page in range(1,5):
         urlo = story.a['href']
         slug = urlo.split("/")[-1]
         if ("Covid live" not in heado) & ("Coronavirus live" not in heado) & ("news live" not in heado) & (f"{slug}.md" not in os.listdir('journalism/')):
-            datter = story.find(class_='fc-item__timestamp')['datetime']
+            try:
+                datter = story.find(class_='fc-item__timestamp')['datetime']
 
-            datto = dateparser.parse(datter).strftime("%Y-%m-%d")
-            format_datto = dateparser.parse(datto).strftime("%d %B %Y")
+                datto = dateparser.parse(datter).strftime("%Y-%m-%d")
+                format_datto = dateparser.parse(datto).strftime("%d %B %Y")
 
-            r2 = requests.get(urlo)
+                r2 = requests.get(urlo)
 
-            soup2 = bs(r2.text, 'html.parser')
+                soup2 = bs(r2.text, 'html.parser')
 
-            ps = soup2.find_all('p')
-            ps = [x for x in ps if len(x.text) > 5][2:5]
+                # byline = soup2.find(class_="byline").text
 
-            stringo = f"<center>From {format_datto}:</center><br><br>\n\n"
+                authors = soup2.find_all(attrs={'rel':'author'})
+                authors = [x.text for x in authors]
 
-            stringo += '<blockquote>'
+                byline = '  '.join(authors).replace("  ", " and ")
 
-            for p in ps:
-                stringo += "<p>"
-                stringo += p.text.strip()
-                stringo += "</p><br>"
-                stringo += "\n\n"
-            
-            stringo += "</blockquote><br>\n\n"
-            stringo += f'<p>Read more <a href="{urlo}">here</a>.</p>'
+                body = soup2.find(id='maincontent')
 
-            
+                ps = body.find_all('p')
+                ps = [x for x in ps if len(x.text) > 5][2:5]
+                
+                stringo = f"<br><center>by {byline}</center><br>\n\n"
 
-            print(heado)
-            # print(urlo)
-            # print(slug)
-            print(datto)
-            print(stringo)
+                stringo += f"<center>{format_datto}</center><br><br>\n\n"
 
-            with open(f'journalism/{slug}.md', 'w') as f:
+                stringo += '<blockquote>'
 
-                html = f"""---
+                for p in ps:
+                    stringo += "<p>"
+                    stringo += p.text.strip()
+                    stringo += "</p><br>"
+                    stringo += "\n\n"
+                
+                stringo += "</blockquote><br>\n\n"
+                stringo += f'<center><a href="{urlo}">Read more</a></center>'
+
+                
+
+                print(heado)
+                # print(urlo)
+                # print(slug)
+                print(byline)
+                print(datto)
+                print(stringo)
+
+                with open(f'journalism/{slug}.md', 'w') as f:
+
+                    html = f"""---
 title: {heado}
 date: {datto}
 ---
 
 {stringo}"""
-                f.write(html)
+                    f.write(html)
+            except Exception as e:
+                print(e)
+                continue
 
 
 # %%

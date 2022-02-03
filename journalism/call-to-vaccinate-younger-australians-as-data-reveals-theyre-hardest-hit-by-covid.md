@@ -3,14 +3,16 @@ title: Call to vaccinate younger Australians as data reveals they’re hardest h
 date: 2021-08-02
 ---
 
-<center>From 02 August 2021:</center><br><br>
+<br><center>by Josh Nicholas</center><br>
 
-<blockquote><p>Younger Australians have borne the brunt of the Covid pandemic with people aged in their 20s hit by more cases than any other age group, according to a Guardian Australia analysis of department of health data.</p><br>
+<center>02 August 2021</center><br><br>
 
-<p>But, while the number of coronavirus cases was highest among those in their 20s, followed by those in their 30s and 40s, the severity of the illness was far worse among older Australians.</p><br>
+<blockquote><p>Australians aged over 80 had a disproportionately high number of cases and deaths, with most of these occurring during Victoria’s extended outbreak last year.</p><br>
 
-<p>Australians aged over 80 had a disproportionately high number of cases and deaths, with most of these occurring during Victoria’s extended outbreak last year.</p><br>
+<p>Professor Marylouise McLaws, an epidemiologist at the University of NSW, says 20-39-year-olds have been at severe risk of infection throughout the pandemic.</p><br>
+
+<p>“We have seen young people having 40% of the burden even before Delta. They are lower socioeconomic [status]. They often work in multiple jobs or live in crowded households because they either like it or they need to do that. So it’s not a surprise that 20-39 year olds are at an enormous risk,” McLaws said.</p><br>
 
 </blockquote><br>
 
-<p>Read more <a href="https://www.theguardian.com/news/datablog/2021/aug/02/call-to-vaccinate-younger-australians-as-data-reveals-theyre-hardest-hit-by-covid">here</a>.</p>
+<center><a href="https://www.theguardian.com/news/datablog/2021/aug/02/call-to-vaccinate-younger-australians-as-data-reveals-theyre-hardest-hit-by-covid">Read more</a></center>

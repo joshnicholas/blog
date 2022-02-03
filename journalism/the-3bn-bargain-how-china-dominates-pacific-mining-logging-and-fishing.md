@@ -3,14 +3,16 @@ title: Pacific plunder  The $3bn bargain - how China dominates Pacific mining, l
 date: 2021-05-30
 ---
 
-<center>From 30 May 2021:</center><br><br>
+<br><center>by Josh Nicholas</center><br>
 
-<blockquote><p>One country dominates the Pacific’s resources extraction.</p><br>
+<center>30 May 2021</center><br><br>
 
-<p>Guardian analysis of trade data has revealed that China received more than half the total tonnes of seafood, wood and minerals exported from the region in 2019, a haul worth $3.3bn that has been described by experts as “staggering in magnitude”.</p><br>
+<blockquote><p>The country’s mass extraction of resources comes as China has deepened its connections with governments across the region, amid a soft power push that sees it rivalling the influence of the US and Australia in the Pacific.</p><br>
 
-<p>The country’s mass extraction of resources comes as China has deepened its connections with governments across the region, amid a soft power push that sees it rivalling the influence of the US and Australia in the Pacific.</p><br>
+<p>China took more by weight of these resources from the Pacific than the next 10 countries combined, with experts saying China “would easily outstrip” other countries, including Australia, when it comes to “gross environmental impact of its extractive industries”.</p><br>
+
+<p>Data analysis reveals the extent of China’s appetite for Pacific natural resources.</p><br>
 
 </blockquote><br>
 
-<p>Read more <a href="https://www.theguardian.com/world/2021/may/31/the-3bn-bargain-how-china-dominates-pacific-mining-logging-and-fishing">here</a>.</p>
+<center><a href="https://www.theguardian.com/world/2021/may/31/the-3bn-bargain-how-china-dominates-pacific-mining-logging-and-fishing">Read more</a></center>
