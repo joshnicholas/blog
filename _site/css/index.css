@@ -61,6 +61,16 @@ img {
   height: auto;
 }
 
+
+blockquote {
+  border-left: 2px solid #ccc;
+  /* margin: 2em 10px; */
+  /* margin-left: 2em; */
+  padding: 3px;
+  /* opacity: 0.5; */
+  /* border-spacing: 10px; */
+}
+
 .post-header {
   text-decoration: none;
   /* color:#333; */
