@@ -38,7 +38,11 @@ for page in range(1,5):
 
                 byline = '  '.join(authors).replace("  ", " and ")
 
-                body = soup2.find(id='maincontent')
+                if 'ng-interactive' in urlo:
+                    body = soup2.find(class_='content__main')
+                    print(body)
+                else:
+                    body = soup2.find(id='maincontent')
 
                 ps = body.find_all('p')
                 ps = [x for x in ps if len(x.text) > 5][2:5]
@@ -78,6 +82,9 @@ date: {datto}
                     f.write(html)
             except Exception as e:
                 print(e)
+                print(urlo)
+                import sys
+                print(f"Line: {sys.exc_info()[-1].tb_lineno}")
                 continue
 
 

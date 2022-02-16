@@ -1,6 +1,6 @@
 ---
 title: First practice
-date: 2022-01-08
+date: 2022-02-08
 ---
 
 !['Squares']({{ '/img/prac1.jpeg' | url }} )
