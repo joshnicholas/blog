@@ -18,7 +18,9 @@ By day I am a data journalist at [The Guardian](https://www.theguardian.com/prof
 
 This site is about a decade old now. It began as a book blog but morphed into a kind of scrapbook. More recently I have been concentrating on becoming a better [photographer](https://joshnicholas.com/photos/) and [scribbler](https://joshnicholas.com/scribbles/).<br><br>
 
-You can find a bunch of data I've liberated on [my Github](https://github.com/joshnicholas). This includes [news headlines](https://github.com/joshnicholas/news_headlines), social and traditional media [trends](https://github.com/joshnicholas/trends), Colombo Stock Exchange [closing prices](https://github.com/joshnicholas/cse_scrape) and the Australian government's [Covid stats](https://github.com/joshnicholas/oz-covid-data).<br><br>
+Over the years this site has gone through many stylistic iterations and been ported to several different platforms and blogging tools. Some links, line breaks, quotes etc. may be broken. The current version was created using [Eleventy](https://www.11ty.dev/) and is hosted on [GitHub pages](https://github.com/joshnicholas/blog).<br><br>
+
+You can also find a bunch of data I've liberated on [my Github](https://github.com/joshnicholas). This includes [news headlines](https://github.com/joshnicholas/news_headlines), social and traditional media [trends](https://github.com/joshnicholas/trends), Colombo Stock Exchange [closing prices](https://github.com/joshnicholas/cse_scrape) and the Australian government's [Covid stats](https://github.com/joshnicholas/oz-covid-data).<br><br>
 
 If you'd like to get in touch I'd recommend [Twitter](https://twitter.com/joshcnicholas).
 
