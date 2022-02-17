@@ -20,7 +20,5 @@ This site is about a decade old now. It began as a book blog but morphed into a 
 
 You can find a bunch of data I've liberated on [my Github](https://github.com/joshnicholas). This includes [news headlines](https://github.com/joshnicholas/news_headlines), social and traditional media [trends](https://github.com/joshnicholas/trends), Colombo Stock Exchange [closing prices](https://github.com/joshnicholas/cse_scrape) and the Australian government's [Covid stats](https://github.com/joshnicholas/oz-covid-data).<br><br>
 
-You can also find a bunch of data I've liberated on [my Github](https://github.com/joshnicholas). This includes [news headlines](https://github.com/joshnicholas/news_headlines), social and traditional media [trends](https://github.com/joshnicholas/trends), Colombo Stock Exchange [closing prices](https://github.com/joshnicholas/cse_scrape) and the Australian government's [Covid stats](https://github.com/joshnicholas/oz-covid-data).<br><br>
-
 If you'd like to get in touch I'd recommend [Twitter](https://twitter.com/joshcnicholas).
 
