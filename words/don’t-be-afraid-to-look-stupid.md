@@ -1,4 +1,3 @@
-# Don’t be afraid to look stupid
 ---
 title: Don’t be afraid to look stupid
 date: 2022-04-17
