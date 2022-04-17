@@ -7,13 +7,19 @@ date: 2022-04-17
 I just finished [The Intel Trinity](https://www.worldcat.org/title/intel-trinity-how-robert-noyce-gordon-moore-and-andy-grove-built-the-worlds-most-important-company/oclc/878945165&referer=brief_results). It’s the story of Intel and it’s founders Andy Grove, Bob Noyce and Gordon Moore. There’s an incredible amount to unpack but I can’t stop thinking of this one vignette of Grove, then a new immigrant and struggling at university:<br/><br/>
 
 
-> “even as he was trying to make sense of what the professor was saying, he would look around at his classmates and see them casually taking notes as if the material on the blackboard was entirely self-evident.”<br/><br/>
+> “even as he was trying to make sense of what the professor was saying, he would look around at his classmates and see them casually taking notes as if the material on the blackboard was entirely self-evident.”
+
+<br/><br/>
 
 
-> “Then, when his despair was at its lowest, an amazing thing happened. Try as he might, Andy found that he couldn’t follow the logic of a particular proof being written on the board, so he raised his hand and asked about it. The professor paused, looked at what he’d written, and realized he’d made a mistake. He went back and corrected it. As Andy watched, his fellow students erased and corrected their notes with the same aplomb.”<br/><br/>
+> “Then, when his despair was at its lowest, an amazing thing happened. Try as he might, Andy found that he couldn’t follow the logic of a particular proof being written on the board, so he raised his hand and asked about it. The professor paused, looked at what he’d written, and realized he’d made a mistake. He went back and corrected it. As Andy watched, his fellow students erased and corrected their notes with the same aplomb.”
+
+<br/><br/>
 
 
-> “It was an epiphany for Andy Grove, “because I discovered ‘**these toads don’t know any more than I do. They just don’t dare speak up**. To hell with them.’”<br/><br/>
+> “It was an epiphany for Andy Grove, “because I discovered ‘**these toads don’t know any more than I do. They just don’t dare speak up**. To hell with them.’”
+
+<br/><br/>
 
 
 Fear of being “found out”, of being seen not to know, I think, is far more common than we’d like to admit. It affects and costs us all.<br/><br/>
