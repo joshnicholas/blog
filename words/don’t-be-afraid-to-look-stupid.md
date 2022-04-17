@@ -4,7 +4,7 @@ date: 2022-04-17
 ---
 
 
-I just finished [the intel trinity](https://www.worldcat.org/title/intel-trinity-how-robert-noyce-gordon-moore-and-andy-grove-built-the-worlds-most-important-company/oclc/878945165&referer=brief_results). It’s the story of Intel and it’s founders Andy Grove, Bob Noyce and Gordon Moore. There’s an incredible amount to unpack but I can’t stop thinking of this one vignette of Grove, then a new immigrant and struggling at university:<br>
+I just finished [The Intel Trinity](https://www.worldcat.org/title/intel-trinity-how-robert-noyce-gordon-moore-and-andy-grove-built-the-worlds-most-important-company/oclc/878945165&referer=brief_results). It’s the story of Intel and it’s founders Andy Grove, Bob Noyce and Gordon Moore. There’s an incredible amount to unpack but I can’t stop thinking of this one vignette of Grove, then a new immigrant and struggling at university:<br>
 
 > “even as he was trying to make sense of what the professor was saying, he would look around at his classmates and see them casually taking notes as if the material on the blackboard was entirely self-evident.”<br>
 
