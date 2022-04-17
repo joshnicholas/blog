@@ -9,16 +9,18 @@ I just finished [The Intel Trinity](https://www.worldcat.org/title/intel-trinity
 > even as he was trying to make sense of what the professor was saying, he would look around at his classmates and see them casually taking notes as if the material on the blackboard was entirely self-evident.
 
 <br/>
+
 > Then, when his despair was at its lowest, an amazing thing happened. Try as he might, Andy found that he couldn’t follow the logic of a particular proof being written on the board, so he raised his hand and asked about it. The professor paused, looked at what he’d written, and realized he’d made a mistake. He went back and corrected it. As Andy watched, his fellow students erased and corrected their notes with the same aplomb.
 
 <br/>
+
 > It was an epiphany for Andy Grove, “because I discovered ‘**these toads don’t know any more than I do. They just don’t dare speak up. To hell with them**.’
 
 <br/><br/>
 
 Fear of being “found out”, of being seen not to know, I think, is far more common than we’d like to admit. It affects and costs us all.<br/><br/>
 
-One area this bites us, what I’ve been reflecting on, is journalism. We’ve all read the stories or watched interviews that seem to take place at 20,000 feet. That skips first principles and takes a lot as given.<br/><br/>
+One area this bites us, what I’ve been reflecting on, is journalism. We’ve all read the stories or watched interviews that seem to take place at 20,000 feet. That skip first principles and takes a lot as given.<br/><br/>
 
 Everyone has ideas for why journalism is broken but this is a big one for me: a lot of journalists are scared of appearing stupid or unsophisticated. In front of their audience and also (maybe moreso) their colleagues.<br/><br/>
 
