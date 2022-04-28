@@ -3,7 +3,6 @@ import json
 import dateparser
 import os
 import re
-import html
 
 urlo = 'http://joshnicholas.micro.blog/feed.json'
 
