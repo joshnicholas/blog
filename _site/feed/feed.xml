@@ -5,12 +5,52 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-01-15T00:00:00Z</updated>
+	<updated>2022-04-17T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Don’t be afraid to look stupid</title>
+		<link href="https://joshnicholas.com/words/don%E2%80%99t-be-afraid-to-look-stupid/"/>
+		<updated>2022-04-17T00:00:00Z</updated>
+		<id>https://joshnicholas.com/words/don%E2%80%99t-be-afraid-to-look-stupid/</id>
+		<content type="html">&lt;p&gt;I just finished &lt;a href=&quot;https://www.worldcat.org/title/intel-trinity-how-robert-noyce-gordon-moore-and-andy-grove-built-the-worlds-most-important-company/oclc/878945165&amp;amp;referer=brief_results&quot;&gt;The Intel Trinity&lt;/a&gt;. It’s the story of Intel and founders Andy Grove, Bob Noyce and Gordon Moore. There’s an incredible amount to unpack but I can’t stop thinking of this one vignette of Grove, then a new immigrant and struggling at university:&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;even as he was trying to make sense of what the professor was saying, he would look around at his classmates and see them casually taking notes as if the material on the blackboard was entirely self-evident.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Then, when his despair was at its lowest, an amazing thing happened. Try as he might, Andy found that he couldn’t follow the logic of a particular proof being written on the board, so he raised his hand and asked about it. The professor paused, looked at what he’d written, and realized he’d made a mistake. He went back and corrected it. As Andy watched, his fellow students erased and corrected their notes with the same aplomb.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It was an epiphany for Andy Grove, “because I discovered ‘&lt;strong&gt;these toads don’t know any more than I do. They just don’t dare speak up. To hell with them&lt;/strong&gt;.’&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Fear of being “found out”, of being seen not to know, I think, is far more common than we’d like to admit. It affects and costs us all.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;One area this bites us, what I’ve been reflecting on, is journalism. We’ve all read the stories or watched interviews that seem to take place at 20,000 feet. That skip first principles and takes a lot as given.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Everyone has ideas for why journalism is broken but this is a big one for me: a lot of journalists are scared of appearing stupid or unsophisticated. In front of their audience and also (maybe moreso) their colleagues.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;They don’t ask simple questions because they don’t want to appear simple. They frame stories from a position of their own savvyness. They gatekeep with clever ‘gotchas’.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;We lose from this in a couple of ways. One is that we’re not all making the same logical leaps, and so failing to start from first principles will leave many behind.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;But I think where Grove’s example is even more illustrative is that without the willingness for one to look stupid they would have all been wrong. No one would have challenged the received wisdom.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Signalling cleverness with silence, or going along with the pack, means you aren’t questioning whether it should be so.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;I love reading stories like this because they remind me that even people like Andy Grove were once unconfident and on the outside. And maybe one of the reasons they were able to affect the world is that they weren’t afraid to look stupid.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(My emphasis)&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Blue moon</title>
+		<link href="https://joshnicholas.com/scribbles/blue-moon/"/>
+		<updated>2022-02-22T00:00:00Z</updated>
+		<id>https://joshnicholas.com/scribbles/blue-moon/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/2202morningpracticeface.jpeg&quot; alt=&quot;&#39;Blue moon practice&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Negombo fishing</title>
@@ -93,7 +133,7 @@ Practicing planes.&lt;/p&gt;
 		<link href="https://joshnicholas.com/scribbles/have-to-work-on-planes/"/>
 		<updated>2021-11-27T00:00:00Z</updated>
 		<id>https://joshnicholas.com/scribbles/have-to-work-on-planes/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/Gradients.jpeg&quot; alt=&quot;&#39;Have to work on planes&#39;&quot; /&gt;&lt;br /&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/Gradients_face.jpeg&quot; alt=&quot;&#39;Have to work on planes&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 Haven&#39;t quite captured all the planes of the face.&lt;/p&gt;
 </content>
@@ -1529,17 +1569,6 @@ more rice with the amok 😬&lt;/p&gt;
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/64InKualaLumpurafteralongtime7.jpg&quot; alt=&quot;&#39;In Kuala Lumpur after a long time&#39;&quot; /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 </content>
-	</entry>
-	
-	<entry>
-		<title>How many more (or less) sixes are hit by winning teams in Big Bash</title>
-		<link href="https://joshnicholas.com/words/how-many-more-or-less-sixes-are-hit-by-winning-teams-in-big-bash/"/>
-		<updated>2020-01-11T00:00:00Z</updated>
-		<id>https://joshnicholas.com/words/how-many-more-or-less-sixes-are-hit-by-winning-teams-in-big-bash/</id>
-		<content type="html">&lt;!--kg-card-begin: markdown--&gt;&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/content/images/2020/07/moreorlesssixes-1.png&quot; alt=&quot;moreorlesssixes-1&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;&lt;br /&gt;
-&lt;p&gt;This is the how many more or less sixes were hit by the winning team for every Big Bash game so far. I really did not expect it to be that definitive.&lt;/p&gt;&lt;br /&gt;
-&lt;p&gt;&lt;em&gt;Another one best viewed on a computer or a rotated mobile device&lt;/em&gt;.&lt;/p&gt;&lt;br /&gt;
-&lt;!--kg-card-end: markdown--&gt;</content>
 	</entry>
 	
 	<entry>

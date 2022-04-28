@@ -10,6 +10,18 @@
     "url": "https://joshnicholas.com"
   },
   "items": [{
+      "id": "https://joshnicholas.com/words/don%E2%80%99t-be-afraid-to-look-stupid/",
+      "url": "https://joshnicholas.com/words/don%E2%80%99t-be-afraid-to-look-stupid/",
+      "title": "Don’t be afraid to look stupid",
+      "content_html": "<p>I just finished <a href=\"https://www.worldcat.org/title/intel-trinity-how-robert-noyce-gordon-moore-and-andy-grove-built-the-worlds-most-important-company/oclc/878945165&amp;referer=brief_results\">The Intel Trinity</a>. It’s the story of Intel and founders Andy Grove, Bob Noyce and Gordon Moore. There’s an incredible amount to unpack but I can’t stop thinking of this one vignette of Grove, then a new immigrant and struggling at university:<br /></p>\n<blockquote>\n<p>even as he was trying to make sense of what the professor was saying, he would look around at his classmates and see them casually taking notes as if the material on the blackboard was entirely self-evident.</p>\n</blockquote>\n<br />\n<blockquote>\n<p>Then, when his despair was at its lowest, an amazing thing happened. Try as he might, Andy found that he couldn’t follow the logic of a particular proof being written on the board, so he raised his hand and asked about it. The professor paused, looked at what he’d written, and realized he’d made a mistake. He went back and corrected it. As Andy watched, his fellow students erased and corrected their notes with the same aplomb.</p>\n</blockquote>\n<br />\n<blockquote>\n<p>It was an epiphany for Andy Grove, “because I discovered ‘<strong>these toads don’t know any more than I do. They just don’t dare speak up. To hell with them</strong>.’</p>\n</blockquote>\n<p><br /><br /></p>\n<p>Fear of being “found out”, of being seen not to know, I think, is far more common than we’d like to admit. It affects and costs us all.<br /><br /></p>\n<p>One area this bites us, what I’ve been reflecting on, is journalism. We’ve all read the stories or watched interviews that seem to take place at 20,000 feet. That skip first principles and takes a lot as given.<br /><br /></p>\n<p>Everyone has ideas for why journalism is broken but this is a big one for me: a lot of journalists are scared of appearing stupid or unsophisticated. In front of their audience and also (maybe moreso) their colleagues.<br /><br /></p>\n<p>They don’t ask simple questions because they don’t want to appear simple. They frame stories from a position of their own savvyness. They gatekeep with clever ‘gotchas’.<br /><br /></p>\n<p>We lose from this in a couple of ways. One is that we’re not all making the same logical leaps, and so failing to start from first principles will leave many behind.<br /><br /></p>\n<p>But I think where Grove’s example is even more illustrative is that without the willingness for one to look stupid they would have all been wrong. No one would have challenged the received wisdom.<br /><br /></p>\n<p>Signalling cleverness with silence, or going along with the pack, means you aren’t questioning whether it should be so.<br /><br /></p>\n<p>I love reading stories like this because they remind me that even people like Andy Grove were once unconfident and on the outside. And maybe one of the reasons they were able to affect the world is that they weren’t afraid to look stupid.<br /><br /></p>\n<p><em>(My emphasis)</em></p>\n",
+      "date_published": "2022-04-17T00:00:00Z"
+    },{
+      "id": "https://joshnicholas.com/scribbles/blue-moon/",
+      "url": "https://joshnicholas.com/scribbles/blue-moon/",
+      "title": "Blue moon",
+      "content_html": "<p><img src=\"https://joshnicholas.com/img/2202morningpracticeface.jpeg\" alt=\"'Blue moon practice'\" /><br />\n<br /></p>\n",
+      "date_published": "2022-02-22T00:00:00Z"
+    },{
       "id": "https://joshnicholas.com/photos/negombo-fishing-2/",
       "url": "https://joshnicholas.com/photos/negombo-fishing-2/",
       "title": "Negombo fishing",
@@ -55,7 +67,7 @@
       "id": "https://joshnicholas.com/scribbles/have-to-work-on-planes/",
       "url": "https://joshnicholas.com/scribbles/have-to-work-on-planes/",
       "title": "Have to work on planes",
-      "content_html": "<p><img src=\"https://joshnicholas.com/img/Gradients.jpeg\" alt=\"'Have to work on planes'\" /><br />\n<br /><br />\nHaven't quite captured all the planes of the face.</p>\n",
+      "content_html": "<p><img src=\"https://joshnicholas.com/img/Gradients_face.jpeg\" alt=\"'Have to work on planes'\" /><br />\n<br /><br />\nHaven't quite captured all the planes of the face.</p>\n",
       "date_published": "2021-11-27T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/scribbles/new-drawing-book/",
@@ -861,12 +873,6 @@
       "title": "In Kuala Lumpur after a long time",
       "content_html": "<p><img src=\"https://joshnicholas.com/img/64InKualaLumpurafteralongtime7.jpg\" alt=\"'In Kuala Lumpur after a long time'\" /><br />\n<br /></p>\n",
       "date_published": "2020-01-16T00:00:00Z"
-    },{
-      "id": "https://joshnicholas.com/words/how-many-more-or-less-sixes-are-hit-by-winning-teams-in-big-bash/",
-      "url": "https://joshnicholas.com/words/how-many-more-or-less-sixes-are-hit-by-winning-teams-in-big-bash/",
-      "title": "How many more (or less) sixes are hit by winning teams in Big Bash",
-      "content_html": "<!--kg-card-begin: markdown--><p><img src=\"https://joshnicholas.com/content/images/2020/07/moreorlesssixes-1.png\" alt=\"moreorlesssixes-1\" loading=\"lazy\" /></p><br />\n<p>This is the how many more or less sixes were hit by the winning team for every Big Bash game so far. I really did not expect it to be that definitive.</p><br />\n<p><em>Another one best viewed on a computer or a rotated mobile device</em>.</p><br />\n<!--kg-card-end: markdown-->",
-      "date_published": "2020-01-11T00:00:00Z"
     },{
       "id": "https://joshnicholas.com/words/dont-be-trapped-by-the-straitjacket-of-training/",
       "url": "https://joshnicholas.com/words/dont-be-trapped-by-the-straitjacket-of-training/",
