@@ -2757,22 +2757,22 @@
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/tags/log/</loc>
-    <lastmod>2022-01-29</lastmod>
-  </url>
-  
-  <url>
     <loc>https://joshnicholas.com/tags/journalism/</loc>
     <lastmod>2022-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/tags/practice/</loc>
+    <loc>https://joshnicholas.com/tags/micro/</loc>
     <lastmod>2022-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://joshnicholas.com/tags/micro/</loc>
+    <loc>https://joshnicholas.com/tags/log/</loc>
+    <lastmod>2022-01-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/tags/practice/</loc>
     <lastmod>2022-01-29</lastmod>
   </url>
   
@@ -2859,5 +2859,10 @@
   <url>
     <loc>https://joshnicholas.com/journalism/in-2019-inequality-was-a-big-federal-election-issue-now-its-off-the-radar/</loc>
     <lastmod>2022-04-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joshnicholas.com/cse/</loc>
+    <lastmod>2022-05-01</lastmod>
   </url>
 </urlset>
