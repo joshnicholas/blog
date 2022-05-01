@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colombo Stock Exchange</title>
+    <title>Josh Nicholas</title>
     <meta name="description" content="Josh is a journalist who codes and draws">
     <link rel="stylesheet" href="/css/index.css">
     <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
@@ -72,50 +72,47 @@
 
                 
 
-      
-      
-
-                 
-
-        
-
-          <li class="nav-item"><a href="/cse3/">cse2</a></li> |
-        
-
-
-                
-
 
 
       </ul>
     </header>
 
-    <main class="chart-post">
+    <main class="tmpl-post">
 
-      <script src="https://d3js.org/d3.v7.min.js"></script>
-<div style="margin:auto !important; max-width:700px !important;">
-
-<h1 class="post-header">Colombo Stock Exchange</h1>
-
+      
 
 <div style="margin:auto !important; max-width:700px !important;">
-<br>
-<p>&quot;Hi&quot;</p>
-<br>
-<p><canvas id="myChart"></canvas></p>
-<script>
-
-const chartData = d3.csv([object Object])
-
-console.log(chartData)
-
+<header>
+<link rel="stylesheet" href="https: //pyscript.net/alpha/pyscript.css" />
+<script defer src="https://pyscript.net/alpha/pyscript.js">
 </script>
-<br>
+</header>
+  <py-env>
+    - pandas
+    - requests
+    - plotly
+  </py-env>
+<py-script> 
+<!-- import pandas as pd
+import requests
+import json
 
+r = requests.get('http://raw.githubusercontent.com/joshnicholas/cse_scrape/main/archive/cse.json')
+print(r.text) -->
+<p>import plotly.graph_objects as go</p>
+<p>fig = go.Figure(data=[go.Table(header=dict(values=['A Scores', 'B Scores']),<br>
+cells=dict(values=[[100, 90, 80, 90], [95, 85, 75, 95]]))<br>
+])<br>
+fig.show()</p>
+<!-- df = pd.read_csv('https://raw.githubusercontent.com/joshnicholas/cse_scrape/main/daily_dumps/2022-04-12.csv') -->
+<!-- df = pd.read_csv('/Users/josh/Dropbox/Coding/Github/blog/_data/2022-04-12.csv')
+print(df) -->
+<!-- from numpy import genfromtxt
+my_data = genfromtxt('https://raw.githubusercontent.com/joshnicholas/cse_scrape/main/cse.csv', delimiter=',')
+
+print(my_data) -->
+</py-script> 
 </div>
-
-
-
 
     </main>
 
