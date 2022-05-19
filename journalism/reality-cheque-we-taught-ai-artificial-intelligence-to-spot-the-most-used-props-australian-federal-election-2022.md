@@ -1,0 +1,18 @@
+---
+title: Reality cheque - we taught AI to spot the most used props this election. Here’s what it found
+date: 2022-05-19
+---
+
+<br><center>by Nick Evershed and Josh Nicholas</center><br>
+
+<center>19 May 2022</center><br><br>
+
+<blockquote><p>We were already using machine learning to flag text from politicians’ Facebook posts as likely grant announcements and election promises, but having another model in place to find big cheques and certificates in photos might pick up things we’d missed in the text.</p><br>
+
+<p>Giant cheques have made news in previous years – in 2019 when the former Liberal candidate for Mayo, Georgina Downer, presented a grant to a bowling club despite this practice usually being the domain of the sitting MP. A novelty cheque again made headlines in 2020, when Senator Pauline Hanson announced a $23m grant for Rockhampton stadium.</p><br>
+
+<p>With this in mind, we trained an object recognition model to spot giant cheques. And from there it was a short step further to look at other common tropes of election campaign photo ops: hi-vis workwear and hardhats, cute dogs, and footballs.</p><br>
+
+</blockquote><br>
+
+<center><a href="https://www.theguardian.com/news/datablog/2022/may/19/reality-cheque-we-taught-ai-artificial-intelligence-to-spot-the-most-used-props-australian-federal-election-2022">Read more</a></center>
