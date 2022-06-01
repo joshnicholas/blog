@@ -19,27 +19,28 @@ for post in jsony['items']:
 
     # print(post.keys())
 
-    if f"{stem}.md" not in os.listdir('micro-scribble/'):
 
 
-        titlo = stem.replace('-', ' ').title()    
-        datter = post['date_published']
-        datto = dateparser.parse(datter).strftime("%Y-%m-%d")
+    titlo = stem.replace('-', ' ').title()    
+    datter = post['date_published']
+    datto = dateparser.parse(datter).strftime("%Y-%m-%d")
 
-        content = post['content_html']
-        content = re.sub(r"[^\x00-\x7F]+",'', content)
-        content = re.sub(r"\s{2,}",'', content)
-        content = content.strip()
-        # print(content)
+    content = post['content_html']
+    content = re.sub(r"[^\x00-\x7F]+",'', content)
+    content = re.sub(r"\s{2,}",'', content)
+    content = content.strip()
+    # print(content)
 
-        out_path = 'micro'
+    out_path = 'micro'
 
-        if 'tags' in post.keys():
-            if 'Scribbles' in post['tags']:
-            
-                print(post['tags'])
+    if 'tags' in post.keys():
+        if 'Scribbles' in post['tags']:
+        
+            print(post['tags'])
 
-                out_path = 'micro-scribble'
+            out_path = 'micro-scribble'
+
+    if f"{stem}.md" not in os.listdir(f'{out_path}/'):
 
         with open(f'{out_path}/{stem}.md', 'w') as f:
 
@@ -48,7 +49,11 @@ title: {titlo}
 date: {datto}
 ---
 
-{content}"""
+{content}
+<br>
+<center><small>Cross posted from my <a href='http://micro.blog/joshnicholas'>micro blog</a></small></center>
+<br>
+"""
             f.write(html)
     # except Exception as e:
     #     print(e)
