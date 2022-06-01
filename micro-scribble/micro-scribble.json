@@ -1,0 +1,7 @@
+{
+    "tags": [
+      "scribbles", "posts","micro"
+    ],
+    "layout":"layouts/micro.njk"
+  }
+  

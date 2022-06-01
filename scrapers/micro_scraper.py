@@ -16,7 +16,10 @@ for post in jsony['items']:
     linko = post['id']
     stem = linko.split('/')[-1].replace(".html", '')
 
-    if f"{stem}.md" not in os.listdir('micro/'):
+
+    # print(post.keys())
+
+    if f"{stem}.md" not in os.listdir('micro-scribble/'):
 
 
         titlo = stem.replace('-', ' ').title()    
@@ -28,7 +31,17 @@ for post in jsony['items']:
         content = re.sub(r"\s{2,}",'', content)
         content = content.strip()
         # print(content)
-        with open(f'micro/{stem}.md', 'w') as f:
+
+        out_path = 'micro'
+
+        if 'tags' in post.keys():
+            if 'Scribbles' in post['tags']:
+            
+                print(post['tags'])
+
+                out_path = 'micro-scribble'
+
+        with open(f'{out_path}/{stem}.md', 'w') as f:
 
             html = f"""---
 title: {titlo}
