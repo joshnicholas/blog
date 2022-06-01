@@ -1,4 +1,4 @@
-name: scrapers
+name: weekly graun scraper
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "3 8 * * *"
+    - cron: "0 20 * * 6"
 
 jobs:
   build-and-deploy:
@@ -23,7 +23,7 @@ jobs:
         run: pip install -r scrapers/reqts.txt
         
       - name: 🍳 Update dataset
-        run: python scrapers/run_scrapers.py
+        run: python scrapers/graun_scraper.py
         
       - name: 🚀 Commit and push if it changed
         run: |
