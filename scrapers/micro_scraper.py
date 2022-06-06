@@ -1,10 +1,10 @@
 import requests
-import json 
+import json
 import dateparser
 import os
 import re
-import time 
-import random 
+import time
+import random
 
 urlo = 'http://joshnicholas.micro.blog/feed.json'
 pattern = r'(https://joshnicholas.micro.blog/uploads\/[\/\d\w-]+\.(?:jpg|gif|png|jpeg))'
@@ -40,7 +40,7 @@ for post in jsony['items']:
 
 
         # print(post.keys())
-        titlo = stem.replace('-', ' ').title()    
+        titlo = stem.replace('-', ' ').title()
         datter = post['date_published']
         datto = dateparser.parse(datter).strftime("%Y-%m-%d")
 
@@ -53,7 +53,7 @@ for post in jsony['items']:
 
         if 'tags' in post.keys():
             if 'Scribbles' in post['tags']:
-            
+
                 print(post['tags'])
 
                 out_path = 'micro-scribble'
@@ -70,11 +70,16 @@ for post in jsony['items']:
 
                         time.sleep(random.random() * 1)
 
-                        new_stem = "!['Scribble image']({{ '/img/" + add + "' | url }} )"
+                        if len(new_stem) > 1:
+                            new_stem += "\n"
+                            new_stem += "<br>"
+                            new_stem += "\n"
+                        new_stem += "!['Scribble image']({{ '/img/" + add + "' | url }} )"
+
                         print(new_stem)
                         content = content.replace(link, '')
-                        content = re.sub('\<img .+ alt=""\s\/\>',  '', content) 
-                        # content = re.sub('\<img .+ alt=""\s\/\>',  new_stem, content)   
+                        content = re.sub('\<img .+ alt=""\s\/\>',  '', content)
+                        # content = re.sub('\<img .+ alt=""\s\/\>',  new_stem, content)
 
 
 
