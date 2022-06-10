@@ -5,12 +5,28 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-06-09T00:00:00Z</updated>
+	<updated>2022-06-10T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Too Much Grey</title>
+		<link href="https://joshnicholas.com/micro-scribble/too-much-grey/"/>
+		<updated>2022-06-10T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/too-much-grey/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/54b6324344.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Too much grey&lt;/p&gt;
+&lt;p&gt;Accidentally bought two tubes of grey paint instead of a blue and greygonna be a lot of greyscale in my future&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Fineliner And Charcoal</title>
