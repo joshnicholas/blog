@@ -5,12 +5,28 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-06-10T00:00:00Z</updated>
+	<updated>2022-06-12T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Paper Is Buckling</title>
+		<link href="https://joshnicholas.com/micro-scribble/paper-is-buckling/"/>
+		<updated>2022-06-12T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/paper-is-buckling/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/ad8002b7da.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Paper is buckling&lt;/p&gt;
+&lt;p&gt;I should probably buy some better stuff when this runs out. Screwed up the eyebrows coz it buckled and slid &lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Too Much Grey</title>
