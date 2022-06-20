@@ -5,12 +5,31 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-06-17T00:00:00Z</updated>
+	<updated>2022-06-20T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Quick Morning Sketch</title>
+		<link href="https://joshnicholas.com/micro-scribble/quick-morning-sketch/"/>
+		<updated>2022-06-20T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/quick-morning-sketch/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/de86768dcc.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://joshnicholas.com/img/b303e4a715.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Quick morning sketch&lt;/p&gt;
+&lt;p&gt;Just a few more days with this view every morning&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Lips Are Hard</title>
