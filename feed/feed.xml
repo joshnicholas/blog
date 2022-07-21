@@ -5,12 +5,30 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-07-17T00:00:00Z</updated>
+	<updated>2022-07-21T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Morning Scribbles</title>
+		<link href="https://joshnicholas.com/micro-scribble/morning-scribbles/"/>
+		<updated>2022-07-21T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/morning-scribbles/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/0633ff9c88.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://joshnicholas.com/img/cfcfa46bf5.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Morning scribbles #1&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Sketching The Rocks</title>
