@@ -5,12 +5,44 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-07-21T00:00:00Z</updated>
+	<updated>2022-07-31T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>The Stache Dunno</title>
+		<link href="https://joshnicholas.com/micro-scribble/the-stache-dunno/"/>
+		<updated>2022-07-31T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/the-stache-dunno/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/5e3ccd3d7a.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The stache&lt;/p&gt;
+&lt;p&gt;Dunno what went wrong here&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Sketching Round Surry</title>
+		<link href="https://joshnicholas.com/micro-scribble/sketching-round-surry/"/>
+		<updated>2022-07-31T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/sketching-round-surry/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/9f975ce5b9.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Sketching round Surry&lt;/p&gt;
+&lt;p&gt;Bit cartoony but also nice to get out in the sun&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Morning Scribbles</title>
