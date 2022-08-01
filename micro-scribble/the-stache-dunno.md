@@ -1,11 +1,11 @@
 ---
-title: The Stache Dunno
+title: The Stache
 date: 2022-07-31
 ---
 !['Scribble image']({{ '/img/5e3ccd3d7a.jpg' | url }} )
 <br>
 <p>The stache</p>
-<p>Dunno what went wrong here</p>
+<p>Dunno what went wrong here. Values?</p>
 
 <br>
 <br>
