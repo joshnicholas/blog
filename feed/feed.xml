@@ -5,12 +5,30 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-08-06T00:00:00Z</updated>
+	<updated>2022-08-14T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>More Rocks Drawings</title>
+		<link href="https://joshnicholas.com/micro-scribble/more-rocks-drawings/"/>
+		<updated>2022-08-14T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/more-rocks-drawings/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/8f66ee0fc9.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://joshnicholas.com/img/393531de34.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;More Rocks drawings&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Another Sunny Day</title>
