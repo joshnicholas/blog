@@ -5,12 +5,30 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-08-28T00:00:00Z</updated>
+	<updated>2022-09-03T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Some Saturday Reads</title>
+		<link href="https://joshnicholas.com/micro-scribble/some-saturday-reads/"/>
+		<updated>2022-09-03T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/some-saturday-reads/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/0c85263293.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://joshnicholas.com/img/4ab3f11d6f.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Some Saturday reads&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Watching Some Tv</title>
