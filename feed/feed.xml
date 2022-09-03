@@ -5,12 +5,27 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-09-03T00:00:00Z</updated>
+	<updated>2022-09-04T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Another Quick Coffee</title>
+		<link href="https://joshnicholas.com/micro-scribble/another-quick-coffee/"/>
+		<updated>2022-09-04T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/another-quick-coffee/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/d3b8f0afb1.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Another quick coffee&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Some Saturday Reads</title>
