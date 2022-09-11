@@ -5,12 +5,43 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-09-07T00:00:00Z</updated>
+	<updated>2022-09-11T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Solar Powered Drawing</title>
+		<link href="https://joshnicholas.com/micro-scribble/solar-powered-drawing/"/>
+		<updated>2022-09-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/solar-powered-drawing/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/879fb0c471.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Solar powered drawing&lt;/p&gt;
+&lt;p&gt;Had to stop as soon as the sun went behind the building. Starting to realise Im solar powered.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Goodbye Taylor Square</title>
+		<link href="https://joshnicholas.com/micro-scribble/goodbye-taylor-square/"/>
+		<updated>2022-09-11T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/goodbye-taylor-square/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/047539495b.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Goodbye Taylor Square&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Someone Got Styled</title>
