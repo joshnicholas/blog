@@ -10,6 +10,12 @@
     "url": "https://joshnicholas.com"
   },
   "items": [{
+      "id": "https://joshnicholas.com/micro-scribble/new-art-space/",
+      "url": "https://joshnicholas.com/micro-scribble/new-art-space/",
+      "title": "New Art Space",
+      "content_html": "<p><img src=\"https://joshnicholas.com/img/89941ee665.jpg\" alt=\"'Scribble image'\" /><br />\n<br /></p>\n<p>New art space</p>\n<p>New apartment has a whole corner just for my art stuff! First painting</p>\n<br />\n<br />\n<center><small>Cross posted from my <a href=\"http://micro.blog/joshnicholas\">micro blog</a></small></center>\n<br />\n",
+      "date_published": "2022-09-20T00:00:00Z"
+    },{
       "id": "https://joshnicholas.com/micro-scribble/solar-powered-drawing/",
       "url": "https://joshnicholas.com/micro-scribble/solar-powered-drawing/",
       "title": "Solar Powered Drawing",
