@@ -5,12 +5,29 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-10-01T00:00:00Z</updated>
+	<updated>2022-10-02T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>The Claremont Hotel</title>
+		<link href="https://joshnicholas.com/micro-scribble/the-claremont-hotel/"/>
+		<updated>2022-10-02T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/the-claremont-hotel/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/2f5ec9184a.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The Claremont hotel&lt;/p&gt;
+&lt;p&gt;Another lovely sunny day today&lt;/p&gt;
+&lt;img src=&quot;https://joshnicholas.com/micro-scribble/the-claremont-hotel/&quot; width=&quot;600&quot; height=&quot;450&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Drawing Chapel Temperance</title>
