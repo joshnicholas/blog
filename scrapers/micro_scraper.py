@@ -38,16 +38,18 @@ for post in jsony['items']:
 
     if (stem not in already_done) & (datto > "2022-01-01"):
 
+        content = post['content_html']
 
-        # print(post.keys())
+        print(post.keys())
         titlo = stem.replace('-', ' ').title()
         datter = post['date_published']
         datto = dateparser.parse(datter).strftime("%Y-%m-%d")
 
-        content = post['content_html']
         content = re.sub(r"[^\x00-\x7F]+",'', content)
         content = re.sub(r"\s{2,}",'', content)
         content = content.strip()
+
+
 
         out_path = 'micro'
 
@@ -79,7 +81,10 @@ for post in jsony['items']:
                         print(new_stem)
                         content = content.replace(link, '')
                         content = re.sub('\<img .+ alt=""\s\/\>',  '', content)
+                        content = re.sub('\<img .+ alt=""\>',  '', content)
+                        
                         # content = re.sub('\<img .+ alt=""\s\/\>',  new_stem, content)
+                        print(content)
 
 
 
