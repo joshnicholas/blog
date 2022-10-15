@@ -5,12 +5,28 @@
 	
 	<link href="https://joshnicholas.com/feed/feed.xml" rel="self"/>
 	<link href="https://joshnicholas.com/"/>
-	<updated>2022-10-11T00:00:00Z</updated>
+	<updated>2022-10-15T00:00:00Z</updated>
 	<id>https://joshnicholas.com/</id>
 	<author>
 		<name>Josh Nicholas</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>A Gloomy Fountain</title>
+		<link href="https://joshnicholas.com/micro-scribble/a-gloomy-fountain/"/>
+		<updated>2022-10-15T00:00:00Z</updated>
+		<id>https://joshnicholas.com/micro-scribble/a-gloomy-fountain/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://joshnicholas.com/img/9f99c14dbf.jpg&quot; alt=&quot;&#39;Scribble image&#39;&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;A gloomy fountain&lt;/p&gt;
+&lt;p&gt;No sun today.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;small&gt;Cross posted from my &lt;a href=&quot;http://micro.blog/joshnicholas&quot;&gt;micro blog&lt;/a&gt;&lt;/small&gt;&lt;/center&gt;
+&lt;br /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Landscapes Are Tough</title>
